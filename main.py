@@ -79,7 +79,7 @@ def filter_and_classify_coupons(coupons: dict) -> [dict, dict]:
             for coupon in coupons_list:
                 if "<新人专享>" not in coupon["couponName"] and "品牌" in coupon["couponName"]:
                     discount_diff = coupon['minOrderMoney'] - coupon['couponAmount']
-                    if discount_diff <= 15:
+                    if discount_diff <= 2:
                         valid_coupons.append(coupon)
     print(f"有效的优惠券：{[i['couponName'] for i in valid_coupons]} ")
 
