@@ -1,8 +1,6 @@
-## ![](https://socialify.git.ci/xiaowine/szlcsc-help/image?description=1&descriptionEditable=一个帮助选择立创商城优惠券的网站工具&language=1&name=1&owner=1&theme=Auto)
-
 # 🛍️ 立创商城优惠券助手
 
-[![Deploy to GitHub Pages](https://github.com/xiaowine/szlcsc-help/actions/workflows/run.yml/badge.svg)](https://github.com/xiaowine/szlcsc-help/actions/workflows/run.yml)  
+[![Deploy to GitHub Pages](https://github.com/shawn996/szlcsc-help/actions/workflows/run.yml/badge.svg)](https://github.com/shawn996/szlcsc-help/actions/workflows/run.yml)
 一个帮助选择立创商城优惠券的网站工具。
 
 ## 📝 项目简介
@@ -27,7 +25,7 @@
 ## 🎯 筛选条件
 
 - 🚫 排除新人专享优惠券
-- 💰 仅显示优惠后消费金额小于 15 元的优惠券
+- 💰 仅显示优惠后消费金额小于 2 元的优惠券
 - 🏢 仅显示品牌优惠券
 
 ## 🤖 自动更新
@@ -37,16 +35,12 @@
 - 📅 每月 1-7 号每天 10 点更新一次
 - 🔄 每周二和周五更新一次
 
-## 🌐 在线访问
-
-[szlcsc-help.xiaowine.cc](https://szlcsc-help.xiaowine.cc/)
-
 ## 🚀 本地运行
 
 1. 克隆项目
 
 ```bash
-git clone https://github.com/xiaowine/szlcsc-help.git
+git clone https://github.com/shawn996/szlcsc-help.git
 cd szlcsc-help
 ```
 
@@ -81,17 +75,3 @@ python -m http.server 8080
 - 🐍 Python
 - 🎨 HTML/CSS/JavaScript
 - 🔄 GitHub Actions
-
-## 📱 网页预览
-
-<details>
-<summary>点击查看预览图</summary>
-
-![网页预览1](/pic/preview1.png)
-![网页预览2](/pic/preview2.png)
-
-</details>
-
-## 📊 项目统计
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xiaowine/szlcsc-help&type=Timeline)](https://star-history.com/#xiaowine/szlcsc-help&Timeline)
