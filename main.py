@@ -86,7 +86,7 @@ def filter_and_classify_coupons(coupons: dict) -> [dict, dict]:
     valid_coupons_count = len(valid_coupons)
     print(f"总共需要处理 {valid_coupons_count} 个有效优惠券")
 
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         # 提交详细优惠券信息处理任务
         detail_futures = {executor.submit(parse_coupon_details, coupon): coupon for coupon in valid_coupons}
         # 提交简单优惠券信息处理任务
