@@ -45,7 +45,14 @@ class CouponApp {
         const response = await fetch('coupon_details.json');
         this.data = await response.json();
         this.categories = Object.keys(this.data);
-        this.brandCount = Object.values(this.data).flat().length;
+        // 使用 Set 去重统计品牌数
+        const brandNameSet = new Set();
+        for (const category of this.categories) {
+            for (const coupon of this.data[category]) {
+                brandNameSet.add(coupon['brand_name']);
+            }
+        }
+        this.brandCount = brandNameSet.size;
         document.getElementById('loading').style.display = 'none';
         document.getElementById('count').textContent =
             `品牌数：${this.brandCount}，分类数：${this.categories.length}`;
