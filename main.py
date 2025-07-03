@@ -19,7 +19,15 @@ def fetch_api_data(url: str) -> dict | None:
             session.headers.update(browser_headers)
             api_response = session.get(url)
             api_response.raise_for_status()
-            return api_response.json()
+            if not api_response.text or not api_response.text.strip():
+                print("API响应为空")
+                return None
+            try:
+                return api_response.json()
+            except Exception as json_err:
+                print(f"JSON解析失败: {json_err}")
+                print(f"响应内容: {api_response.text}")
+                return None
     except requests.RequestException as error:
         print(f"API请求失败: {error}")
         return None
