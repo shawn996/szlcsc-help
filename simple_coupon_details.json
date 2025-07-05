@@ -1181,5 +1181,19 @@
     "brand_id": "18282",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "17310": {
+    "coupon_name": "15元信德品牌优惠",
+    "brand_name": "SDTRUVAL(信德)",
+    "brand_id": "17310",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18649": {
+    "coupon_name": "15元逸致品牌优惠",
+    "brand_name": "YIZHI(逸致)",
+    "brand_id": "18649",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
   }
 }
