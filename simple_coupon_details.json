@@ -1168,6 +1168,41 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "11678": {
+    "coupon_name": "15元全鹏品牌优惠",
+    "brand_name": "CHAMPION(全鹏)",
+    "brand_id": "11678",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15273": {
+    "coupon_name": "15元海川品牌优惠",
+    "brand_name": "HICHON(海川)",
+    "brand_id": "15273",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16013": {
+    "coupon_name": "15元摩天射频品牌优惠",
+    "brand_name": "MyAntenna(摩天射频)",
+    "brand_id": "16013",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17129": {
+    "coupon_name": "15元华明通品牌优惠",
+    "brand_name": "HMTCONN(华明通)",
+    "brand_id": "17129",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15451": {
+    "coupon_name": "15元得润电子品牌优惠",
+    "brand_name": "DEREN(得润电子)",
+    "brand_id": "15451",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "17450": {
     "coupon_name": "15元金臂品牌优惠",
     "brand_name": "JINBI(金臂)",
@@ -1179,13 +1214,6 @@
     "coupon_name": "15元LZG品牌优惠",
     "brand_name": "LZG",
     "brand_id": "18282",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17310": {
-    "coupon_name": "15元信德品牌优惠",
-    "brand_name": "SDTRUVAL(信德)",
-    "brand_id": "17310",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
