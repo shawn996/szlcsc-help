@@ -1203,6 +1203,27 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "11549": {
+    "coupon_name": "15元安邦品牌优惠",
+    "brand_name": "AnBon(安邦)",
+    "brand_id": "11549",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16622": {
+    "coupon_name": "15元德砚电子品牌优惠",
+    "brand_name": "DEYAN(德砚电子)",
+    "brand_id": "16622",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18554": {
+    "coupon_name": "15元晶力源品牌优惠",
+    "brand_name": "JLYE(晶力源)",
+    "brand_id": "18554",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "17450": {
     "coupon_name": "15元金臂品牌优惠",
     "brand_name": "JINBI(金臂)",
