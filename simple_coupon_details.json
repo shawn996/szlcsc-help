@@ -1224,6 +1224,20 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "18673": {
+    "coupon_name": "15元佑驰品牌优惠",
+    "brand_name": "YOUCHI(佑驰)",
+    "brand_id": "18673",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18771": {
+    "coupon_name": "15元兴华鑫品牌优惠",
+    "brand_name": "XHXDZ(兴华鑫)",
+    "brand_id": "18771",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "17450": {
     "coupon_name": "15元金臂品牌优惠",
     "brand_name": "JINBI(金臂)",
