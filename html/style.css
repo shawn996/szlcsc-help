@@ -393,6 +393,8 @@ body {
   z-index: 1001;
   align-items: center;
   justify-content: center;
+  width: 100vw;
+  height: 100vh;
 }
 
 .modal-content {
@@ -415,9 +417,17 @@ body {
   right: 10px;
   background: none;
   border: none;
-  font-size: 1.5em;
+  font-size: 2.5em;
   cursor: pointer;
   color: var(--text-color);
+}
+
+@media (max-width: 768px) {
+  .close-button {
+    font-size: 2.5em;
+    top: 5px;
+    right: 5px;
+  }
 }
 
 /* 适配移动端 */
