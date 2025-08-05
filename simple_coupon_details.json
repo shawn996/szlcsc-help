@@ -13,6 +13,13 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
+  "14041": {
+    "coupon_name": "蓝图微电品牌券",
+    "brand_name": "LanTu Micro(蓝图微电)",
+    "brand_id": "14041",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "12547": {
     "coupon_name": "德律风根品牌券",
     "brand_name": "TFSS(德律风根)",
@@ -500,6 +507,27 @@
     "coupon_name": "匠芯微品牌券",
     "brand_name": "Waferbest(匠芯微)",
     "brand_id": "17395",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11549": {
+    "coupon_name": "安邦品牌券",
+    "brand_name": "AnBon(安邦)",
+    "brand_id": "11549",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12510": {
+    "coupon_name": "佑风微品牌券",
+    "brand_name": "YFW(佑风微)",
+    "brand_id": "12510",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12737": {
+    "coupon_name": "博众电气品牌券",
+    "brand_name": "BZCN(博众电气)",
+    "brand_id": "12737",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1182,10 +1210,17 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "14041": {
-    "coupon_name": "蓝图微电品牌券",
-    "brand_name": "LanTu Micro(蓝图微电)",
-    "brand_id": "14041",
+  "18649": {
+    "coupon_name": "15元逸致品牌券",
+    "brand_name": "YIZHI(逸致)",
+    "brand_id": "18649",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17310": {
+    "coupon_name": "15元信德品牌券",
+    "brand_name": "SDTRUVAL(信德)",
+    "brand_id": "17310",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   }
