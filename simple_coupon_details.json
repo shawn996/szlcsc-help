@@ -13,104 +13,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "12520": {
-    "coupon_name": "志得品牌券",
-    "brand_name": "ZHIDE(志得)",
-    "brand_id": "12520",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12245": {
-    "coupon_name": "固得沃克品牌券",
-    "brand_name": "GOODWORK(固得沃克)",
-    "brand_id": "12245",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15358": {
-    "coupon_name": "台懋品牌券",
-    "brand_name": "TMC(台懋)",
-    "brand_id": "15358",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16616": {
-    "coupon_name": "恒拓电子品牌券",
-    "brand_name": "恒拓电子",
-    "brand_id": "16616",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16607": {
-    "coupon_name": "杜因特品牌券",
-    "brand_name": "DOINGTER(杜因特)",
-    "brand_id": "16607",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15464": {
-    "coupon_name": "陆特品牌券",
-    "brand_name": "LUTE(陆特)",
-    "brand_id": "15464",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15783": {
-    "coupon_name": "奥特品牌券",
-    "brand_name": "AOTE(奥特)",
-    "brand_id": "15783",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17201": {
-    "coupon_name": "晶泰达品牌券",
-    "brand_name": "JTD(晶泰达)",
-    "brand_id": "17201",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17296": {
-    "coupon_name": "矽门微品牌券",
-    "brand_name": "Semiwell(矽门微)",
-    "brand_id": "17296",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11602": {
-    "coupon_name": "驰兴电感品牌券",
-    "brand_name": "Coilank(驰兴电感)",
-    "brand_id": "11602",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "991": {
-    "coupon_name": "荣誉品牌券",
-    "brand_name": "HONOR(荣誉)",
-    "brand_id": "991",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12606": {
-    "coupon_name": "比诺星品牌券",
-    "brand_name": "BNstar(比诺星)",
-    "brand_id": "12606",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12072": {
-    "coupon_name": "谱罗德品牌券",
-    "brand_name": "PROD(谱罗德)",
-    "brand_id": "12072",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11854": {
-    "coupon_name": "宝乘品牌券",
-    "brand_name": "baocheng(宝乘)",
-    "brand_id": "11854",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "17208": {
     "coupon_name": "徕飞品牌券",
     "brand_name": "Nyfea(徕飞)",
@@ -1217,17 +1119,108 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "12520": {
+    "coupon_name": "志得品牌券",
+    "brand_name": "ZHIDE(志得)",
+    "brand_id": "12520",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12245": {
+    "coupon_name": "固得沃克品牌券",
+    "brand_name": "GOODWORK(固得沃克)",
+    "brand_id": "12245",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15358": {
+    "coupon_name": "台懋品牌券",
+    "brand_name": "TMC(台懋)",
+    "brand_id": "15358",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16616": {
+    "coupon_name": "恒拓电子品牌券",
+    "brand_name": "恒拓电子",
+    "brand_id": "16616",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16607": {
+    "coupon_name": "杜因特品牌券",
+    "brand_name": "DOINGTER(杜因特)",
+    "brand_id": "16607",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15464": {
+    "coupon_name": "陆特品牌券",
+    "brand_name": "LUTE(陆特)",
+    "brand_id": "15464",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15783": {
+    "coupon_name": "奥特品牌券",
+    "brand_name": "AOTE(奥特)",
+    "brand_id": "15783",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17201": {
+    "coupon_name": "晶泰达品牌券",
+    "brand_name": "JTD(晶泰达)",
+    "brand_id": "17201",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17296": {
+    "coupon_name": "矽门微品牌券",
+    "brand_name": "Semiwell(矽门微)",
+    "brand_id": "17296",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11602": {
+    "coupon_name": "驰兴电感品牌券",
+    "brand_name": "Coilank(驰兴电感)",
+    "brand_id": "11602",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "991": {
+    "coupon_name": "荣誉品牌券",
+    "brand_name": "HONOR(荣誉)",
+    "brand_id": "991",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12606": {
+    "coupon_name": "比诺星品牌券",
+    "brand_name": "BNstar(比诺星)",
+    "brand_id": "12606",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12072": {
+    "coupon_name": "谱罗德品牌券",
+    "brand_name": "PROD(谱罗德)",
+    "brand_id": "12072",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11854": {
+    "coupon_name": "宝乘品牌券",
+    "brand_name": "baocheng(宝乘)",
+    "brand_id": "11854",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "18649": {
     "coupon_name": "15元逸致品牌券",
     "brand_name": "YIZHI(逸致)",
     "brand_id": "18649",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17310": {
-    "coupon_name": "15元信德品牌券",
-    "brand_name": "SDTRUVAL(信德)",
-    "brand_id": "17310",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   }
