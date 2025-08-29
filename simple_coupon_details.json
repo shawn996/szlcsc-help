@@ -6,76 +6,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "12737": {
-    "coupon_name": "博众电气品牌券",
-    "brand_name": "BZCN(博众电气)",
-    "brand_id": "12737",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15481": {
-    "coupon_name": "华龙品牌券",
-    "brand_name": "Dragonstate(华龙)",
-    "brand_id": "15481",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11440": {
-    "coupon_name": "顺磁品牌券",
-    "brand_name": "Sunltech(顺磁)",
-    "brand_id": "11440",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12404": {
-    "coupon_name": "天成品牌券",
-    "brand_name": "TCWIN(天成)",
-    "brand_id": "12404",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "18832": {
-    "coupon_name": "鲁晶品牌券",
-    "brand_name": "luJing(鲁晶)",
-    "brand_id": "18832",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16251": {
-    "coupon_name": "毅芯达品牌券",
-    "brand_name": "Existar(毅芯达)",
-    "brand_id": "16251",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15353": {
-    "coupon_name": "正成品牌券",
-    "brand_name": "CAZN(正成)",
-    "brand_id": "15353",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15372": {
-    "coupon_name": "勤本品牌券",
-    "brand_name": "CHIN-BAN(勤本)",
-    "brand_id": "15372",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12731": {
-    "coupon_name": "敏源传感品牌券",
-    "brand_name": "Mysentech(敏源传感)",
-    "brand_id": "12731",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11608": {
-    "coupon_name": "萨科微品牌券",
-    "brand_name": "Slkor(萨科微)",
-    "brand_id": "11608",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12460": {
     "coupon_name": "捷容品牌券",
     "brand_name": "JIERONG(捷容)",
@@ -1256,6 +1186,76 @@
     "coupon_name": "佑风微品牌券",
     "brand_name": "YFW(佑风微)",
     "brand_id": "12510",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12737": {
+    "coupon_name": "博众电气品牌券",
+    "brand_name": "BZCN(博众电气)",
+    "brand_id": "12737",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15481": {
+    "coupon_name": "华龙品牌券",
+    "brand_name": "Dragonstate(华龙)",
+    "brand_id": "15481",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11440": {
+    "coupon_name": "顺磁品牌券",
+    "brand_name": "Sunltech(顺磁)",
+    "brand_id": "11440",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12404": {
+    "coupon_name": "天成品牌券",
+    "brand_name": "TCWIN(天成)",
+    "brand_id": "12404",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18832": {
+    "coupon_name": "鲁晶品牌券",
+    "brand_name": "luJing(鲁晶)",
+    "brand_id": "18832",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16251": {
+    "coupon_name": "毅芯达品牌券",
+    "brand_name": "Existar(毅芯达)",
+    "brand_id": "16251",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15353": {
+    "coupon_name": "正成品牌券",
+    "brand_name": "CAZN(正成)",
+    "brand_id": "15353",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15372": {
+    "coupon_name": "勤本品牌券",
+    "brand_name": "CHIN-BAN(勤本)",
+    "brand_id": "15372",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12731": {
+    "coupon_name": "敏源传感品牌券",
+    "brand_name": "Mysentech(敏源传感)",
+    "brand_id": "12731",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11608": {
+    "coupon_name": "萨科微品牌券",
+    "brand_name": "Slkor(萨科微)",
+    "brand_id": "11608",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
