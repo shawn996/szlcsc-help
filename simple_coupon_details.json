@@ -6,76 +6,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "16003": {
-    "coupon_name": "25元技象科技品牌券",
-    "brand_name": "techphant(技象科技)",
-    "brand_id": "16003",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "12460": {
-    "coupon_name": "25元捷容品牌券",
-    "brand_name": "JIERONG(捷容)",
-    "brand_id": "12460",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "17064": {
-    "coupon_name": "20元成希品牌券",
-    "brand_name": "DGCX(成希)",
-    "brand_id": "17064",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "12113": {
-    "coupon_name": "15元业展品牌券",
-    "brand_name": "yezhan(业展)",
-    "brand_id": "12113",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15271": {
-    "coupon_name": "15元恒利泰品牌券",
-    "brand_name": "HenryTech(恒利泰)",
-    "brand_id": "15271",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15353": {
-    "coupon_name": "15元正成品牌券",
-    "brand_name": "CAZN(正成)",
-    "brand_id": "15353",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17127": {
-    "coupon_name": "15元德诺菲品牌券",
-    "brand_name": "AntennaHome(德诺菲)",
-    "brand_id": "17127",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12510": {
-    "coupon_name": "15元佑风微品牌券",
-    "brand_name": "YFW(佑风微)",
-    "brand_id": "12510",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12297": {
-    "coupon_name": "15元拓展光电品牌券",
-    "brand_name": "TUOZHAN(拓展光电)",
-    "brand_id": "12297",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16031": {
-    "coupon_name": "15元旭茂微品牌券",
-    "brand_name": "XUMAO(旭茂微)",
-    "brand_id": "16031",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "13374": {
     "coupon_name": "15元钜兴品牌券",
     "brand_name": "JUXING(钜兴)",
@@ -1307,5 +1237,117 @@
     "brand_id": "11438",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "16003": {
+    "coupon_name": "25元技象科技品牌券",
+    "brand_name": "techphant(技象科技)",
+    "brand_id": "16003",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "12460": {
+    "coupon_name": "25元捷容品牌券",
+    "brand_name": "JIERONG(捷容)",
+    "brand_id": "12460",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "17064": {
+    "coupon_name": "20元成希品牌券",
+    "brand_name": "DGCX(成希)",
+    "brand_id": "17064",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "12113": {
+    "coupon_name": "15元业展品牌券",
+    "brand_name": "yezhan(业展)",
+    "brand_id": "12113",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15271": {
+    "coupon_name": "15元恒利泰品牌券",
+    "brand_name": "HenryTech(恒利泰)",
+    "brand_id": "15271",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15353": {
+    "coupon_name": "15元正成品牌券",
+    "brand_name": "CAZN(正成)",
+    "brand_id": "15353",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17127": {
+    "coupon_name": "15元德诺菲品牌券",
+    "brand_name": "AntennaHome(德诺菲)",
+    "brand_id": "17127",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12510": {
+    "coupon_name": "15元佑风微品牌券",
+    "brand_name": "YFW(佑风微)",
+    "brand_id": "12510",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12297": {
+    "coupon_name": "15元拓展光电品牌券",
+    "brand_name": "TUOZHAN(拓展光电)",
+    "brand_id": "12297",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16031": {
+    "coupon_name": "15元旭茂微品牌券",
+    "brand_name": "XUMAO(旭茂微)",
+    "brand_id": "16031",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17310": {
+    "coupon_name": "15元信德品牌工业品券",
+    "brand_name": "SDTRUVAL(信德)",
+    "brand_id": "17310",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18282": {
+    "coupon_name": "15元LZG品牌工业品券",
+    "brand_name": "LZG",
+    "brand_id": "18282",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18649": {
+    "coupon_name": "15元逸致品牌工业品券",
+    "brand_name": "YIZHI(逸致)",
+    "brand_id": "18649",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15210": {
+    "coupon_name": "10元麦科信品牌工业品券",
+    "brand_name": "micsig(麦科信)",
+    "brand_id": "15210",
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0
+  },
+  "16051": {
+    "coupon_name": "11元伊万视波品牌工业品券",
+    "brand_name": "伊万视波",
+    "brand_id": "16051",
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0
+  },
+  "18262": {
+    "coupon_name": "9元超创品牌工业品券",
+    "brand_name": "CHAOCHUANG(超创)",
+    "brand_id": "18262",
+    "min_order_amount": 10.0,
+    "coupon_amount": 9.0
   }
 }
