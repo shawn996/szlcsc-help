@@ -6,97 +6,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "12425": {
-    "coupon_name": "15元VISOM品牌券",
-    "brand_name": "VISOM",
-    "brand_id": "12425",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15280": {
-    "coupon_name": "15元爱普微品牌券",
-    "brand_name": "APV(爱普微)",
-    "brand_id": "15280",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15584": {
-    "coupon_name": "15元芯伯乐品牌券",
-    "brand_name": "XBLW(芯伯乐)",
-    "brand_id": "15584",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12406": {
-    "coupon_name": "15元富芯森美品牌券",
-    "brand_name": "FUXINSEMI(富芯森美)",
-    "brand_id": "12406",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12520": {
-    "coupon_name": "15元志得品牌券",
-    "brand_name": "ZHIDE(志得)",
-    "brand_id": "12520",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "14038": {
-    "coupon_name": "15元静芯品牌券",
-    "brand_name": "ElecSuper(静芯)",
-    "brand_id": "14038",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11393": {
-    "coupon_name": "15元伯恩半导体品牌券",
-    "brand_name": "BORN(伯恩半导体)",
-    "brand_id": "11393",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15358": {
-    "coupon_name": "15元台懋品牌券",
-    "brand_name": "TMC(台懋)",
-    "brand_id": "15358",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "164": {
-    "coupon_name": "15元MDD品牌券",
-    "brand_name": "MDD(辰达半导体)",
-    "brand_id": "164",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16616": {
-    "coupon_name": "15元恒拓电子品牌券",
-    "brand_name": "恒拓电子",
-    "brand_id": "16616",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16607": {
-    "coupon_name": "15元杜因特品牌券",
-    "brand_name": "DOINGTER(杜因特)",
-    "brand_id": "16607",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17201": {
-    "coupon_name": "15元晶泰达品牌券",
-    "brand_name": "JTD(晶泰达)",
-    "brand_id": "17201",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17296": {
-    "coupon_name": "15元矽门微品牌券",
-    "brand_name": "Semiwell(矽门微)",
-    "brand_id": "17296",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "1181": {
     "coupon_name": "15元雅晶鑫品牌券",
     "brand_name": "YJX(雅晶鑫)",
@@ -1319,6 +1228,90 @@
     "coupon_name": "15元国睿品牌券",
     "brand_name": "GR(国睿)",
     "brand_id": "15555",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12425": {
+    "coupon_name": "15元VISOM品牌券",
+    "brand_name": "VISOM",
+    "brand_id": "12425",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15280": {
+    "coupon_name": "15元爱普微品牌券",
+    "brand_name": "APV(爱普微)",
+    "brand_id": "15280",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15584": {
+    "coupon_name": "15元芯伯乐品牌券",
+    "brand_name": "XBLW(芯伯乐)",
+    "brand_id": "15584",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12406": {
+    "coupon_name": "15元富芯森美品牌券",
+    "brand_name": "FUXINSEMI(富芯森美)",
+    "brand_id": "12406",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12520": {
+    "coupon_name": "15元志得品牌券",
+    "brand_name": "ZHIDE(志得)",
+    "brand_id": "12520",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "14038": {
+    "coupon_name": "15元静芯品牌券",
+    "brand_name": "ElecSuper(静芯)",
+    "brand_id": "14038",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11393": {
+    "coupon_name": "15元伯恩半导体品牌券",
+    "brand_name": "BORN(伯恩半导体)",
+    "brand_id": "11393",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15358": {
+    "coupon_name": "15元台懋品牌券",
+    "brand_name": "TMC(台懋)",
+    "brand_id": "15358",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16616": {
+    "coupon_name": "15元恒拓电子品牌券",
+    "brand_name": "恒拓电子",
+    "brand_id": "16616",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16607": {
+    "coupon_name": "15元杜因特品牌券",
+    "brand_name": "DOINGTER(杜因特)",
+    "brand_id": "16607",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17201": {
+    "coupon_name": "15元晶泰达品牌券",
+    "brand_name": "JTD(晶泰达)",
+    "brand_id": "17201",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17296": {
+    "coupon_name": "15元矽门微品牌券",
+    "brand_name": "Semiwell(矽门微)",
+    "brand_id": "17296",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
