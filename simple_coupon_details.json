@@ -195,13 +195,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12404": {
-    "coupon_name": "15元天成品牌券",
-    "brand_name": "TCWIN(天成)",
-    "brand_id": "12404",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "13045": {
     "coupon_name": "15元富捷/富信品牌券",
     "brand_name": "FOSAN(富捷/富信)",
@@ -1361,6 +1354,13 @@
     "coupon_name": "15元上海矽朋品牌券",
     "brand_name": "Siproin(上海矽朋)",
     "brand_id": "11694",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18864": {
+    "coupon_name": "15元鑫亿晶科技品牌券",
+    "brand_name": "xinyijing technology(鑫亿晶科技)",
+    "brand_id": "18864",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
