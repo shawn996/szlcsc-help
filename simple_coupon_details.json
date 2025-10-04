@@ -6,48 +6,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "12460": {
-    "coupon_name": "25元捷容品牌券",
-    "brand_name": "JIERONG(捷容)",
-    "brand_id": "12460",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "17064": {
-    "coupon_name": "20元成希品牌券",
-    "brand_name": "DGCX(成希)",
-    "brand_id": "17064",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "17513": {
-    "coupon_name": "15元诚韬品牌券",
-    "brand_name": "ChengTao(诚韬)",
-    "brand_id": "17513",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12467": {
-    "coupon_name": "15元登壹品牌券",
-    "brand_name": "MINGSTAR(登壹)",
-    "brand_id": "12467",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12498": {
-    "coupon_name": "15元振宝佳品牌券",
-    "brand_name": "DMBJ(振宝佳)",
-    "brand_id": "12498",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "13141": {
-    "coupon_name": "15元德立品牌券",
-    "brand_name": "DDY(德立)",
-    "brand_id": "13141",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "13487": {
     "coupon_name": "15元久亦品牌券",
     "brand_name": "JOEY(久亦)",
@@ -1315,10 +1273,45 @@
     "min_order_amount": 26.0,
     "coupon_amount": 25.0
   },
-  "17310": {
-    "coupon_name": "15元信德品牌工业品券",
-    "brand_name": "SDTRUVAL(信德)",
-    "brand_id": "17310",
+  "12460": {
+    "coupon_name": "25元捷容品牌券",
+    "brand_name": "JIERONG(捷容)",
+    "brand_id": "12460",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "17064": {
+    "coupon_name": "20元成希品牌券",
+    "brand_name": "DGCX(成希)",
+    "brand_id": "17064",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "17513": {
+    "coupon_name": "15元诚韬品牌券",
+    "brand_name": "ChengTao(诚韬)",
+    "brand_id": "17513",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12467": {
+    "coupon_name": "15元登壹品牌券",
+    "brand_name": "MINGSTAR(登壹)",
+    "brand_id": "12467",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12498": {
+    "coupon_name": "15元振宝佳品牌券",
+    "brand_name": "DMBJ(振宝佳)",
+    "brand_id": "12498",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "13141": {
+    "coupon_name": "15元德立品牌券",
+    "brand_name": "DDY(德立)",
+    "brand_id": "13141",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
