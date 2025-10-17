@@ -489,13 +489,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "17127": {
-    "coupon_name": "15元德诺菲品牌券",
-    "brand_name": "AntennaHome(德诺菲)",
-    "brand_id": "17127",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "15462": {
     "coupon_name": "15元安芯微半导体品牌券",
     "brand_name": "ISOMICRON(安芯微半导体)",
@@ -1252,27 +1245,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "17355": {
-    "coupon_name": "15元联芯品牌券",
-    "brand_name": "OTW(联芯)",
-    "brand_id": "17355",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11599": {
-    "coupon_name": "15元利明品牌券",
-    "brand_name": "LIMING(利明)",
-    "brand_id": "11599",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11943": {
-    "coupon_name": "15元台思科品牌券",
-    "brand_name": "Taisko(台思科)",
-    "brand_id": "11943",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "11722": {
     "coupon_name": "15元中国星坤品牌券",
     "brand_name": "XKB Connection(中国星坤)",
@@ -1361,6 +1333,20 @@
     "coupon_name": "15元台舟品牌券",
     "brand_name": "TECH PUBLIC(台舟)",
     "brand_id": "12241",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "13045": {
+    "coupon_name": "15元富捷/富信品牌券",
+    "brand_name": "FOSAN(富捷/富信)",
+    "brand_id": "13045",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "24427": {
+    "coupon_name": "15元国连品牌券",
+    "brand_name": "GUOCONN(国连)",
+    "brand_id": "24427",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
