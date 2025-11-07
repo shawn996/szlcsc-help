@@ -2324,6 +2324,29 @@
         "轻触开关",
         "音频连接器(耳机)"
       ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
+      ]
     }
   ],
   "EEPROM": [
@@ -3286,6 +3309,29 @@
         "轻触开关",
         "音频连接器(耳机)"
       ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
+      ]
     }
   ],
   "FFC连接线(柔性扁平线缆)": [
@@ -4008,6 +4054,29 @@
         "插拔式接线端子",
         "汽车连接器",
         "线对板针座"
+      ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
       ]
     }
   ],
@@ -6651,6 +6720,29 @@
         "螺钉式接线端子",
         "行程开关",
         "轻触开关",
+        "音频连接器(耳机)"
+      ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
         "音频连接器(耳机)"
       ]
     }
@@ -9387,6 +9479,29 @@
         "静电和浪涌保护(TVS/ESD)",
         "音频连接器(耳机)"
       ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
+      ]
     }
   ],
   "V/F和F/V转换芯片": [
@@ -10164,30 +10279,6 @@
         "线性稳压器(LDO)",
         "肖特基二极管",
         "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
@@ -11006,6 +11097,29 @@
         "插拔式接线端子",
         "汽车连接器",
         "线对板针座"
+      ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
       ]
     }
   ],
@@ -13969,21 +14083,6 @@
         "固液混合铝电解电容器",
         "贴片型铝电解电容"
       ]
-    },
-    {
-      "coupon_name": "15元宏远纳川品牌券",
-      "brand_name": "HYNCDZ(宏远纳川)",
-      "brand_id": "12727",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 531,
-      "catalog_groups": [
-        "固态电容",
-        "直插铝电解电容",
-        "贴片型铝电解电容"
-      ]
     }
   ],
   "固态继电器(MOS输出)": [
@@ -14619,30 +14718,6 @@
         "线性稳压器(LDO)",
         "肖特基二极管",
         "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
@@ -16497,30 +16572,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "开关电源": [
@@ -17043,30 +17094,6 @@
         "线性稳压器(LDO)",
         "肖特基二极管",
         "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
@@ -18478,6 +18505,29 @@
         "汽车连接器",
         "线对板针座"
       ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
+      ]
     }
   ],
   "排针": [
@@ -19063,6 +19113,29 @@
         "汽车连接器",
         "线对板针座"
       ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
+      ]
     }
   ],
   "接近传感器": [
@@ -19487,6 +19560,29 @@
         "插拔式接线端子",
         "汽车连接器",
         "线对板针座"
+      ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
       ]
     }
   ],
@@ -20345,30 +20441,6 @@
         "线性稳压器(LDO)",
         "肖特基二极管",
         "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
@@ -26353,30 +26425,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "电容传感IC": [
@@ -28067,21 +28115,6 @@
         "直插铝电解电容",
         "贴片型铝电解电容"
       ]
-    },
-    {
-      "coupon_name": "15元宏远纳川品牌券",
-      "brand_name": "HYNCDZ(宏远纳川)",
-      "brand_id": "12727",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 531,
-      "catalog_groups": [
-        "固态电容",
-        "直插铝电解电容",
-        "贴片型铝电解电容"
-      ]
     }
   ],
   "短路帽/跳线帽": [
@@ -28760,30 +28793,6 @@
         "音频功率放大器",
         "音频接口芯片"
       ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "碳化硅场效应管(MOSFET)": [
@@ -28881,30 +28890,6 @@
         "肖特基二极管",
         "超势垒整流器(SBR)",
         "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
@@ -29703,30 +29688,6 @@
         "轻触开关",
         "静电和浪涌保护(TVS/ESD)",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -30837,6 +30798,29 @@
         "线对板针座",
         "连接器外壳",
         "金手指连接器"
+      ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
+        "音频连接器(耳机)"
       ]
     }
   ],
@@ -32421,30 +32405,6 @@
         "线性稳压器(LDO)",
         "肖特基二极管",
         "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
@@ -35179,21 +35139,6 @@
       "catalog_groups": [
         "固态电容",
         "固液混合铝电解电容器",
-        "贴片型铝电解电容"
-      ]
-    },
-    {
-      "coupon_name": "15元宏远纳川品牌券",
-      "brand_name": "HYNCDZ(宏远纳川)",
-      "brand_id": "12727",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 531,
-      "catalog_groups": [
-        "固态电容",
-        "直插铝电解电容",
         "贴片型铝电解电容"
       ]
     }
@@ -37960,30 +37905,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "逻辑输出光耦": [
@@ -39798,30 +39719,6 @@
         "静电和浪涌保护(TVS/ESD)",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元安邦品牌券",
-      "brand_name": "AnBon(安邦)",
-      "brand_id": "11549",
-      "activity_name": "25年11月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 526,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "音频功率放大器": [
@@ -40725,6 +40622,29 @@
         "蓝牙模块",
         "轻触开关",
         "静电和浪涌保护(TVS/ESD)",
+        "音频连接器(耳机)"
+      ]
+    },
+    {
+      "coupon_name": "15元虹成电子品牌券",
+      "brand_name": "HC(虹成电子)",
+      "brand_id": "15376",
+      "activity_name": "25年11月品牌推广活动",
+      "min_order_amount": 16.0,
+      "coupon_amount": 15.0,
+      "min_order_after_discount": 1.0,
+      "receive_customer_num": 658,
+      "catalog_groups": [
+        "DisplayPort(DP)连接器",
+        "FFC/FPC连接器",
+        "HDMI连接器",
+        "RF射频同轴连接器",
+        "USB连接器",
+        "以太网连接器(RJ45 RJ11)",
+        "排母",
+        "排针",
+        "插拔式接线端子",
+        "线对板针座",
         "音频连接器(耳机)"
       ]
     }
