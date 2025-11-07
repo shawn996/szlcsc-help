@@ -1504,6 +1504,13 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "12467": {
+    "coupon_name": "15元登壹品牌券",
+    "brand_name": "MINGSTAR(登壹)",
+    "brand_id": "12467",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "17159": {
     "coupon_name": "15元康宏电子品牌商品券",
     "brand_name": "Khon(康宏电子)",
