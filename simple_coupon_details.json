@@ -853,13 +853,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12298": {
-    "coupon_name": "15元宝成品牌券",
-    "brand_name": "BC(宝成)",
-    "brand_id": "12298",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12297": {
     "coupon_name": "15元拓展光电品牌券",
     "brand_name": "TUOZHAN(拓展光电)",
@@ -885,13 +878,6 @@
     "coupon_name": "15元纽航品牌券",
     "brand_name": "NH(纽航)",
     "brand_id": "15356",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15548": {
-    "coupon_name": "15元美禄科技品牌券",
-    "brand_name": "MP(美禄科技)",
-    "brand_id": "15548",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1508,6 +1494,13 @@
     "coupon_name": "15元华昕品牌券",
     "brand_name": "HUAXIN(华昕)",
     "brand_id": "15355",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18864": {
+    "coupon_name": "15元鑫亿晶科技品牌券",
+    "brand_name": "xinyijing technology(鑫亿晶科技)",
+    "brand_id": "18864",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
