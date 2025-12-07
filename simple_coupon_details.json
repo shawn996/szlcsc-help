@@ -13,13 +13,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "16003": {
-    "coupon_name": "25元技象科技品牌商品券",
-    "brand_name": "techphant(技象科技)",
-    "brand_id": "16003",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
   "12460": {
     "coupon_name": "25元捷容品牌商品券",
     "brand_name": "JIERONG(捷容)",
@@ -1503,6 +1496,13 @@
     "brand_id": "15355",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "16003": {
+    "coupon_name": "25元技象科技品牌商品券",
+    "brand_name": "techphant(技象科技)",
+    "brand_id": "16003",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
   },
   "18649": {
     "coupon_name": "15元逸致品牌工业品券",
