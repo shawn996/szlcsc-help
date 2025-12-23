@@ -923,13 +923,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12404": {
-    "coupon_name": "15元天成品牌商品券",
-    "brand_name": "TCWIN(天成)",
-    "brand_id": "12404",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "11549": {
     "coupon_name": "15元安邦品牌商品券",
     "brand_name": "AnBon(安邦)",
