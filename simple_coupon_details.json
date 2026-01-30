@@ -6,13 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12754": {
-    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
-    "brand_name": "Linearin(先积集成)",
-    "brand_id": "12754",
-    "min_order_amount": 31.0,
-    "coupon_amount": 30.0
-  },
   "12460": {
     "coupon_name": "25元捷容品牌商品券",
     "brand_name": "JIERONG(捷容)",
@@ -1909,6 +1902,13 @@
     "brand_id": "25186",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "12754": {
+    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
+    "brand_name": "Linearin(先积集成)",
+    "brand_id": "12754",
+    "min_order_amount": 31.0,
+    "coupon_amount": 30.0
   },
   "18649": {
     "coupon_name": "15元逸致品牌工业品商品券",
