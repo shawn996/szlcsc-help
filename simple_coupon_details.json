@@ -90,6 +90,13 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
+  "15352": {
+    "coupon_name": "<品牌新人>20元宏嘉诚品牌商品券",
+    "brand_name": "R+O(宏嘉诚)",
+    "brand_id": "15352",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
   "24904": {
     "coupon_name": "15元芯涛微品牌商品券",
     "brand_name": "chipfountain(芯涛微)",
@@ -1777,6 +1784,27 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "11566": {
+    "coupon_name": "<品牌新人>15元恒浦品牌商品券",
+    "brand_name": "HENIPER(恒浦)",
+    "brand_id": "11566",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15465": {
+    "coupon_name": "15元宇熙精密品牌商品券",
+    "brand_name": "Yxcon(宇熙精密)",
+    "brand_id": "15465",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "1185": {
+    "coupon_name": "15元美格纳品牌商品券",
+    "brand_name": "MagnaChip(美格纳)",
+    "brand_id": "1185",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "15964": {
     "coupon_name": "15元灿峰品牌工业品券",
     "brand_name": "canfeng(灿峰)",
@@ -1795,13 +1823,6 @@
     "coupon_name": "15元华宇创品牌工业品券",
     "brand_name": "华宇创",
     "brand_id": "11834",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17310": {
-    "coupon_name": "15元信德品牌工业品券",
-    "brand_name": "SDTRUVAL(信德)",
-    "brand_id": "17310",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
