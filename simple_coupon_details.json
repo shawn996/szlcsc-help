@@ -6,13 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12754": {
-    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
-    "brand_name": "Linearin(先积集成)",
-    "brand_id": "12754",
-    "min_order_amount": 31.0,
-    "coupon_amount": 30.0
-  },
   "16003": {
     "coupon_name": "25元技象科技品牌商品券",
     "brand_name": "techphant(技象科技)",
@@ -1804,6 +1797,13 @@
     "brand_id": "1185",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "12754": {
+    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
+    "brand_name": "Linearin(先积集成)",
+    "brand_id": "12754",
+    "min_order_amount": 31.0,
+    "coupon_amount": 30.0
   },
   "15964": {
     "coupon_name": "15元灿峰品牌工业品券",
