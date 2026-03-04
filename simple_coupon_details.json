@@ -13,181 +13,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "15305": {
-    "coupon_name": "15元纬迪品牌商品券",
-    "brand_name": "WEIDY(纬迪)",
-    "brand_id": "15305",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "13487": {
-    "coupon_name": "15元久亦品牌商品券",
-    "brand_name": "JOEY(久亦)",
-    "brand_id": "13487",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15481": {
-    "coupon_name": "15元华龙品牌商品券",
-    "brand_name": "Dragonstate(华龙)",
-    "brand_id": "15481",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16049": {
-    "coupon_name": "15元元磁品牌商品券",
-    "brand_name": "Magnetsyc(元磁)",
-    "brand_id": "16049",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17513": {
-    "coupon_name": "15元诚韬品牌商品券",
-    "brand_name": "ChengTao(诚韬)",
-    "brand_id": "17513",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "18771": {
-    "coupon_name": "<品牌新人>15元兴华鑫品牌商品券",
-    "brand_name": "XHXDZ(兴华鑫)",
-    "brand_id": "18771",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "13141": {
-    "coupon_name": "15元德立品牌商品券",
-    "brand_name": "DDY(德立)",
-    "brand_id": "13141",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "18552": {
-    "coupon_name": "15元宝特品牌商品券",
-    "brand_name": "BAOTER(宝特)",
-    "brand_id": "18552",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16239": {
-    "coupon_name": "15元创慧电子品牌商品券",
-    "brand_name": "CH(创慧电子)",
-    "brand_id": "16239",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "14041": {
-    "coupon_name": "15元蓝图微电品牌商品券",
-    "brand_name": "LanTu Micro(蓝图微电)",
-    "brand_id": "14041",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12501": {
-    "coupon_name": "<品牌新人>15元志丰电子品牌商品券",
-    "brand_name": "KINGSTATE(志丰电子)",
-    "brand_id": "12501",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15954": {
-    "coupon_name": "15元富隆电子品牌商品券",
-    "brand_name": "FOLLON(富隆电子)",
-    "brand_id": "15954",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15863": {
-    "coupon_name": "15元鼎容品牌商品券",
-    "brand_name": "ACMECON(鼎容)",
-    "brand_id": "15863",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16282": {
-    "coupon_name": "15元瑞申电子品牌商品券",
-    "brand_name": "Ruishen(瑞申电子)",
-    "brand_id": "16282",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16268": {
-    "coupon_name": "<品牌新人>15元同晶品牌商品券",
-    "brand_name": "同晶",
-    "brand_id": "16268",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15503": {
-    "coupon_name": "<品牌新人>15元华宇品牌商品券",
-    "brand_name": "HYDZ(华宇)",
-    "brand_id": "15503",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "1056": {
-    "coupon_name": "15元圣融达品牌商品券",
-    "brand_name": "SRD(圣融达)",
-    "brand_id": "1056",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11537": {
-    "coupon_name": "<品牌新人>15元赢海品牌商品券",
-    "brand_name": "INGHAi(赢海)",
-    "brand_id": "11537",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "14033": {
-    "coupon_name": "<品牌新人>15元棱晶半导体品牌商品券",
-    "brand_name": "Legend-Si(棱晶半导体)",
-    "brand_id": "14033",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11597": {
-    "coupon_name": "15元松田品牌商品券",
-    "brand_name": "STE(松田)",
-    "brand_id": "11597",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11570": {
-    "coupon_name": "15元德尔创品牌商品券",
-    "brand_name": "Dersonic(德尔创)",
-    "brand_id": "11570",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12131": {
-    "coupon_name": "15元毫欧品牌商品券",
-    "brand_name": "Milliohm(毫欧)",
-    "brand_id": "12131",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11425": {
-    "coupon_name": "<品牌新人>15元长江微电品牌商品券",
-    "brand_name": "cjiang(长江微电)",
-    "brand_id": "11425",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16222": {
-    "coupon_name": "15元芯昌科技品牌商品券",
-    "brand_name": "SiChange(芯昌科技)",
-    "brand_id": "16222",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16013": {
-    "coupon_name": "15元摩天射频品牌商品券",
-    "brand_name": "MyAntenna(摩天射频)",
-    "brand_id": "16013",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "15302": {
     "coupon_name": "<品牌新人>15元聆麦声学品牌商品券",
     "brand_name": "LinkMems(聆麦声学)",
@@ -332,6 +157,13 @@
     "coupon_name": "15元亚特联品牌商品券",
     "brand_name": "YTL(亚特联)",
     "brand_id": "12342",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12761": {
+    "coupon_name": "15元伟烽品牌商品券",
+    "brand_name": "WF(伟烽)",
+    "brand_id": "12761",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1812,6 +1644,181 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "15305": {
+    "coupon_name": "15元纬迪品牌商品券",
+    "brand_name": "WEIDY(纬迪)",
+    "brand_id": "15305",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "13487": {
+    "coupon_name": "15元久亦品牌商品券",
+    "brand_name": "JOEY(久亦)",
+    "brand_id": "13487",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15481": {
+    "coupon_name": "15元华龙品牌商品券",
+    "brand_name": "Dragonstate(华龙)",
+    "brand_id": "15481",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16049": {
+    "coupon_name": "15元元磁品牌商品券",
+    "brand_name": "Magnetsyc(元磁)",
+    "brand_id": "16049",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17513": {
+    "coupon_name": "15元诚韬品牌商品券",
+    "brand_name": "ChengTao(诚韬)",
+    "brand_id": "17513",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18771": {
+    "coupon_name": "<品牌新人>15元兴华鑫品牌商品券",
+    "brand_name": "XHXDZ(兴华鑫)",
+    "brand_id": "18771",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "13141": {
+    "coupon_name": "15元德立品牌商品券",
+    "brand_name": "DDY(德立)",
+    "brand_id": "13141",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18552": {
+    "coupon_name": "15元宝特品牌商品券",
+    "brand_name": "BAOTER(宝特)",
+    "brand_id": "18552",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16239": {
+    "coupon_name": "15元创慧电子品牌商品券",
+    "brand_name": "CH(创慧电子)",
+    "brand_id": "16239",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "14041": {
+    "coupon_name": "15元蓝图微电品牌商品券",
+    "brand_name": "LanTu Micro(蓝图微电)",
+    "brand_id": "14041",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12501": {
+    "coupon_name": "<品牌新人>15元志丰电子品牌商品券",
+    "brand_name": "KINGSTATE(志丰电子)",
+    "brand_id": "12501",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15954": {
+    "coupon_name": "15元富隆电子品牌商品券",
+    "brand_name": "FOLLON(富隆电子)",
+    "brand_id": "15954",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15863": {
+    "coupon_name": "15元鼎容品牌商品券",
+    "brand_name": "ACMECON(鼎容)",
+    "brand_id": "15863",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16282": {
+    "coupon_name": "15元瑞申电子品牌商品券",
+    "brand_name": "Ruishen(瑞申电子)",
+    "brand_id": "16282",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16268": {
+    "coupon_name": "<品牌新人>15元同晶品牌商品券",
+    "brand_name": "同晶",
+    "brand_id": "16268",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15503": {
+    "coupon_name": "<品牌新人>15元华宇品牌商品券",
+    "brand_name": "HYDZ(华宇)",
+    "brand_id": "15503",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "1056": {
+    "coupon_name": "15元圣融达品牌商品券",
+    "brand_name": "SRD(圣融达)",
+    "brand_id": "1056",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11537": {
+    "coupon_name": "<品牌新人>15元赢海品牌商品券",
+    "brand_name": "INGHAi(赢海)",
+    "brand_id": "11537",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "14033": {
+    "coupon_name": "<品牌新人>15元棱晶半导体品牌商品券",
+    "brand_name": "Legend-Si(棱晶半导体)",
+    "brand_id": "14033",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11597": {
+    "coupon_name": "15元松田品牌商品券",
+    "brand_name": "STE(松田)",
+    "brand_id": "11597",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11570": {
+    "coupon_name": "15元德尔创品牌商品券",
+    "brand_name": "Dersonic(德尔创)",
+    "brand_id": "11570",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12131": {
+    "coupon_name": "15元毫欧品牌商品券",
+    "brand_name": "Milliohm(毫欧)",
+    "brand_id": "12131",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11425": {
+    "coupon_name": "<品牌新人>15元长江微电品牌商品券",
+    "brand_name": "cjiang(长江微电)",
+    "brand_id": "11425",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16222": {
+    "coupon_name": "15元芯昌科技品牌商品券",
+    "brand_name": "SiChange(芯昌科技)",
+    "brand_id": "16222",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16013": {
+    "coupon_name": "15元摩天射频品牌商品券",
+    "brand_name": "MyAntenna(摩天射频)",
+    "brand_id": "16013",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "15964": {
     "coupon_name": "15元灿峰品牌工业品券",
     "brand_name": "canfeng(灿峰)",
@@ -1823,13 +1830,6 @@
     "coupon_name": "15元逸致品牌工业品券",
     "brand_name": "YIZHI(逸致)",
     "brand_id": "18649",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17310": {
-    "coupon_name": "15元信德品牌工业品券",
-    "brand_name": "SDTRUVAL(信德)",
-    "brand_id": "17310",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
