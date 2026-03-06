@@ -1,11 +1,4 @@
 {
-  "15340,13046,15464,15954,12245,12021,1262,11964,164,12667": {
-    "coupon_name": "10元现货样品券丨限赞助品牌",
-    "brand_name": "Megastar(兆星),FOJAN(富捷),LUTE(陆特),FOLLON(富隆电子),GOODWORK(固得沃克),CND-tek(磁联达),Ckmtw(灿科盟),DORABO(地博电气),MDD(辰达半导体),MSKSEMI(美森科)",
-    "brand_id": "15340,13046,15464,15954,12245,12021,1262,11964,164,12667",
-    "min_order_amount": 11.0,
-    "coupon_amount": 10.0
-  },
   "18279": {
     "coupon_name": "15元捷而瑞品牌商品券",
     "brand_name": "JIERR(捷而瑞)",
@@ -1098,13 +1091,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "11955": {
-    "coupon_name": "15元首韩品牌商品券",
-    "brand_name": "SHOU HAN(首韩)",
-    "brand_id": "11955",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "11880": {
     "coupon_name": "15元明硕品牌商品券",
     "brand_name": "MINTRON(明硕)",
@@ -1830,6 +1816,13 @@
     "coupon_name": "15元逸致品牌工业品券",
     "brand_name": "YIZHI(逸致)",
     "brand_id": "18649",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12388": {
+    "coupon_name": "<品牌新人>15元斯泰普品牌工业品券",
+    "brand_name": "STEIPU(斯泰普)",
+    "brand_id": "12388",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
