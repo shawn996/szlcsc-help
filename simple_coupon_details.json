@@ -6,13 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12754": {
-    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
-    "brand_name": "Linearin(先积集成)",
-    "brand_id": "12754",
-    "min_order_amount": 31.0,
-    "coupon_amount": 30.0
-  },
   "16003": {
     "coupon_name": "25元技象科技品牌商品券",
     "brand_name": "techphant(技象科技)",
@@ -108,6 +101,13 @@
     "coupon_name": "20元灵星芯微品牌商品券",
     "brand_name": "LX(灵星芯微)",
     "brand_id": "15920",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "11955": {
+    "coupon_name": "20元首韩品牌商品券",
+    "brand_name": "SHOU HAN(首韩)",
+    "brand_id": "11955",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
@@ -1804,6 +1804,27 @@
     "brand_id": "12761",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "24937": {
+    "coupon_name": "15元航昱微品牌商品券",
+    "brand_name": "Hangyu(航昱微)",
+    "brand_id": "24937",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "24427": {
+    "coupon_name": "15元国连品牌商品券",
+    "brand_name": "GUOCONN(国连)",
+    "brand_id": "24427",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12754": {
+    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
+    "brand_name": "Linearin(先积集成)",
+    "brand_id": "12754",
+    "min_order_amount": 31.0,
+    "coupon_amount": 30.0
   },
   "15964": {
     "coupon_name": "15元灿峰品牌工业品券",
