@@ -237,13 +237,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12313": {
-    "coupon_name": "15元杰盛微品牌商品券",
-    "brand_name": "JSMSEMI(杰盛微)",
-    "brand_id": "12313",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "24095": {
     "coupon_name": "15元鼎德丰品牌商品券",
     "brand_name": "DDF(鼎德丰)",
