@@ -1721,13 +1721,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "14033": {
-    "coupon_name": "<品牌新人>15元棱晶半导体品牌商品券",
-    "brand_name": "Legend-Si(棱晶半导体)",
-    "brand_id": "14033",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "365": {
     "coupon_name": "<品牌新人>15元美铼品牌商品券",
     "brand_name": "MetalLions(美铼)",
@@ -1840,6 +1833,20 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "25414": {
+    "coupon_name": "15元云睿品牌商品券",
+    "brand_name": "Gyunrui(云睿)",
+    "brand_id": "25414",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15349": {
+    "coupon_name": "15元国硅集成品牌商品券",
+    "brand_name": "WXNSIC(国硅集成)",
+    "brand_id": "15349",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "12388": {
     "coupon_name": "<品牌新人>15元斯泰普品牌工业品券",
     "brand_name": "STEIPU(斯泰普)",
@@ -1879,6 +1886,13 @@
     "coupon_name": "<品牌新人>15元博众新材品牌工业品券",
     "brand_name": "BZXC(博众新材)",
     "brand_id": "12474",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18367": {
+    "coupon_name": "15元裕峰品牌工业品券",
+    "brand_name": "YUFENG(裕峰)",
+    "brand_id": "18367",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
