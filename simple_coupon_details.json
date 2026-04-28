@@ -1,32 +1,4 @@
 {
-  "12270": {
-    "coupon_name": "<商城新人>15元腾达电源品牌商品券",
-    "brand_name": "TDPOWER(腾达电源)",
-    "brand_id": "12270",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12450": {
-    "coupon_name": "<商城新人>15元宏业品牌商品券",
-    "brand_name": "HYHONGYEX(宏业)",
-    "brand_id": "12450",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11450": {
-    "coupon_name": "<商城新人>15元金誉品牌商品券",
-    "brand_name": "HT(金誉)",
-    "brand_id": "11450",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11464": {
-    "coupon_name": "<商城新人>15元云星品牌商品券",
-    "brand_name": "Yunxing(云星)",
-    "brand_id": "11464",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "16003": {
     "coupon_name": "25元技象科技品牌商品券",
     "brand_name": "techphant(技象科技)",
@@ -269,13 +241,6 @@
     "coupon_name": "<品牌新人>15元正成品牌商品券",
     "brand_name": "CAZN(正成)",
     "brand_id": "15353",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12313": {
-    "coupon_name": "15元杰盛微品牌商品券",
-    "brand_name": "JSMSEMI(杰盛微)",
-    "brand_id": "12313",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1858,6 +1823,34 @@
     "coupon_name": "15元瑞鑫品牌商品券",
     "brand_name": "ReSine PS(瑞鑫)",
     "brand_id": "15768",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12270": {
+    "coupon_name": "<商城新人>15元腾达电源品牌商品券",
+    "brand_name": "TDPOWER(腾达电源)",
+    "brand_id": "12270",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12450": {
+    "coupon_name": "<商城新人>15元宏业品牌商品券",
+    "brand_name": "HYHONGYEX(宏业)",
+    "brand_id": "12450",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11450": {
+    "coupon_name": "<商城新人>15元金誉品牌商品券",
+    "brand_name": "HT(金誉)",
+    "brand_id": "11450",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11464": {
+    "coupon_name": "<商城新人>15元云星品牌商品券",
+    "brand_name": "Yunxing(云星)",
+    "brand_id": "11464",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
