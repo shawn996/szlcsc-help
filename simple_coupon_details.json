@@ -153,6 +153,20 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
+  "11930": {
+    "coupon_name": "20元米客方德品牌商品券",
+    "brand_name": "MK(米客方德)",
+    "brand_id": "11930",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "26864": {
+    "coupon_name": "20元宇文发品牌商品券",
+    "brand_name": "YWF(宇文发)",
+    "brand_id": "26864",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
   "16014": {
     "coupon_name": "15元宇宏微品牌商品券",
     "brand_name": "SINEDEVICE(宇宏微)",
@@ -934,13 +948,6 @@
     "coupon_name": "15元兆星品牌商品券",
     "brand_name": "Megastar(兆星)",
     "brand_id": "15340",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11930": {
-    "coupon_name": "15元米客方德品牌商品券",
-    "brand_name": "MK(米客方德)",
-    "brand_id": "11930",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1895,6 +1902,27 @@
     "brand_id": "857",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "17375": {
+    "coupon_name": "15元先进光品牌商品券",
+    "brand_name": "APSEMI(先进光)",
+    "brand_id": "17375",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "935": {
+    "coupon_name": "15元长江连接器品牌商品券",
+    "brand_name": "CJT(长江连接器)",
+    "brand_id": "935",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11353": {
+    "coupon_name": "顺翔诺品牌9.5折折扣券",
+    "brand_name": "SXN(顺翔诺)",
+    "brand_id": "11353",
+    "min_order_amount": 1.0,
+    "coupon_amount": 0.0
   },
   "164": {
     "coupon_name": "<品牌新人>15元MDD品牌商品券",
