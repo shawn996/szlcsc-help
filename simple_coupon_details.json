@@ -1147,13 +1147,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "11602": {
-    "coupon_name": "<商城新人>15元驰兴电感品牌商品券",
-    "brand_name": "Coilank(驰兴电感)",
-    "brand_id": "11602",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12428": {
     "coupon_name": "15元德旭电子品牌商品券",
     "brand_name": "DEXU(德旭电子)",
