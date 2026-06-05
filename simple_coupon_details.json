@@ -139,13 +139,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "12362": {
-    "coupon_name": "20元微尔品牌商品券",
-    "brand_name": "WIER(微尔)",
-    "brand_id": "12362",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
   "11743": {
     "coupon_name": "15元鲁光品牌商品券",
     "brand_name": "LGE(鲁光)",
