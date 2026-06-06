@@ -6,34 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12460": {
-    "coupon_name": "25元捷容品牌商品券",
-    "brand_name": "JIERONG(捷容)",
-    "brand_id": "12460",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "15376": {
-    "coupon_name": "20元虹成电子品牌商品券",
-    "brand_name": "HC(虹成电子)",
-    "brand_id": "15376",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "419": {
-    "coupon_name": "20元集电通品牌商品券",
-    "brand_name": "JDTfuse(集电通)",
-    "brand_id": "419",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "13437": {
-    "coupon_name": "20元华轩阳电子品牌商品券",
-    "brand_name": "HXY MOSFET(华轩阳电子)",
-    "brand_id": "13437",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
   "15453": {
     "coupon_name": "20元易成品牌商品券",
     "brand_name": "EVISUN(易成)",
@@ -378,11 +350,11 @@
     "coupon_amount": 15.0
   },
   "13495": {
-    "coupon_name": "<品牌新人>20元伽盛品牌商品券",
+    "coupon_name": "<品牌新人>15元伽盛品牌首单商品券",
     "brand_name": "JARSON(伽盛)",
     "brand_id": "13495",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
   },
   "13318": {
     "coupon_name": "<品牌新人>15元慧芯品牌首单商品券",
@@ -1713,6 +1685,34 @@
     "brand_id": "11947",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "12460": {
+    "coupon_name": "25元捷容品牌商品券",
+    "brand_name": "JIERONG(捷容)",
+    "brand_id": "12460",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "15376": {
+    "coupon_name": "20元虹成电子品牌商品券",
+    "brand_name": "HC(虹成电子)",
+    "brand_id": "15376",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "419": {
+    "coupon_name": "20元集电通品牌商品券",
+    "brand_name": "JDTfuse(集电通)",
+    "brand_id": "419",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "13437": {
+    "coupon_name": "20元华轩阳电子品牌商品券",
+    "brand_name": "HXY MOSFET(华轩阳电子)",
+    "brand_id": "13437",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
   },
   "15461": {
     "coupon_name": "<品牌新人>25元长泰尔电子品牌商品券",
