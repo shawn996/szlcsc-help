@@ -6,97 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "15453": {
-    "coupon_name": "20元易成品牌商品券",
-    "brand_name": "EVISUN(易成)",
-    "brand_id": "15453",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "12689": {
-    "coupon_name": "<品牌新人>20元创基品牌商品券",
-    "brand_name": "CBI(创基)",
-    "brand_id": "12689",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "11647": {
-    "coupon_name": "<商城新人>15元金航标品牌商品券",
-    "brand_name": "kinghelm(金航标)",
-    "brand_id": "11647",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "18554": {
-    "coupon_name": "20元晶力源品牌指定类目商品券",
-    "brand_name": "JLYE(晶力源)",
-    "brand_id": "18554",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "15353": {
-    "coupon_name": "20元正成品牌商品券",
-    "brand_name": "CAZN(正成)",
-    "brand_id": "15353",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "26864": {
-    "coupon_name": "20元宇文发品牌商品券",
-    "brand_name": "YWF(宇文发)",
-    "brand_id": "26864",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "15352": {
-    "coupon_name": "<品牌新人>20元宏嘉诚品牌商品券",
-    "brand_name": "R+O(宏嘉诚)",
-    "brand_id": "15352",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "11930": {
-    "coupon_name": "20元米客方德品牌商品券",
-    "brand_name": "MK(米客方德)",
-    "brand_id": "11930",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "13306": {
-    "coupon_name": "20元易川品牌商品券",
-    "brand_name": "YLPTEC(易川)",
-    "brand_id": "13306",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "12606": {
-    "coupon_name": "<品牌新人>20元比诺星品牌商品券",
-    "brand_name": "BNstar(比诺星)",
-    "brand_id": "12606",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "11955": {
-    "coupon_name": "20元首韩品牌商品券",
-    "brand_name": "SHOU HAN(首韩)",
-    "brand_id": "11955",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "16617": {
-    "coupon_name": "<品牌新人>20元温达电子品牌商品券",
-    "brand_name": "ZGWD(温达电子)",
-    "brand_id": "16617",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "11995": {
-    "coupon_name": "20元朗瑞品牌商品券",
-    "brand_name": "LR(朗瑞)",
-    "brand_id": "11995",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
   "991": {
     "coupon_name": "<品牌新人>20元荣誉品牌商品券",
     "brand_name": "HONOR(荣誉)",
@@ -1711,6 +1620,97 @@
     "coupon_name": "20元华轩阳电子品牌商品券",
     "brand_name": "HXY MOSFET(华轩阳电子)",
     "brand_id": "13437",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "15453": {
+    "coupon_name": "20元易成品牌商品券",
+    "brand_name": "EVISUN(易成)",
+    "brand_id": "15453",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "12689": {
+    "coupon_name": "<品牌新人>20元创基品牌商品券",
+    "brand_name": "CBI(创基)",
+    "brand_id": "12689",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "11647": {
+    "coupon_name": "<商城新人>15元金航标品牌商品券",
+    "brand_name": "kinghelm(金航标)",
+    "brand_id": "11647",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18554": {
+    "coupon_name": "20元晶力源品牌指定类目商品券",
+    "brand_name": "JLYE(晶力源)",
+    "brand_id": "18554",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "15353": {
+    "coupon_name": "20元正成品牌商品券",
+    "brand_name": "CAZN(正成)",
+    "brand_id": "15353",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "26864": {
+    "coupon_name": "20元宇文发品牌商品券",
+    "brand_name": "YWF(宇文发)",
+    "brand_id": "26864",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "15352": {
+    "coupon_name": "<品牌新人>20元宏嘉诚品牌商品券",
+    "brand_name": "R+O(宏嘉诚)",
+    "brand_id": "15352",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "11930": {
+    "coupon_name": "20元米客方德品牌商品券",
+    "brand_name": "MK(米客方德)",
+    "brand_id": "11930",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "13306": {
+    "coupon_name": "20元易川品牌商品券",
+    "brand_name": "YLPTEC(易川)",
+    "brand_id": "13306",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "12606": {
+    "coupon_name": "<品牌新人>20元比诺星品牌商品券",
+    "brand_name": "BNstar(比诺星)",
+    "brand_id": "12606",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "11955": {
+    "coupon_name": "20元首韩品牌商品券",
+    "brand_name": "SHOU HAN(首韩)",
+    "brand_id": "11955",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "16617": {
+    "coupon_name": "<品牌新人>20元温达电子品牌商品券",
+    "brand_name": "ZGWD(温达电子)",
+    "brand_id": "16617",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "11995": {
+    "coupon_name": "20元朗瑞品牌商品券",
+    "brand_name": "LR(朗瑞)",
+    "brand_id": "11995",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
