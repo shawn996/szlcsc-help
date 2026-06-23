@@ -1763,13 +1763,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12518": {
-    "coupon_name": "15元洺太电子品牌商品券",
-    "brand_name": "suntek(洺太电子)",
-    "brand_id": "12518",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12501": {
     "coupon_name": "<品牌新人>15元志丰电子品牌商品券",
     "brand_name": "KINGSTATE(志丰电子)",
@@ -1798,6 +1791,13 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "12518": {
+    "coupon_name": "15元洺太电子品牌商品券",
+    "brand_name": "suntek(洺太电子)",
+    "brand_id": "12518",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "15584": {
     "coupon_name": "15元芯伯乐品牌商品券",
     "brand_name": "XBLW(芯伯乐)",
@@ -1811,13 +1811,6 @@
     "brand_id": "15783",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
-  },
-  "11955": {
-    "coupon_name": "20元首韩品牌商品券",
-    "brand_name": "SHOU HAN(首韩)",
-    "brand_id": "11955",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
   },
   "13306": {
     "coupon_name": "20元易川品牌商品券",
