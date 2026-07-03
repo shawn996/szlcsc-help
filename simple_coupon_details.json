@@ -6,13 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "25051,11955,12297,15376,13437,11687,12667,15584,15783,15340": {
-    "coupon_name": "10元样品券丨限超会赞助品牌",
-    "brand_name": "LXWCONN(连兴旺电子),SHOU HAN(首韩),TUOZHAN(拓展光电),HC(虹成电子),HXY MOSFET(华轩阳电子),XUNPU(讯普),MSKSEMI(美森科),XBLW(芯伯乐),AOTE(奥特),Megastar(兆星)",
-    "brand_id": "25051,11955,12297,15376,13437,11687,12667,15584,15783,15340",
-    "min_order_amount": 11.0,
-    "coupon_amount": 10.0
-  },
   "17513": {
     "coupon_name": "25元诚韬品牌商品券",
     "brand_name": "ChengTao(诚韬)",
