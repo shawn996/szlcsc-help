@@ -1358,55 +1358,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元赢海品牌商品券",
-      "brand_name": "INGHAi(赢海)",
-      "brand_id": "11537",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 395,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "MEMS麦克风",
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器",
-        "超声波收发器"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "DC-DC电源模块": [
@@ -2489,64 +2440,6 @@
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -4037,64 +3930,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "FFC连接线(柔性扁平线缆)": [
@@ -4321,37 +4156,6 @@
         "胶壳端子",
         "轻触开关",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -5034,64 +4838,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "I/O扩展器": [
@@ -5366,33 +5112,6 @@
         "排针",
         "短路帽/跳线帽",
         "线对板针座"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
       ]
     }
   ],
@@ -5821,37 +5540,6 @@
         "胶壳端子",
         "轻触开关",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -6811,26 +6499,6 @@
       ]
     }
   ],
-  "MEMS麦克风": [
-    {
-      "coupon_name": "<品牌新人>15元赢海品牌商品券",
-      "brand_name": "INGHAi(赢海)",
-      "brand_id": "11537",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 395,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "MEMS麦克风",
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器",
-        "超声波收发器"
-      ]
-    }
-  ],
   "NAND FLASH": [
     {
       "coupon_name": "20元米客方德品牌商品券",
@@ -7474,33 +7142,6 @@
         "继电器插座及配件",
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
         "音频连接器(耳机)"
       ]
     }
@@ -8193,37 +7834,6 @@
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -9993,64 +9603,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "SD卡适配器": [
@@ -10556,64 +10108,6 @@
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -11389,64 +10883,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "USB集线器": [
@@ -12194,27 +11630,6 @@
         "电流采样电阻/分流器",
         "稳压二极管",
         "线性稳压器(LDO)",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
         "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
@@ -13897,35 +13312,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "<商城新人>15元元磁品牌商品券",
-      "brand_name": "Magnetsyc(元磁)",
-      "brand_id": "16049",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 29,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "15元高芯电子品牌商品券",
-      "brand_name": "FAUKU(高芯电子)",
-      "brand_id": "24398",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 684,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感"
-      ]
     }
   ],
   "其他接口": [
@@ -14828,35 +14214,6 @@
         "馈电/射频绝缘子",
         "馈通电容滤波器"
       ]
-    },
-    {
-      "coupon_name": "<商城新人>15元元磁品牌商品券",
-      "brand_name": "Magnetsyc(元磁)",
-      "brand_id": "16049",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 29,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "15元高芯电子品牌商品券",
-      "brand_name": "FAUKU(高芯电子)",
-      "brand_id": "24398",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 684,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感"
-      ]
     }
   ],
   "半导体放电管(TSS)": [
@@ -15048,22 +14405,6 @@
         "线性稳压器(LDO)",
         "肖特基二极管",
         "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元里阳半导体品牌商品券",
-      "brand_name": "Liown(里阳半导体)",
-      "brand_id": "12139",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 739,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "气体放电管(GDT)",
         "静电和浪涌保护(TVS/ESD)"
       ]
     }
@@ -15339,22 +14680,6 @@
         "聚丙烯膜电容(CBB)",
         "薄膜电容",
         "贴片电容(MLCC)"
-      ]
-    },
-    {
-      "coupon_name": "15元里阳半导体品牌商品券",
-      "brand_name": "Liown(里阳半导体)",
-      "brand_id": "12139",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 739,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "气体放电管(GDT)",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -16374,24 +15699,6 @@
         "蜂鸣器",
         "蜂鸣片"
       ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元赢海品牌商品券",
-      "brand_name": "INGHAi(赢海)",
-      "brand_id": "11537",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 395,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "MEMS麦克风",
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器",
-        "超声波收发器"
-      ]
     }
   ],
   "固定式衰减器": [
@@ -16620,38 +15927,6 @@
         "静态随机存取存储器(SRAM)",
         "音频功率放大器",
         "音频接口芯片"
-      ]
-    },
-    {
-      "coupon_name": "15元先进光品牌商品券",
-      "brand_name": "APSEMI(先进光)",
-      "brand_id": "17375",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 663,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "电流传感器",
-        "霍尔开关"
-      ]
-    },
-    {
-      "coupon_name": "15元国晶微半导体品牌商品券",
-      "brand_name": "SUPSiC(国晶微半导体)",
-      "brand_id": "12612",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 712,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "场效应管(MOSFET)",
-        "晶体管输出光耦",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)"
       ]
     }
   ],
@@ -17439,44 +16714,6 @@
         "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元国晶微半导体品牌商品券",
-      "brand_name": "SUPSiC(国晶微半导体)",
-      "brand_id": "12612",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 712,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "场效应管(MOSFET)",
-        "晶体管输出光耦",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)"
       ]
     }
   ],
@@ -19421,27 +18658,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "开关配件/盖帽": [
@@ -20155,27 +19371,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "恒温晶体振荡器(OCXO)": [
@@ -20230,24 +19425,6 @@
         "扬声器/喇叭",
         "蜂鸣器",
         "蜂鸣片"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元赢海品牌商品券",
-      "brand_name": "INGHAi(赢海)",
-      "brand_id": "11537",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 395,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "MEMS麦克风",
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器",
-        "超声波收发器"
       ]
     }
   ],
@@ -20702,47 +19879,6 @@
         "胶壳端子",
         "轻触开关",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元康深品牌商品券",
-      "brand_name": "康深",
-      "brand_id": "13447",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "拨码开关",
-        "轻触开关"
       ]
     }
   ],
@@ -21474,64 +20610,6 @@
         "胶壳端子",
         "轻触开关",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -22281,37 +21359,6 @@
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -23076,37 +22123,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "插件电阻": [
@@ -23572,37 +22588,6 @@
         "胶壳(线对板/线对线)",
         "胶壳端子",
         "行程开关"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -24787,27 +23772,6 @@
         "静电和浪涌保护(TVS/ESD)",
         "音频功率放大器"
       ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "旋转开关": [
@@ -25472,20 +24436,6 @@
         "有源晶振",
         "预编程振荡器"
       ]
-    },
-    {
-      "coupon_name": "15元创捷品牌商品券",
-      "brand_name": "TROQ(创捷)",
-      "brand_id": "12546",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 730,
-      "catalog_groups": [
-        "无源晶振",
-        "有源晶振"
-      ]
     }
   ],
   "无线收发芯片": [
@@ -25810,23 +24760,6 @@
         "逻辑门",
         "静电和浪涌保护(TVS/ESD)",
         "音频功率放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元国晶微半导体品牌商品券",
-      "brand_name": "SUPSiC(国晶微半导体)",
-      "brand_id": "12612",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 712,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "场效应管(MOSFET)",
-        "晶体管输出光耦",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)"
       ]
     }
   ],
@@ -26520,20 +25453,6 @@
         "有源晶振",
         "预编程振荡器"
       ]
-    },
-    {
-      "coupon_name": "15元创捷品牌商品券",
-      "brand_name": "TROQ(创捷)",
-      "brand_id": "12546",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 730,
-      "catalog_groups": [
-        "无源晶振",
-        "有源晶振"
-      ]
     }
   ],
   "机械键盘轴": [
@@ -27005,37 +25924,6 @@
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -29471,22 +28359,6 @@
         "静电和浪涌保护(TVS/ESD)",
         "音频功率放大器"
       ]
-    },
-    {
-      "coupon_name": "15元里阳半导体品牌商品券",
-      "brand_name": "Liown(里阳半导体)",
-      "brand_id": "12139",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 739,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "气体放电管(GDT)",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "氮化镓晶体管(GaN HEMT)": [
@@ -30605,33 +29477,6 @@
         "线对板针座",
         "胶壳(线对板/线对线)",
         "胶壳端子",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
         "轻触开关",
         "音频连接器(耳机)"
       ]
@@ -32453,21 +31298,6 @@
       "catalog_groups": [
         "电流传感器",
         "线性霍尔传感器",
-        "霍尔开关"
-      ]
-    },
-    {
-      "coupon_name": "15元先进光品牌商品券",
-      "brand_name": "APSEMI(先进光)",
-      "brand_id": "17375",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 663,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "电流传感器",
         "霍尔开关"
       ]
     }
@@ -34293,33 +33123,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
     }
   ],
   "碳化硅二极管": [
@@ -34517,23 +33320,6 @@
         "达林顿管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元国晶微半导体品牌商品券",
-      "brand_name": "SUPSiC(国晶微半导体)",
-      "brand_id": "12612",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 712,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "场效应管(MOSFET)",
-        "晶体管输出光耦",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)"
       ]
     }
   ],
@@ -34811,23 +33597,6 @@
         "静态随机存取存储器(SRAM)",
         "音频功率放大器",
         "音频接口芯片"
-      ]
-    },
-    {
-      "coupon_name": "15元国晶微半导体品牌商品券",
-      "brand_name": "SUPSiC(国晶微半导体)",
-      "brand_id": "12612",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 712,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "场效应管(MOSFET)",
-        "晶体管输出光耦",
-        "碳化硅二极管",
-        "碳化硅场效应管(MOSFET)"
       ]
     }
   ],
@@ -35601,27 +34370,6 @@
         "电流采样电阻/分流器",
         "稳压二极管",
         "线性稳压器(LDO)",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
         "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
@@ -37106,37 +35854,6 @@
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -38688,27 +37405,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "胶壳(线对板/线对线)": [
@@ -39247,37 +37943,6 @@
         "贴片圆螺母",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "胶壳端子": [
@@ -39716,37 +38381,6 @@
         "胶壳(线对板/线对线)",
         "胶壳端子"
       ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
-      ]
     }
   ],
   "自恢复保险丝": [
@@ -40012,24 +38646,6 @@
         "扬声器/喇叭",
         "蜂鸣器",
         "蜂鸣片"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元赢海品牌商品券",
-      "brand_name": "INGHAi(赢海)",
-      "brand_id": "11537",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 395,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "MEMS麦克风",
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器",
-        "超声波收发器"
       ]
     }
   ],
@@ -40649,33 +39265,6 @@
         "胶壳(线对板/线对线)",
         "胶壳端子",
         "行程开关"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
       ]
     }
   ],
@@ -41581,21 +40170,6 @@
         "功率电感",
         "贴片电感"
       ]
-    },
-    {
-      "coupon_name": "<商城新人>15元元磁品牌商品券",
-      "brand_name": "Magnetsyc(元磁)",
-      "brand_id": "16049",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 29,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "贴片电感"
-      ]
     }
   ],
   "贴片电阻": [
@@ -41730,24 +40304,6 @@
         "逻辑门",
         "静电和浪涌保护(TVS/ESD)",
         "音频功率放大器"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元赢海品牌商品券",
-      "brand_name": "INGHAi(赢海)",
-      "brand_id": "11537",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 395,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "MEMS麦克风",
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器",
-        "超声波收发器"
       ]
     }
   ],
@@ -42679,78 +41235,6 @@
         "胶壳端子",
         "轻触开关",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元康深品牌商品券",
-      "brand_name": "康深",
-      "brand_id": "13447",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "拨码开关",
-        "轻触开关"
-      ]
-    },
-    {
-      "coupon_name": "15元华明通品牌商品券",
-      "brand_name": "HMTCONN(华明通)",
-      "brand_id": "17129",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 723,
-      "catalog_groups": [
-        "D-Sub/VGA连接器",
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "FFC连接线(柔性扁平线缆)",
-        "HDMI连接器",
-        "IDC刺破式连接器(牛角/简牛)",
-        "RF射频同轴连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "按键开关",
-        "排母",
-        "排针",
-        "插拔式接线端子",
-        "杜邦线&端子线",
-        "线对板针座",
-        "胶壳(线对板/线对线)",
-        "胶壳端子",
-        "轻触开关"
       ]
     }
   ],
@@ -44362,27 +42846,6 @@
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "逻辑分析仪": [
@@ -45695,21 +44158,6 @@
         "线性霍尔传感器",
         "霍尔开关"
       ]
-    },
-    {
-      "coupon_name": "15元先进光品牌商品券",
-      "brand_name": "APSEMI(先进光)",
-      "brand_id": "17375",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 663,
-      "catalog_groups": [
-        "固态继电器(MOS输出)",
-        "电流传感器",
-        "霍尔开关"
-      ]
     }
   ],
   "静态随机存取存储器(SRAM)": [
@@ -46192,43 +44640,6 @@
         "线性稳压器(LDO)",
         "肖特基二极管",
         "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元宝乘品牌商品券",
-      "brand_name": "baocheng(宝乘)",
-      "brand_id": "11854",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 757,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元里阳半导体品牌商品券",
-      "brand_name": "Liown(里阳半导体)",
-      "brand_id": "12139",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 739,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "气体放电管(GDT)",
         "静电和浪涌保护(TVS/ESD)"
       ]
     }
@@ -47206,33 +45617,6 @@
         "继电器插座及配件",
         "胶壳(线对板/线对线)",
         "贴片圆螺母",
-        "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元硕方品牌商品券",
-      "brand_name": "SOFNG(硕方)",
-      "brand_id": "1218",
-      "activity_name": "26年7月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 708,
-      "catalog_groups": [
-        "DC电源连接器",
-        "FFC/FPC连接器",
-        "HDMI连接器",
-        "IC/晶体管插座",
-        "PCI/PCIe连接器",
-        "SD卡/存储卡连接器",
-        "SIM卡连接器",
-        "USB连接器",
-        "拨码开关",
-        "按键开关",
-        "滑动开关",
-        "硬盘连接器(SAS/SATA/M.2)",
-        "行程开关",
-        "轻触开关",
         "音频连接器(耳机)"
       ]
     }
