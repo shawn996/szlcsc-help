@@ -6,83 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12754": {
-    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
-    "brand_name": "Linearin(先积集成)",
-    "brand_id": "12754",
-    "min_order_amount": 31.0,
-    "coupon_amount": 30.0
-  },
-  "17513": {
-    "coupon_name": "25元诚韬品牌商品券",
-    "brand_name": "ChengTao(诚韬)",
-    "brand_id": "17513",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "16003": {
-    "coupon_name": "25元技象科技品牌商品券",
-    "brand_name": "techphant(技象科技)",
-    "brand_id": "16003",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "12460": {
-    "coupon_name": "25元捷容品牌商品券",
-    "brand_name": "JIERONG(捷容)",
-    "brand_id": "12460",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "11930": {
-    "coupon_name": "25元米客方德品牌商品券",
-    "brand_name": "MK(米客方德)",
-    "brand_id": "11930",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "15453": {
-    "coupon_name": "20元易成品牌商品券",
-    "brand_name": "EVISUN(易成)",
-    "brand_id": "15453",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "15376": {
-    "coupon_name": "20元虹成电子品牌商品券",
-    "brand_name": "HC(虹成电子)",
-    "brand_id": "15376",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "13437": {
-    "coupon_name": "20元华轩阳电子品牌商品券",
-    "brand_name": "HXY MOSFET(华轩阳电子)",
-    "brand_id": "13437",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "11955": {
-    "coupon_name": "20元首韩品牌商品券",
-    "brand_name": "SHOU HAN(首韩)",
-    "brand_id": "11955",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "26864": {
-    "coupon_name": "20元宇文发品牌商品券",
-    "brand_name": "YWF(宇文发)",
-    "brand_id": "26864",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "15353": {
-    "coupon_name": "20元正成品牌商品券",
-    "brand_name": "CAZN(正成)",
-    "brand_id": "15353",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
   "16617": {
     "coupon_name": "20元温达电子品牌商品券",
     "brand_name": "ZGWD(温达电子)",
@@ -1154,13 +1077,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "13390": {
-    "coupon_name": "<商城新人>15元芯声品牌商品券",
-    "brand_name": "HRE(芯声)",
-    "brand_id": "13390",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12099": {
     "coupon_name": "<商城新人>15元华瓷品牌商品券",
     "brand_name": "Chinocera(华瓷)",
@@ -1291,13 +1207,6 @@
     "coupon_name": "<品牌新人>15元众驰电子品牌商品券",
     "brand_name": "众驰电子",
     "brand_id": "12454",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15355": {
-    "coupon_name": "<品牌新人>15元华昕品牌商品券",
-    "brand_name": "HUAXIN(华昕)",
-    "brand_id": "15355",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1756,6 +1665,20 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "13045": {
+    "coupon_name": "15元富信品牌商品券",
+    "brand_name": "FOSAN(富捷/富信)",
+    "brand_id": "13045",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18864": {
+    "coupon_name": "15元鑫亿晶科技品牌指定类目商品券",
+    "brand_name": "xinyijing technology(鑫亿晶科技)",
+    "brand_id": "18864",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "12047": {
     "coupon_name": "15元杭晶品牌商品券",
     "brand_name": "HCI(杭晶)",
@@ -1818,6 +1741,90 @@
     "brand_id": "11866",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "15355": {
+    "coupon_name": "15元华昕品牌商品券",
+    "brand_name": "HUAXIN(华昕)",
+    "brand_id": "15355",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12754": {
+    "coupon_name": "<品牌新人>30元先积集成品牌商品券",
+    "brand_name": "Linearin(先积集成)",
+    "brand_id": "12754",
+    "min_order_amount": 31.0,
+    "coupon_amount": 30.0
+  },
+  "17513": {
+    "coupon_name": "25元诚韬品牌商品券",
+    "brand_name": "ChengTao(诚韬)",
+    "brand_id": "17513",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "16003": {
+    "coupon_name": "25元技象科技品牌商品券",
+    "brand_name": "techphant(技象科技)",
+    "brand_id": "16003",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "12460": {
+    "coupon_name": "25元捷容品牌商品券",
+    "brand_name": "JIERONG(捷容)",
+    "brand_id": "12460",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "11930": {
+    "coupon_name": "25元米客方德品牌商品券",
+    "brand_name": "MK(米客方德)",
+    "brand_id": "11930",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "15453": {
+    "coupon_name": "20元易成品牌商品券",
+    "brand_name": "EVISUN(易成)",
+    "brand_id": "15453",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "15376": {
+    "coupon_name": "20元虹成电子品牌商品券",
+    "brand_name": "HC(虹成电子)",
+    "brand_id": "15376",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "13437": {
+    "coupon_name": "20元华轩阳电子品牌商品券",
+    "brand_name": "HXY MOSFET(华轩阳电子)",
+    "brand_id": "13437",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "11955": {
+    "coupon_name": "20元首韩品牌商品券",
+    "brand_name": "SHOU HAN(首韩)",
+    "brand_id": "11955",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "26864": {
+    "coupon_name": "20元宇文发品牌商品券",
+    "brand_name": "YWF(宇文发)",
+    "brand_id": "26864",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
+  "15353": {
+    "coupon_name": "20元正成品牌商品券",
+    "brand_name": "CAZN(正成)",
+    "brand_id": "15353",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
   },
   "12388": {
     "coupon_name": "<品牌新人>15元斯泰普品牌工业品券",
