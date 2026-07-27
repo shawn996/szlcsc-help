@@ -6,76 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "11586": {
-    "coupon_name": "<商城新人>15元鸿源精密品牌商品券",
-    "brand_name": "HYP(鸿源精密)",
-    "brand_id": "11586",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "24427": {
-    "coupon_name": "15元国连品牌商品券",
-    "brand_name": "GUOCONN(国连)",
-    "brand_id": "24427",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16251": {
-    "coupon_name": "<品牌新人>15元毅芯达品牌商品券",
-    "brand_name": "Existar(毅芯达)",
-    "brand_id": "16251",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12732": {
-    "coupon_name": "15元华灿天禄品牌商品券",
-    "brand_name": "HCTL(华灿天禄)",
-    "brand_id": "12732",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15466": {
-    "coupon_name": "<品牌新人>15元连欣科技品牌商品券",
-    "brand_name": "LX(连欣科技)",
-    "brand_id": "15466",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11722": {
-    "coupon_name": "<商城新人>15元中国星坤品牌指定类目商品券",
-    "brand_name": "XKB Connection(中国星坤)",
-    "brand_id": "11722",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11866": {
-    "coupon_name": "15元汇智品牌商品券",
-    "brand_name": "GDHUIZHI(汇智)",
-    "brand_id": "11866",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15355": {
-    "coupon_name": "15元华昕品牌商品券",
-    "brand_name": "HUAXIN(华昕)",
-    "brand_id": "15355",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "283": {
-    "coupon_name": "<品牌新人>15元MPS品牌商品券",
-    "brand_name": "MPS(芯源)",
-    "brand_id": "283",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11401": {
-    "coupon_name": "15元黄宝石品牌商品券",
-    "brand_name": "TOPAZ(黄宝石)",
-    "brand_id": "11401",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12754": {
     "coupon_name": "<品牌新人>30元先积集成品牌商品券",
     "brand_name": "Linearin(先积集成)",
@@ -1231,13 +1161,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "12099": {
-    "coupon_name": "<商城新人>15元华瓷品牌商品券",
-    "brand_name": "Chinocera(华瓷)",
-    "brand_id": "12099",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12130": {
     "coupon_name": "15元兴飞品牌商品券",
     "brand_name": "XFCN(兴飞)",
@@ -1844,6 +1767,83 @@
     "coupon_name": "<品牌新人>15元同晶品牌指定类目商品券",
     "brand_name": "同晶",
     "brand_id": "16268",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11586": {
+    "coupon_name": "<商城新人>15元鸿源精密品牌商品券",
+    "brand_name": "HYP(鸿源精密)",
+    "brand_id": "11586",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "24427": {
+    "coupon_name": "15元国连品牌商品券",
+    "brand_name": "GUOCONN(国连)",
+    "brand_id": "24427",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16251": {
+    "coupon_name": "<品牌新人>15元毅芯达品牌商品券",
+    "brand_name": "Existar(毅芯达)",
+    "brand_id": "16251",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12732": {
+    "coupon_name": "15元华灿天禄品牌商品券",
+    "brand_name": "HCTL(华灿天禄)",
+    "brand_id": "12732",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15466": {
+    "coupon_name": "<品牌新人>15元连欣科技品牌商品券",
+    "brand_name": "LX(连欣科技)",
+    "brand_id": "15466",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11722": {
+    "coupon_name": "<商城新人>15元中国星坤品牌指定类目商品券",
+    "brand_name": "XKB Connection(中国星坤)",
+    "brand_id": "11722",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11866": {
+    "coupon_name": "15元汇智品牌商品券",
+    "brand_name": "GDHUIZHI(汇智)",
+    "brand_id": "11866",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15355": {
+    "coupon_name": "15元华昕品牌商品券",
+    "brand_name": "HUAXIN(华昕)",
+    "brand_id": "15355",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "283": {
+    "coupon_name": "<品牌新人>15元MPS品牌商品券",
+    "brand_name": "MPS(芯源)",
+    "brand_id": "283",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11401": {
+    "coupon_name": "15元黄宝石品牌商品券",
+    "brand_name": "TOPAZ(黄宝石)",
+    "brand_id": "11401",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12099": {
+    "coupon_name": "<商城新人>15元华瓷品牌商品券",
+    "brand_name": "Chinocera(华瓷)",
+    "brand_id": "12099",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
