@@ -1,4 +1,11 @@
 {
+  "12389,11647,15267,12732,24427,12469,11722,15340,15593,13437": {
+    "coupon_name": "10元赞助品牌现货样品券",
+    "brand_name": "G-Switch(品赞),kinghelm(金航标),XR(祥如),HCTL(华灿天禄),GUOCONN(国连),XINGLIGHT(成兴光),XKB Connection(中国星坤),Megastar(兆星),XYECONN(辛译),HXY MOSFET(华轩阳电子)",
+    "brand_id": "12389,11647,15267,12732,24427,12469,11722,15340,15593,13437",
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0
+  },
   "18279": {
     "coupon_name": "15元捷而瑞品牌商品券",
     "brand_name": "JIERR(捷而瑞)",
@@ -388,13 +395,6 @@
     "coupon_name": "15元铭易轩品牌指定类目商品券",
     "brand_name": "DDY(德立)/MYX(铭易轩)",
     "brand_id": "18591",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11601": {
-    "coupon_name": "15元晶创和立品牌商品券",
-    "brand_name": "JCHL(晶创和立)",
-    "brand_id": "11601",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1221,13 +1221,6 @@
     "coupon_name": "15元创都品牌商品券",
     "brand_name": "CAX(创都)",
     "brand_id": "12353",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "462": {
-    "coupon_name": "15元台湾陆海品牌商品券",
-    "brand_name": "台湾陆海",
-    "brand_id": "462",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
