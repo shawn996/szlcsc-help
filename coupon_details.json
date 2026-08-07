@@ -2830,23 +2830,6 @@
         "隔离式DC/DC转换器",
         "音频功率放大器"
       ]
-    },
-    {
-      "coupon_name": "15元天源品牌商品券",
-      "brand_name": "TPOWER(天源)",
-      "brand_id": "11941",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 263,
-      "catalog_groups": [
-        "DC-DC电源芯片",
-        "LED驱动",
-        "专业电源管理(PMIC)",
-        "其他接口",
-        "电池管理"
-      ]
     }
   ],
   "DC电源连接器": [
@@ -5961,37 +5944,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "LCD驱动": [
@@ -7262,54 +7214,6 @@
         "隔离式DC/DC转换器",
         "音频功率放大器"
       ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元天源品牌商品券",
-      "brand_name": "TPOWER(天源)",
-      "brand_id": "11941",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 263,
-      "catalog_groups": [
-        "DC-DC电源芯片",
-        "LED驱动",
-        "专业电源管理(PMIC)",
-        "其他接口",
-        "电池管理"
-      ]
     }
   ],
   "LIN收发器": [
@@ -7808,24 +7712,6 @@
         "色环/插件电感",
         "贴片电感"
       ]
-    },
-    {
-      "coupon_name": "15元开步睿思品牌指定类目商品券",
-      "brand_name": "RESI(开步睿思)",
-      "brand_id": "11761",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "NTC热敏电阻",
-        "PTC热敏电阻",
-        "插件电阻",
-        "电流传感器",
-        "电流采样电阻/分流器",
-        "贴片电阻"
-      ]
     }
   ],
   "PCB焊接端子": [
@@ -8275,26 +8161,6 @@
         "逻辑门",
         "霍尔开关",
         "静电和浪涌保护(TVS/ESD)"
-      ]
-    }
-  ],
-  "PTC热敏电阻": [
-    {
-      "coupon_name": "15元开步睿思品牌指定类目商品券",
-      "brand_name": "RESI(开步睿思)",
-      "brand_id": "11761",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "NTC热敏电阻",
-        "PTC热敏电阻",
-        "插件电阻",
-        "电流传感器",
-        "电流采样电阻/分流器",
-        "贴片电阻"
       ]
     }
   ],
@@ -12678,65 +12544,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "专业电源管理(PMIC)": [
@@ -12986,23 +12793,6 @@
         "贴片电感",
         "隔离式DC/DC转换器",
         "音频功率放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元天源品牌商品券",
-      "brand_name": "TPOWER(天源)",
-      "brand_id": "11941",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 263,
-      "catalog_groups": [
-        "DC-DC电源芯片",
-        "LED驱动",
-        "专业电源管理(PMIC)",
-        "其他接口",
-        "电池管理"
       ]
     }
   ],
@@ -15197,37 +14987,6 @@
         "贴片电感",
         "钳位滤波器"
       ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元宏业品牌商品券",
-      "brand_name": "HYHONGYEX(宏业)",
-      "brand_id": "12450",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 411,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "磁珠",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "<商城新人>15元元磁品牌商品券",
-      "brand_name": "Magnetsyc(元磁)",
-      "brand_id": "16049",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 24,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "贴片电感"
-      ]
     }
   ],
   "其他接口": [
@@ -15396,23 +15155,6 @@
         "贴片电感",
         "隔离式DC/DC转换器",
         "音频功率放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元天源品牌商品券",
-      "brand_name": "TPOWER(天源)",
-      "brand_id": "11941",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 263,
-      "catalog_groups": [
-        "DC-DC电源芯片",
-        "LED驱动",
-        "专业电源管理(PMIC)",
-        "其他接口",
-        "电池管理"
       ]
     }
   ],
@@ -16312,53 +16054,6 @@
         "隔离式DC/DC转换器",
         "音频功率放大器"
       ]
-    },
-    {
-      "coupon_name": "15元固电品牌商品券",
-      "brand_name": "GUDIAN(固电)",
-      "brand_id": "18661",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 608,
-      "catalog_groups": [
-        "功率电感",
-        "磁珠",
-        "网口变压器",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元宏业品牌商品券",
-      "brand_name": "HYHONGYEX(宏业)",
-      "brand_id": "12450",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 411,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "磁珠",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "<商城新人>15元元磁品牌商品券",
-      "brand_name": "Magnetsyc(元磁)",
-      "brand_id": "16049",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 24,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "贴片电感"
-      ]
     }
   ],
   "功率继电器": [
@@ -16812,55 +16507,6 @@
         "逻辑门",
         "静电和浪涌保护(TVS/ESD)",
         "音频功率放大器"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元森美特品牌商品券",
-      "brand_name": "SUNMATE(森美特)",
-      "brand_id": "1195",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 161,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "快恢复/高效率二极管",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -17571,37 +17217,6 @@
         "肖特基二极管",
         "自恢复保险丝",
         "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
@@ -18976,19 +18591,6 @@
         "超级电容器",
         "钽电容"
       ]
-    },
-    {
-      "coupon_name": "15元宝特品牌商品券",
-      "brand_name": "BAOTER(宝特)",
-      "brand_id": "18552",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "可调电阻/电位器"
-      ]
     }
   ],
   "同步整流控制器": [
@@ -19173,21 +18775,6 @@
         "扬声器/喇叭",
         "蜂鸣器",
         "超声波收发器"
-      ]
-    },
-    {
-      "coupon_name": "15元华龙品牌商品券",
-      "brand_name": "Dragonstate(华龙)",
-      "brand_id": "15481",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 652,
-      "catalog_groups": [
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器"
       ]
     }
   ],
@@ -20589,79 +20176,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元微硕品牌指定类目商品券",
-      "brand_name": "WINSOK(微硕)",
-      "brand_id": "941",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 713,
-      "catalog_groups": [
-        "场效应管(MOSFET)",
-        "电池管理"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "声表面波滤波器(SAW)": [
@@ -20774,29 +20288,6 @@
         "轻触开关",
         "金手指连接器",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
       ]
     }
   ],
@@ -22861,65 +22352,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "开关电源": [
@@ -23907,83 +23339,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元森美特品牌商品券",
-      "brand_name": "SUNMATE(森美特)",
-      "brand_id": "1195",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 161,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "快恢复/高效率二极管",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "恒温晶体振荡器(OCXO)": [
@@ -24030,35 +23385,6 @@
         "扬声器/喇叭",
         "蜂鸣器",
         "超声波收发器"
-      ]
-    },
-    {
-      "coupon_name": "15元华龙品牌商品券",
-      "brand_name": "Dragonstate(华龙)",
-      "brand_id": "15481",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 652,
-      "catalog_groups": [
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元海旭品牌商品券",
-      "brand_name": "S&S(海旭)",
-      "brand_id": "11883",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 489,
-      "catalog_groups": [
-        "扬声器/喇叭",
-        "蜂鸣器"
       ]
     }
   ],
@@ -24328,29 +23654,6 @@
         "轻触开关",
         "轻触开关/按键开关"
       ]
-    },
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
-      ]
     }
   ],
   "拨轮开关": [
@@ -24395,56 +23698,6 @@
         "胶壳端子",
         "轻触开关",
         "音频连接器(耳机)"
-      ]
-    }
-  ],
-  "指示灯": [
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
-      ]
-    }
-  ],
-  "按钮开关": [
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
       ]
     }
   ],
@@ -24742,54 +23995,6 @@
         "连接器附件",
         "锂锰纽扣电池",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
-      ]
-    }
-  ],
-  "振动传感器": [
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
       ]
     }
   ],
@@ -25799,24 +25004,6 @@
         "贴片电阻",
         "铝壳/瓷管电阻"
       ]
-    },
-    {
-      "coupon_name": "15元开步睿思品牌指定类目商品券",
-      "brand_name": "RESI(开步睿思)",
-      "brand_id": "11761",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "NTC热敏电阻",
-        "PTC热敏电阻",
-        "插件电阻",
-        "电流传感器",
-        "电流采样电阻/分流器",
-        "贴片电阻"
-      ]
     }
   ],
   "插拔式接线端子": [
@@ -26509,34 +25696,6 @@
         "达林顿晶体管阵列",
         "通用二极管",
         "逻辑门",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
     }
@@ -27938,65 +27097,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "方形铜端子": [
@@ -28044,31 +27144,6 @@
         "贴片圆螺母",
         "跳线/漆包线/预压接线",
         "连接器附件"
-      ]
-    }
-  ],
-  "旋转开关": [
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
       ]
     }
   ],
@@ -28626,20 +27701,6 @@
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
       "receive_customer_num": 405,
-      "catalog_groups": [
-        "无源晶振",
-        "有源晶振"
-      ]
-    },
-    {
-      "coupon_name": "15元创捷品牌商品券",
-      "brand_name": "TROQ(创捷)",
-      "brand_id": "12546",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 617,
       "catalog_groups": [
         "无源晶振",
         "有源晶振"
@@ -29338,37 +28399,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "晶闸管(可控硅)/模块": [
@@ -29864,65 +28894,6 @@
         "通用二极管",
         "逻辑输出光耦",
         "隔离式放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -30722,20 +29693,6 @@
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
       "receive_customer_num": 405,
-      "catalog_groups": [
-        "无源晶振",
-        "有源晶振"
-      ]
-    },
-    {
-      "coupon_name": "15元创捷品牌商品券",
-      "brand_name": "TROQ(创捷)",
-      "brand_id": "12546",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 617,
       "catalog_groups": [
         "无源晶振",
         "有源晶振"
@@ -34277,37 +33234,6 @@
         "静电和浪涌保护(TVS/ESD)",
         "音频功率放大器"
       ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "气体流量传感器": [
@@ -35701,29 +34627,6 @@
         "连接器附件",
         "锂锰纽扣电池",
         "音频连接器(耳机)"
-      ]
-    },
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
       ]
     }
   ],
@@ -37272,65 +36175,6 @@
         "触摸芯片",
         "运算放大器"
       ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "电子线": [
@@ -38343,37 +37187,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元微硕品牌指定类目商品券",
-      "brand_name": "WINSOK(微硕)",
-      "brand_id": "941",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 713,
-      "catalog_groups": [
-        "场效应管(MOSFET)",
-        "电池管理"
-      ]
-    },
-    {
-      "coupon_name": "15元天源品牌商品券",
-      "brand_name": "TPOWER(天源)",
-      "brand_id": "11941",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 263,
-      "catalog_groups": [
-        "DC-DC电源芯片",
-        "LED驱动",
-        "专业电源管理(PMIC)",
-        "其他接口",
-        "电池管理"
-      ]
     }
   ],
   "电流传感器": [
@@ -38619,24 +37432,6 @@
         "贴片电感",
         "隔离式DC/DC转换器",
         "音频功率放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元开步睿思品牌指定类目商品券",
-      "brand_name": "RESI(开步睿思)",
-      "brand_id": "11761",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "NTC热敏电阻",
-        "PTC热敏电阻",
-        "插件电阻",
-        "电流传感器",
-        "电流采样电阻/分流器",
-        "贴片电阻"
       ]
     }
   ],
@@ -38903,24 +37698,6 @@
         "肖特基二极管",
         "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元开步睿思品牌指定类目商品券",
-      "brand_name": "RESI(开步睿思)",
-      "brand_id": "11761",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "NTC热敏电阻",
-        "PTC热敏电阻",
-        "插件电阻",
-        "电流传感器",
-        "电流采样电阻/分流器",
-        "贴片电阻"
       ]
     }
   ],
@@ -41027,34 +39804,6 @@
         "碳化硅二极管",
         "碳化硅场效应管(MOSFET)"
       ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "碳化硅场效应管(MOSFET)": [
@@ -41403,38 +40152,6 @@
         "磁珠",
         "贴片电感",
         "钳位滤波器"
-      ]
-    },
-    {
-      "coupon_name": "15元固电品牌商品券",
-      "brand_name": "GUDIAN(固电)",
-      "brand_id": "18661",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 608,
-      "catalog_groups": [
-        "功率电感",
-        "磁珠",
-        "网口变压器",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元宏业品牌商品券",
-      "brand_name": "HYHONGYEX(宏业)",
-      "brand_id": "12450",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 411,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "磁珠",
-        "贴片电感"
       ]
     }
   ],
@@ -42441,83 +41158,6 @@
         "达林顿晶体管阵列",
         "通用二极管",
         "逻辑门",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元森美特品牌商品券",
-      "brand_name": "SUNMATE(森美特)",
-      "brand_id": "1195",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 161,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "快恢复/高效率二极管",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
     }
@@ -44832,65 +43472,6 @@
         "逻辑输出光耦",
         "隔离式放大器"
       ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
     }
   ],
   "线性霍尔传感器": [
@@ -45727,22 +44308,6 @@
         "色环/插件电感",
         "贴片电感",
         "钳位滤波器"
-      ]
-    },
-    {
-      "coupon_name": "15元固电品牌商品券",
-      "brand_name": "GUDIAN(固电)",
-      "brand_id": "18661",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 608,
-      "catalog_groups": [
-        "功率电感",
-        "磁珠",
-        "网口变压器",
-        "贴片电感"
       ]
     }
   ],
@@ -46630,83 +45195,6 @@
         "通用二极管",
         "逻辑输出光耦",
         "隔离式放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元森美特品牌商品券",
-      "brand_name": "SUNMATE(森美特)",
-      "brand_id": "1195",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 161,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "快恢复/高效率二极管",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -47909,35 +46397,6 @@
         "蜂鸣器",
         "超声波收发器"
       ]
-    },
-    {
-      "coupon_name": "15元华龙品牌商品券",
-      "brand_name": "Dragonstate(华龙)",
-      "brand_id": "15481",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 652,
-      "catalog_groups": [
-        "咪头/麦克风",
-        "扬声器/喇叭",
-        "蜂鸣器"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元海旭品牌商品券",
-      "brand_name": "S&S(海旭)",
-      "brand_id": "11883",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 489,
-      "catalog_groups": [
-        "扬声器/喇叭",
-        "蜂鸣器"
-      ]
     }
   ],
   "螺柱&螺杆": [
@@ -48297,29 +46756,6 @@
         "旋转编码开关",
         "直键开关",
         "线对板针座",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
-      ]
-    },
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
         "行程开关",
         "轻触开关",
         "轻触开关/按键开关"
@@ -48705,65 +47141,6 @@
         "逻辑门",
         "静电和浪涌保护(TVS/ESD)",
         "音频功率放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -50131,53 +48508,6 @@
         "隔离式DC/DC转换器",
         "音频功率放大器"
       ]
-    },
-    {
-      "coupon_name": "15元固电品牌商品券",
-      "brand_name": "GUDIAN(固电)",
-      "brand_id": "18661",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 608,
-      "catalog_groups": [
-        "功率电感",
-        "磁珠",
-        "网口变压器",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元宏业品牌商品券",
-      "brand_name": "HYHONGYEX(宏业)",
-      "brand_id": "12450",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 411,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "磁珠",
-        "贴片电感"
-      ]
-    },
-    {
-      "coupon_name": "<商城新人>15元元磁品牌商品券",
-      "brand_name": "Magnetsyc(元磁)",
-      "brand_id": "16049",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 24,
-      "catalog_groups": [
-        "共模滤波器",
-        "功率电感",
-        "贴片电感"
-      ]
     }
   ],
   "贴片电阻": [
@@ -50195,24 +48525,6 @@
         "电流采样电阻/分流器",
         "贴片电阻",
         "铝壳/瓷管电阻"
-      ]
-    },
-    {
-      "coupon_name": "15元开步睿思品牌指定类目商品券",
-      "brand_name": "RESI(开步睿思)",
-      "brand_id": "11761",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 677,
-      "catalog_groups": [
-        "NTC热敏电阻",
-        "PTC热敏电阻",
-        "插件电阻",
-        "电流传感器",
-        "电流采样电阻/分流器",
-        "贴片电阻"
       ]
     }
   ],
@@ -51246,29 +49558,6 @@
         "锂锰纽扣电池",
         "音频连接器(耳机)"
       ]
-    },
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
-      ]
     }
   ],
   "轻触开关/按键开关": [
@@ -51289,29 +49578,6 @@
         "旋转编码开关",
         "直键开关",
         "线对板针座",
-        "行程开关",
-        "轻触开关",
-        "轻触开关/按键开关"
-      ]
-    },
-    {
-      "coupon_name": "15元台普品牌商品券",
-      "brand_name": "ROCPU Switches(台普)",
-      "brand_id": "12574",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 623,
-      "catalog_groups": [
-        "多功能开关",
-        "拨码开关",
-        "指示灯",
-        "按钮开关",
-        "按键开关",
-        "振动传感器",
-        "旋转开关",
-        "滑动开关",
         "行程开关",
         "轻触开关",
         "轻触开关/按键开关"
@@ -52230,34 +50496,6 @@
         "通用二极管",
         "逻辑输出光耦",
         "隔离式放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -53826,83 +52064,6 @@
         "通用二极管",
         "逻辑输出光耦",
         "隔离式放大器"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元森美特品牌商品券",
-      "brand_name": "SUNMATE(森美特)",
-      "brand_id": "1195",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 161,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "快恢复/高效率二极管",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
       ]
     }
   ],
@@ -56553,83 +54714,6 @@
         "达林顿晶体管阵列",
         "通用二极管",
         "逻辑门",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元鲁晶品牌商品券",
-      "brand_name": "luJing(鲁晶)",
-      "brand_id": "18832",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 586,
-      "catalog_groups": [
-        "三极管(BJT)",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "数字晶体管",
-        "整流桥",
-        "晶闸管(可控硅)/模块",
-        "电压基准芯片",
-        "碳化硅二极管",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "达林顿管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "<品牌新人>15元森美特品牌商品券",
-      "brand_name": "SUNMATE(森美特)",
-      "brand_id": "1195",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 161,
-      "catalog_groups": [
-        "半导体放电管(TSS)",
-        "快恢复/高效率二极管",
-        "稳压二极管",
-        "肖特基二极管",
-        "通用二极管",
-        "静电和浪涌保护(TVS/ESD)"
-      ]
-    },
-    {
-      "coupon_name": "15元钜兴品牌商品券",
-      "brand_name": "JUXING(钜兴)",
-      "brand_id": "13374",
-      "activity_name": "26年8月品牌推广活动",
-      "min_order_amount": 16.0,
-      "coupon_amount": 15.0,
-      "min_order_after_discount": 1.0,
-      "receive_customer_num": 262,
-      "catalog_groups": [
-        "IGBT管/模块",
-        "LED驱动",
-        "三极管(BJT)",
-        "半导体放电管(TSS)",
-        "压敏电阻",
-        "场效应管(MOSFET)",
-        "开关二极管",
-        "快恢复/高效率二极管",
-        "整流桥",
-        "晶体管输出光耦",
-        "晶闸管(可控硅)/模块",
-        "气体放电管(GDT)",
-        "电压基准芯片",
-        "稳压二极管",
-        "线性稳压器(LDO)",
-        "肖特基二极管",
-        "触发二极管",
-        "通用二极管",
         "静电和浪涌保护(TVS/ESD)"
       ]
     }
