@@ -1,11 +1,4 @@
 {
-  "506,991,11478,13437,11353,15786,11964,11955,16624,11854": {
-    "coupon_name": "10元赞助品牌现货样品券",
-    "brand_name": "Sensirion(瑞士盛思锐),HONOR(荣誉),KANGNEX(康奈克斯电气),HXY MOSFET(华轩阳电子),SXN(顺翔诺),Lewa Micro(乐瓦微电子),DORABO(地博电气),SHOU HAN(首韩),JXTCONN(聚兴泰),baocheng(宝乘)",
-    "brand_id": "506,991,11478,13437,11353,15786,11964,11955,16624,11854",
-    "min_order_amount": 11.0,
-    "coupon_amount": 10.0
-  },
   "18279": {
     "coupon_name": "15元捷而瑞品牌商品券",
     "brand_name": "JIERR(捷而瑞)",
@@ -38,6 +31,13 @@
     "coupon_name": "<品牌新人>25元温达电子品牌商品券",
     "brand_name": "ZGWD(温达电子)",
     "brand_id": "16617",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "12460": {
+    "coupon_name": "25元捷容品牌商品券",
+    "brand_name": "JIERONG(捷容)",
+    "brand_id": "12460",
     "min_order_amount": 26.0,
     "coupon_amount": 25.0
   },
@@ -1844,6 +1844,20 @@
     "coupon_name": "<商城新人>15元云星品牌商品券",
     "brand_name": "Yunxing(云星)",
     "brand_id": "11464",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "18552": {
+    "coupon_name": "15元宝特品牌商品券",
+    "brand_name": "BAOTER(宝特)",
+    "brand_id": "18552",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "832": {
+    "coupon_name": "<品牌新人>15元航顺品牌商品券",
+    "brand_name": "HK(航顺)",
+    "brand_id": "832",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
