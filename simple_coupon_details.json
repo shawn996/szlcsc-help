@@ -6,20 +6,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "17513": {
-    "coupon_name": "25元诚韬品牌商品券",
-    "brand_name": "ChengTao(诚韬)",
-    "brand_id": "17513",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
-  "16003": {
-    "coupon_name": "25元技象科技品牌商品券",
-    "brand_name": "techphant(技象科技)",
-    "brand_id": "16003",
-    "min_order_amount": 26.0,
-    "coupon_amount": 25.0
-  },
   "11930": {
     "coupon_name": "25元米客方德品牌商品券",
     "brand_name": "MK(米客方德)",
@@ -1860,6 +1846,20 @@
     "brand_id": "832",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "17513": {
+    "coupon_name": "25元诚韬品牌商品券",
+    "brand_name": "ChengTao(诚韬)",
+    "brand_id": "17513",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
+  },
+  "16003": {
+    "coupon_name": "25元技象科技品牌商品券",
+    "brand_name": "techphant(技象科技)",
+    "brand_id": "16003",
+    "min_order_amount": 26.0,
+    "coupon_amount": 25.0
   },
   "17310": {
     "coupon_name": "20元信德品牌工业品券",
