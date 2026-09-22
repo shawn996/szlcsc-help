@@ -20,13 +20,6 @@
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
-  "12313": {
-    "coupon_name": "15元杰盛微品牌商品券",
-    "brand_name": "JSMSEMI(杰盛微)",
-    "brand_id": "12313",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "12754": {
     "coupon_name": "<品牌新人>30元先积集成品牌商品券",
     "brand_name": "Linearin(先积集成)",
@@ -1958,13 +1951,6 @@
     "brand_id": "11722",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
-  },
-  "17310": {
-    "coupon_name": "20元信德品牌工业品券",
-    "brand_name": "SDTRUVAL(信德)",
-    "brand_id": "17310",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
   },
   "12388": {
     "coupon_name": "<品牌新人>15元斯泰普品牌工业品券",
