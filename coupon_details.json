@@ -21311,7 +21311,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 120,
+      "receive_customer_num": 121,
       "catalog_groups": [
         "NTC热敏电阻",
         "一体成型电感",
@@ -36607,7 +36607,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 120,
+      "receive_customer_num": 121,
       "catalog_groups": [
         "NTC热敏电阻",
         "一体成型电感",
@@ -44383,7 +44383,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 120,
+      "receive_customer_num": 121,
       "catalog_groups": [
         "NTC热敏电阻",
         "一体成型电感",
@@ -47318,7 +47318,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 120,
+      "receive_customer_num": 121,
       "catalog_groups": [
         "NTC热敏电阻",
         "一体成型电感",
@@ -54572,7 +54572,7 @@
       "min_order_amount": 11.0,
       "coupon_amount": 10.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 1024,
+      "receive_customer_num": 1025,
       "catalog_groups": [
         "场效应管(MOSFET)",
         "碳化硅场效应管(MOSFET)"
@@ -54603,7 +54603,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 349,
+      "receive_customer_num": 350,
       "catalog_groups": [
         "场效应管(MOSFET)",
         "线性稳压器(LDO)"
@@ -57740,7 +57740,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 361,
+      "receive_customer_num": 362,
       "catalog_groups": [
         "天线",
         "排母",
@@ -70419,7 +70419,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 361,
+      "receive_customer_num": 362,
       "catalog_groups": [
         "天线",
         "排母",
@@ -72916,7 +72916,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 361,
+      "receive_customer_num": 362,
       "catalog_groups": [
         "天线",
         "排母",
@@ -110897,7 +110897,7 @@
       "min_order_amount": 11.0,
       "coupon_amount": 10.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 1024,
+      "receive_customer_num": 1025,
       "catalog_groups": [
         "场效应管(MOSFET)",
         "碳化硅场效应管(MOSFET)"
@@ -111591,7 +111591,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 120,
+      "receive_customer_num": 121,
       "catalog_groups": [
         "NTC热敏电阻",
         "一体成型电感",
@@ -116556,7 +116556,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 361,
+      "receive_customer_num": 362,
       "catalog_groups": [
         "天线",
         "排母",
@@ -118534,7 +118534,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 349,
+      "receive_customer_num": 350,
       "catalog_groups": [
         "场效应管(MOSFET)",
         "线性稳压器(LDO)"
@@ -124956,7 +124956,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 361,
+      "receive_customer_num": 362,
       "catalog_groups": [
         "天线",
         "排母",
@@ -126763,7 +126763,7 @@
       "min_order_amount": 16.0,
       "coupon_amount": 15.0,
       "min_order_after_discount": 1.0,
-      "receive_customer_num": 361,
+      "receive_customer_num": 362,
       "catalog_groups": [
         "天线",
         "排母",
