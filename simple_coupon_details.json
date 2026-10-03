@@ -1,10 +1,10 @@
 {
   "11687": {
-    "coupon_name": "15元讯普品牌商品券",
+    "coupon_name": "学生认证 | 10元讯普品牌商品券",
     "brand_name": "XUNPU(讯普)",
     "brand_id": "11687",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0
   },
   "12245": {
     "coupon_name": "15元固得沃克品牌商品券",
@@ -21,11 +21,11 @@
     "coupon_amount": 15.0
   },
   "11722": {
-    "coupon_name": "15元中国星坤品牌商品券",
+    "coupon_name": "学生认证 | 10元中国星坤品牌商品券",
     "brand_name": "XKB Connection(中国星坤)",
     "brand_id": "11722",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0
   },
   "15280": {
     "coupon_name": "15元爱普微品牌商品券",
@@ -70,7 +70,7 @@
     "coupon_amount": 15.0
   },
   "11425": {
-    "coupon_name": "<品牌新人>15元长江微电品牌商品券",
+    "coupon_name": "学生认证 | 15元长江微电品牌商品券",
     "brand_name": "cjiang(长江微电)",
     "brand_id": "11425",
     "min_order_amount": 16.0,
@@ -143,118 +143,6 @@
     "coupon_name": "15元捷而瑞品牌商品券",
     "brand_name": "JIERR(捷而瑞)",
     "brand_id": "18279",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "27131": {
-    "coupon_name": "15元领晨品牌商品券",
-    "brand_name": "领晨",
-    "brand_id": "27131",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11883": {
-    "coupon_name": "<品牌新人>15元海旭品牌商品券",
-    "brand_name": "S&S(海旭)",
-    "brand_id": "11883",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12705": {
-    "coupon_name": "<品牌新人>15元银月光品牌商品券",
-    "brand_name": "Silverlight(银月光)",
-    "brand_id": "12705",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "935": {
-    "coupon_name": "15元长江连接器品牌商品券",
-    "brand_name": "CJT(长江连接器)",
-    "brand_id": "935",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15465": {
-    "coupon_name": "15元宇熙精密品牌商品券",
-    "brand_name": "Yxcon(宇熙精密)",
-    "brand_id": "15465",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "13390": {
-    "coupon_name": "<品牌新人>15元芯声品牌商品券",
-    "brand_name": "HRE(芯声)",
-    "brand_id": "13390",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12450": {
-    "coupon_name": "<品牌新人>15元宏业品牌商品券",
-    "brand_name": "HYHONGYEX(宏业)",
-    "brand_id": "12450",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "857": {
-    "coupon_name": "15元屹晶微品牌商品券",
-    "brand_name": "EG(屹晶微)",
-    "brand_id": "857",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "11973": {
-    "coupon_name": "15元科雅品牌商品券",
-    "brand_name": "KYET(科雅)",
-    "brand_id": "11973",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "16222": {
-    "coupon_name": "15元芯昌科技品牌商品券",
-    "brand_name": "SiChange(芯昌科技)",
-    "brand_id": "16222",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12612": {
-    "coupon_name": "15元国晶微半导体品牌商品券",
-    "brand_name": "SUPSiC(国晶微半导体)",
-    "brand_id": "12612",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "15786": {
-    "coupon_name": "15元乐瓦微电子品牌商品券",
-    "brand_name": "Lewa Micro(乐瓦微电子)",
-    "brand_id": "15786",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "17375": {
-    "coupon_name": "15元先进光品牌商品券",
-    "brand_name": "APSEMI(先进光)",
-    "brand_id": "17375",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "164": {
-    "coupon_name": "<品牌新人>15元MDD品牌商品券",
-    "brand_name": "MDD(辰达半导体)",
-    "brand_id": "164",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "12108": {
-    "coupon_name": "<品牌新人>15元科尼盛品牌商品券",
-    "brand_name": "KNSCHA(科尼盛)",
-    "brand_id": "12108",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "287": {
-    "coupon_name": "<品牌新人>15元扬兴晶振品牌商品券",
-    "brand_name": "YXC(扬兴晶振)",
-    "brand_id": "287",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -685,6 +573,13 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "13390": {
+    "coupon_name": "学生认证 | 15元芯声品牌商品券",
+    "brand_name": "HRE(芯声)",
+    "brand_id": "13390",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
   "11601": {
     "coupon_name": "15元晶创和立品牌商品券",
     "brand_name": "JCHL(晶创和立)",
@@ -803,6 +698,13 @@
     "brand_id": "15187",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "287": {
+    "coupon_name": "学生认证 | 6元扬兴晶振品牌商品券",
+    "brand_name": "YXC(扬兴晶振)",
+    "brand_id": "287",
+    "min_order_amount": 6.01,
+    "coupon_amount": 6.0
   },
   "15966": {
     "coupon_name": "15元众迪品牌商品券",
@@ -1125,6 +1027,13 @@
     "brand_id": "13318",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "12108": {
+    "coupon_name": "学生认证 | 10元科尼盛品牌商品券",
+    "brand_name": "KNSCHA(科尼盛)",
+    "brand_id": "12108",
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0
   },
   "11948": {
     "coupon_name": "15元雷卯电子品牌商品券",
@@ -1784,6 +1693,13 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "164": {
+    "coupon_name": "学生认证 | 10元MDD品牌商品券",
+    "brand_name": "MDD(辰达半导体)",
+    "brand_id": "164",
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0
+  },
   "16013": {
     "coupon_name": "15元摩天射频品牌工业品券",
     "brand_name": "MyAntenna(摩天射频)",
@@ -1893,6 +1809,90 @@
     "coupon_name": "15元汉博品牌商品券",
     "brand_name": "HANBO(汉博)",
     "brand_id": "12025",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "27131": {
+    "coupon_name": "15元领晨品牌商品券",
+    "brand_name": "领晨",
+    "brand_id": "27131",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11883": {
+    "coupon_name": "<品牌新人>15元海旭品牌商品券",
+    "brand_name": "S&S(海旭)",
+    "brand_id": "11883",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12705": {
+    "coupon_name": "<品牌新人>15元银月光品牌商品券",
+    "brand_name": "Silverlight(银月光)",
+    "brand_id": "12705",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "935": {
+    "coupon_name": "15元长江连接器品牌商品券",
+    "brand_name": "CJT(长江连接器)",
+    "brand_id": "935",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15465": {
+    "coupon_name": "15元宇熙精密品牌商品券",
+    "brand_name": "Yxcon(宇熙精密)",
+    "brand_id": "15465",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12450": {
+    "coupon_name": "<品牌新人>15元宏业品牌商品券",
+    "brand_name": "HYHONGYEX(宏业)",
+    "brand_id": "12450",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "857": {
+    "coupon_name": "15元屹晶微品牌商品券",
+    "brand_name": "EG(屹晶微)",
+    "brand_id": "857",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "11973": {
+    "coupon_name": "15元科雅品牌商品券",
+    "brand_name": "KYET(科雅)",
+    "brand_id": "11973",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16222": {
+    "coupon_name": "15元芯昌科技品牌商品券",
+    "brand_name": "SiChange(芯昌科技)",
+    "brand_id": "16222",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12612": {
+    "coupon_name": "15元国晶微半导体品牌商品券",
+    "brand_name": "SUPSiC(国晶微半导体)",
+    "brand_id": "12612",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15786": {
+    "coupon_name": "15元乐瓦微电子品牌商品券",
+    "brand_name": "Lewa Micro(乐瓦微电子)",
+    "brand_id": "15786",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "17375": {
+    "coupon_name": "15元先进光品牌商品券",
+    "brand_name": "APSEMI(先进光)",
+    "brand_id": "17375",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
