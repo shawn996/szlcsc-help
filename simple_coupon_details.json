@@ -146,13 +146,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "832": {
-    "coupon_name": "<品牌新人>15元航顺品牌商品券",
-    "brand_name": "HK(航顺)",
-    "brand_id": "832",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "16003": {
     "coupon_name": "25元技象科技品牌商品券",
     "brand_name": "techphant(技象科技)",
@@ -1265,6 +1258,13 @@
     "brand_id": "11438",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
+  },
+  "832": {
+    "coupon_name": "50元航顺品牌开发板商品券",
+    "brand_name": "HK(航顺)",
+    "brand_id": "832",
+    "min_order_amount": 51.0,
+    "coupon_amount": 50.0
   },
   "11439": {
     "coupon_name": "15元合科泰品牌商品券",
