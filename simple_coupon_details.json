@@ -97,13 +97,6 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
-  "16607": {
-    "coupon_name": "15元杜因特品牌商品券",
-    "brand_name": "DOINGTER(杜因特)",
-    "brand_id": "16607",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
   "17409": {
     "coupon_name": "15元新锐品牌商品券",
     "brand_name": "XNRUSEMI(新锐)",
@@ -143,6 +136,13 @@
     "coupon_name": "15元捷而瑞品牌商品券",
     "brand_name": "JIERR(捷而瑞)",
     "brand_id": "18279",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "832": {
+    "coupon_name": "<品牌新人>15元航顺品牌商品券",
+    "brand_name": "HK(航顺)",
+    "brand_id": "832",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -661,6 +661,13 @@
     "coupon_name": "15元华宇创品牌工业品券",
     "brand_name": "HOAUC(华宇创)",
     "brand_id": "11834",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16607": {
+    "coupon_name": "15元杜因特品牌商品券",
+    "brand_name": "DOINGTER(杜因特)",
+    "brand_id": "16607",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -1258,13 +1265,6 @@
     "brand_id": "11438",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
-  },
-  "832": {
-    "coupon_name": "50元航顺品牌开发板商品券",
-    "brand_name": "HK(航顺)",
-    "brand_id": "832",
-    "min_order_amount": 51.0,
-    "coupon_amount": 50.0
   },
   "11439": {
     "coupon_name": "15元合科泰品牌商品券",
@@ -1893,6 +1893,41 @@
     "coupon_name": "15元先进光品牌商品券",
     "brand_name": "APSEMI(先进光)",
     "brand_id": "17375",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "13426": {
+    "coupon_name": "15元方舟微品牌商品券",
+    "brand_name": "ARK(方舟微)",
+    "brand_id": "13426",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12404": {
+    "coupon_name": "<品牌新人>15元天成品牌商品券",
+    "brand_name": "TCWIN(天成)",
+    "brand_id": "12404",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "12047": {
+    "coupon_name": "15元杭晶品牌商品券",
+    "brand_name": "HCI(杭晶)",
+    "brand_id": "12047",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16226": {
+    "coupon_name": "15元三佐品牌商品券",
+    "brand_name": "SAMZO(三佐)",
+    "brand_id": "16226",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "15171": {
+    "coupon_name": "15元格林柏品牌商品券",
+    "brand_name": "WingTAT(格林柏)",
+    "brand_id": "15171",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
