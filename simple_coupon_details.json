@@ -1,15 +1,15 @@
 {
+  "26882": {
+    "coupon_name": "20元莱联品牌商品券",
+    "brand_name": "LAILAN(莱联)",
+    "brand_id": "26882",
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0
+  },
   "18279": {
     "coupon_name": "15元捷而瑞品牌商品券",
     "brand_name": "JIERR(捷而瑞)",
     "brand_id": "18279",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0
-  },
-  "832": {
-    "coupon_name": "<品牌新人>15元航顺品牌商品券",
-    "brand_name": "HK(航顺)",
-    "brand_id": "832",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
@@ -66,13 +66,6 @@
     "coupon_name": "20元易成品牌商品券",
     "brand_name": "EVISUN(易成)",
     "brand_id": "15453",
-    "min_order_amount": 21.0,
-    "coupon_amount": 20.0
-  },
-  "26882": {
-    "coupon_name": "20元莱联品牌商品券",
-    "brand_name": "LAILAN(莱联)",
-    "brand_id": "26882",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0
   },
@@ -1238,6 +1231,13 @@
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
+  "832": {
+    "coupon_name": "50元航顺品牌开发板商品券",
+    "brand_name": "HK(航顺)",
+    "brand_id": "832",
+    "min_order_amount": 51.0,
+    "coupon_amount": 50.0
+  },
   "11439": {
     "coupon_name": "15元合科泰品牌商品券",
     "brand_name": "HKT(合科泰)",
@@ -1977,6 +1977,34 @@
     "coupon_name": "15元美韩品牌商品券",
     "brand_name": "USAKRO(美韩)",
     "brand_id": "12164",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "27130": {
+    "coupon_name": "15元信达兴品牌商品券",
+    "brand_name": "Powersi(信达兴)",
+    "brand_id": "27130",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "16923": {
+    "coupon_name": "<品牌新人>15元豪帮高科品牌商品券",
+    "brand_name": "HBGK(豪帮高科)",
+    "brand_id": "16923",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "27394": {
+    "coupon_name": "<品牌新人>15元明惠成和品牌商品券",
+    "brand_name": "MHCH(明惠成和)",
+    "brand_id": "27394",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0
+  },
+  "13452": {
+    "coupon_name": "15元信维通信品牌商品券",
+    "brand_name": "Sunway(信维通信)",
+    "brand_id": "13452",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0
   },
