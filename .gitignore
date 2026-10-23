@@ -1,0 +1,11 @@
+# 由 main.py / GitHub Actions 生成的运行时数据（部署时自动生成，无需入库）
+html/coupon_details.json
+html/simple_coupon_details.json
+html/run_time.txt
+
+# 本地原型验证用的原始数据 dump（sample_data.js 由它导出，保留）
+prototypes/_live_coupon.json
+
+# WorkBuddy 会话数据与本地验证产物
+.workbuddy/
+__pycache__/

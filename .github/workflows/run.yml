@@ -2,12 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   schedule:
-    # 每月1-7号每天8点20运行一次
-    - cron: '30 6 1-7 * *'
-      timezone: 'Asia/Shanghai'
-    # 每周二和周五运行一次
-    - cron: '30 6 * * 2,5'
-      timezone: 'Asia/Shanghai'
+    # 北京时间每天 7:30 更新一次（UTC 23:30，GitHub Actions 按 UTC 调度）
+    - cron: '30 23 * * *'
   push:
     branches:
       - master

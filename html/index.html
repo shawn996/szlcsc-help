@@ -1,126 +1,189 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-  <head>
-    <!-- Meta Tags -->
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="立创商城优惠券助手 - 帮助选择立创商城优惠券的工具网站"
-    />
-    <meta name="keywords" content="立创商城,优惠券,电子元件,PCB" />
-    <meta
-      http-equiv="Cache-Control"
-      content="no-cache, no-store, must-revalidate"
-    />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-
-    <!-- Title and Favicon -->
-    <title>立创商城优惠券助手</title>
-    <link rel="icon" type="image/svg+xml" href="logo.ico" />
-
-    <!-- Internal Resources -->
-    <link rel="stylesheet" href="style.css" />
-    <script src="app.js" defer></script>
-  </head>
-  <body>
-    <!-- Header Section -->
-    <header class="topbar">
-      <h1>立创商城优惠券助手</h1>
-      <nav class="topbar-right">
-        <button class="search-toggle" id="searchToggle" aria-label="搜索">
-          <i class="fas fa-search"></i>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>立创商城优惠券助手 - 品牌满减券每日汇总，一键领取</title>
+  <meta name="description" content="立创商城优惠券助手：每日自动汇总立创商城领券中心的品牌优惠券，按 400+ 元器件分类整理 3600+ 张满减券，每个分类标出最高优惠力度，支持搜索与排序，一键直达官方领券页面。免费使用，数据每日更新。">
+  <meta name="keywords" content="立创商城优惠券助手,立创商城优惠券,立创优惠券,立创领券中心,元器件优惠券,电子元器件优惠,立创满减券,品牌优惠券,立创商城优惠活动">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <link rel="canonical" href="https://lcsc.fdemo.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="立创商城优惠券助手">
+  <meta property="og:title" content="立创商城优惠券助手 - 品牌满减券每日汇总，一键领取">
+  <meta property="og:description" content="每日自动汇总立创商城领券中心的品牌优惠券，按元器件分类整理，突出每类最高优惠力度，支持搜索与排序，一键直达官方领券页。数据每日更新。">
+  <meta property="og:url" content="https://lcsc.fdemo.com/">
+  <meta property="og:locale" content="zh_CN">
+  <link rel="icon" type="image/x-icon" href="logo.ico">
+  <link rel="stylesheet" href="style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "立创商城优惠券助手",
+        "alternateName": ["立创优惠券助手", "立创商城优惠券大全"],
+        "url": "https://lcsc.fdemo.com/",
+        "description": "按元器件分类汇总立创商城品牌优惠券，突出最高满减力度，支持搜索与排序，一键直达官方领券页面。",
+        "inLanguage": "zh-CN"
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "立创商城优惠券怎么领取？",
+            "acceptedAnswer": { "@type": "Answer", "text": "在本站点击任意分类卡片查看该分类下的品牌优惠券，点击券条或「去领券」按钮即可跳转到立创商城官方品牌页面，登录后领取。" }
+          },
+          {
+            "@type": "Question",
+            "name": "优惠券数据多久更新一次？",
+            "acceptedAnswer": { "@type": "Answer", "text": "本站每日自动从立创商城领券中心抓取最新数据，页面顶部与底部均显示最近一次更新时间。" }
+          },
+          {
+            "@type": "Question",
+            "name": "这里的优惠券是官方的吗？领取安全吗？",
+            "acceptedAnswer": { "@type": "Answer", "text": "所有优惠券数据均来源于立创商城官方领券中心，领取操作在立创官方页面完成，本站仅做汇总展示，不涉及账号与支付信息。" }
+          },
+          {
+            "@type": "Question",
+            "name": "为什么有的分类显示满51减50这么高的优惠？",
+            "acceptedAnswer": { "@type": "Answer", "text": "本站只汇总优惠后消费金额不超过 2 元的品牌券（已自动排除平台新人专享券），因此满减力度普遍较高，适合低成本采购样品。" }
+          },
+          {
+            "@type": "Question",
+            "name": "哪些券需要新用户才能领？",
+            "acceptedAnswer": { "@type": "Answer", "text": "平台新人专享券已自动从列表中排除。列表中可能包含「品牌新人券」（券名带 <品牌新人> 标识），此类券仅限品牌店铺新客领取；其余品牌券登录立创商城后所有用户均可领取，具体领取条件以官方页面为准。" }
+          },
+          {
+            "@type": "Question",
+            "name": "怎么快速找到想要的券？",
+            "acceptedAnswer": { "@type": "Answer", "text": "顶部搜索框支持按分类名、品牌名或券名实时过滤（如搜\"电阻\"、\"MPS\"）；也可以用排序按最高优惠、券数量或领取热度浏览。点击分类卡片可查看该分类下的全部品牌券。" }
+          },
+          {
+            "@type": "Question",
+            "name": "优惠券领取有什么限制？",
+            "acceptedAnswer": { "@type": "Answer", "text": "各品牌券数量有限、领完即止，同一张券每个账号通常限领一次；券的使用规则（适用商品、有效期、叠加限制）以立创商城官方页面展示为准，本站数据仅供参考。" }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="head">
+    <div class="head-row">
+      <h1 class="brand">
+        <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M4 7.5A2.5 2.5 0 0 1 6.5 5h11A2.5 2.5 0 0 1 20 7.5v2.2a2 2 0 0 0 0 4.6v2.2A2.5 2.5 0 0 1 17.5 19h-11A2.5 2.5 0 0 1 4 16.5v-2.2a2 2 0 0 0 0-4.6V7.5z"/>
+          <path class="brand-notch" d="M14 5v14" stroke-dasharray="1.6 2"/>
+        </svg>
+        <span class="brand-name">立创商城<em>优惠券助手</em></span>
+      </h1>
+      <div class="head-search">
+        <svg class="search-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input class="search-input" id="search" type="search" placeholder="搜分类、品牌或券名，如 电阻 / MPS / 满减" aria-label="搜索" autocomplete="off">
+      </div>
+      <div class="head-actions">
+        <button class="icon-btn" id="themeBtn" type="button" aria-label="切换深色模式">
+          <svg class="ic-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M19.4 4.6l-1.8 1.8M6.4 17.6l-1.8 1.8"/></svg>
+          <svg class="ic-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4 7 7 0 1 0 20 14.5z"/></svg>
         </button>
-        <button class="info-button" id="showInfo">使用说明</button>
-      </nav>
-    </header>
+        <button class="ghost-btn" id="infoBtn" type="button">使用说明</button>
+      </div>
+    </div>
+  </header>
 
-    <!-- Search Section -->
-    <section class="search-container" role="search">
-      <label class="sr-only" for="categorySearch">搜索分类</label>
-      <input
-        type="text"
-        class="search-box"
-        id="categorySearch"
-        placeholder="搜索分类..."
-        aria-label="搜索分类"
-      />
-      <button class="search-close" id="searchClose" aria-label="关闭搜索">
-        <i class="fas fa-times"></i>
-      </button>
-    </section>
+  <div class="subbar">
+    <div class="sub-left">
+      <div class="count" id="count">加载中…</div>
+      <span class="updated">更新于 <span id="rtTop">—</span></span>
+    </div>
+    <label class="sort">
+      <span>排序</span>
+      <select id="sort" aria-label="排序方式">
+        <option value="deal">最高优惠</option>
+        <option value="count">券数量</option>
+        <option value="recv">领取热度</option>
+      </select>
+    </label>
+  </div>
 
-    <!-- Info Modal -->
-    <dialog class="modal" id="infoModal">
-      <div class="modal-content">
-        <button class="close-button" id="closeModal" aria-label="关闭说明">
-          &times;
+  <main class="grid" id="grid">
+    <noscript>
+      <div class="empty"><p>立创商城优惠券助手需要启用 JavaScript 才能浏览实时优惠券数据。</p>
+      <p>本站每日汇总立创商城品牌满减券（按元器件分类），可前往立创官方领券中心领取。</p></div>
+    </noscript>
+  </main>
+
+  <footer class="seo-foot" id="usageGuide">
+    <div class="foot-inner">
+      <h2>立创商城优惠券助手 · 使用指南</h2>
+      <p class="foot-intro">立创商城优惠券助手每日自动汇总立创商城领券中心的品牌优惠券，按元器件分类整理（电阻、电容、MCU、连接器、电源芯片等 400+ 分类），每个分类标出最高满减力度与可领张数，方便工程师低成本采购样品。优惠券数据每日更新，最近更新于 <span id="rt">—</span>。</p>
+      <div class="faq">
+        <details>
+          <summary>立创商城优惠券怎么领取？</summary>
+          <p>点击任意分类卡片查看该分类下的品牌优惠券，点击券条或「去领券」按钮即可跳转到立创商城官方品牌页面，登录后领取。</p>
+        </details>
+        <details>
+          <summary>优惠券数据多久更新一次？</summary>
+          <p>本站每日自动从立创商城领券中心抓取最新数据，页面顶部与底部均显示最近一次更新时间。</p>
+        </details>
+        <details>
+          <summary>这里的优惠券是官方的吗？领取安全吗？</summary>
+          <p>所有优惠券数据均来源于立创商城官方领券中心，领取操作在立创官方页面完成，本站仅做汇总展示，不涉及账号与支付信息。</p>
+        </details>
+        <details>
+          <summary>为什么有的分类显示满51减50这么高的优惠？</summary>
+          <p>本站只汇总优惠后消费金额不超过 2 元的品牌券（已自动排除平台新人专享券），因此满减力度普遍较高，适合低成本采购样品。</p>
+        </details>
+        <details>
+          <summary>哪些券需要新用户才能领？</summary>
+          <p>平台新人专享券已自动从列表中排除。列表中可能包含「品牌新人券」（券名带 &lt;品牌新人&gt; 标识），此类券仅限品牌店铺新客领取；其余品牌券登录立创商城后所有用户均可领取，具体领取条件以官方页面为准。</p>
+        </details>
+        <details>
+          <summary>怎么快速找到想要的券？</summary>
+          <p>顶部搜索框支持按分类名、品牌名或券名实时过滤（如搜"电阻"、"MPS"）；也可以用排序按最高优惠、券数量或领取热度浏览。点击分类卡片可查看该分类下的全部品牌券。</p>
+        </details>
+        <details>
+          <summary>优惠券领取有什么限制？</summary>
+          <p>各品牌券数量有限、领完即止，同一张券每个账号通常限领一次；券的使用规则（适用商品、有效期、叠加限制）以立创商城官方页面展示为准，本站数据仅供参考。</p>
+        </details>
+      </div>
+      <p class="foot-repo">本站为开源项目，源码与改进讨论见 GitHub：<a href="https://github.com/shawn996/szlcsc-help" target="_blank" rel="noopener">github.com/shawn996/szlcsc-help</a>，欢迎提 Issue 或 PR。</p>
+    </div>
+  </footer>
+
+  <button class="totop" id="totop" type="button" aria-label="返回顶部">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+  </button>
+
+  <!-- 分类详情弹窗 -->
+  <div class="modal" id="catModal" aria-hidden="true">
+    <div class="modal-mask" id="catModalMask"></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="catModalTitle">
+      <header class="modal-head">
+        <div class="modal-titles">
+          <h2 id="catModalTitle">分类</h2>
+          <span class="modal-sub" id="catModalSub"></span>
+        </div>
+        <button class="icon-btn" id="catModalClose" type="button" aria-label="关闭">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
         </button>
-        <h2>使用说明</h2>
-        <div class="description">
-          <p>帮助你快速选择立创商城优惠券的工具。</p>
-          <p>
-            立创商城优惠券每月更新，并以品牌分类，用户往往难以快速找到所需元器件类型的优惠券。本站旨在解决这一痛点，我们以元器件分类为基础，为您筛选出优惠力度较大的优惠券。此外基于“1单可绑定10单免邮费”政策，建议您在下单时顺便捎带一些常见元器件，以备不时之需。
-          </p>
-          <p>
-            网站只显示有优惠券且符合条件（非新人专享，优惠后消费小于等于2元）的厂商。
-          </p>
-          <p>本项目仅用于辅助，不涉及任何商业行为。如有侵权，请联系删除。</p>
-          <p>数据来源：立创商城优惠券中心</p>
+      </header>
+      <div class="modal-tools">
+        <div class="search-bar sm">
+          <svg class="search-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+          <input class="search-input" id="catSearch" type="search" placeholder="在本分类内搜品牌 / 券名" aria-label="分类内搜索" autocomplete="off">
         </div>
       </div>
-    </dialog>
+      <div class="modal-body" id="catModalBody"></div>
+    </div>
+  </div>
 
-    <!-- Main Content -->
-    <main class="container">
-      <!-- Statistics Section -->
-      <section class="stats" aria-label="网站统计">
-        <h3 id="run_time">更新时间</h3>
-        <div id="count" class="stats-item">统计加载中...</div>
-      </section>
-
-      <!-- Category Navigation -->
-      <nav
-        id="category-nav"
-        class="category-navigation"
-        aria-label="分类导航"
-      ></nav>
-
-      <!-- Loading Section -->
-      <div id="loading" class="loading" aria-live="polite">
-        <div class="loading-spinner" role="status">
-          <span class="sr-only">数据加载中...</span>
-        </div>
-        <p>数据加载中...</p>
-      </div>
-
-      <!-- Coupon Grid -->
-      <section
-        id="coupon-grid"
-        class="coupon-grid"
-        aria-label="优惠券列表"
-      ></section>
-
-      <!-- Back to Top Button -->
-      <button class="back-to-top" id="backToTop" aria-label="返回顶部">
-        <i class="fas fa-arrow-up"></i>
-      </button>
-    </main>
-
-    <!-- Template for Coupon Modal (will be populated by JavaScript) -->
-    <template id="couponModalTemplate">
-      <div class="coupon-modal-content">
-        <header class="coupon-modal-header">
-          <h2></h2>
-          <button class="coupon-modal-close" aria-label="关闭详情">
-            <i class="fas fa-times"></i>
-          </button>
-        </header>
-        <div class="coupon-modal-body">
-          <ul class="coupon-list"></ul>
-        </div>
-      </div>
-    </template>
-  </body>
+  <!-- 使用说明已并入页脚「使用指南」区域，顶部按钮滚动跳转 -->
+</body>
 </html>

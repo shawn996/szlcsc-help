@@ -35,6 +35,7 @@ async def get_brand_categories(session, brand_id: str) -> list[str]:
 async def parse_coupon_details(session, coupon_data: dict) -> dict:
     product_categories = await get_brand_categories(session, coupon_data['brandIds'])
     return {
+        "coupon_id": coupon_data.get('couponId'),
         "coupon_name": coupon_data['couponName'],
         "brand_name": coupon_data['brandNames'],
         "brand_id": coupon_data['brandIds'],
@@ -43,17 +44,21 @@ async def parse_coupon_details(session, coupon_data: dict) -> dict:
         "coupon_amount": coupon_data['couponAmount'],
         "min_order_after_discount": coupon_data['minOrderMoney'] - coupon_data['couponAmount'],
         "receive_customer_num": coupon_data['receiveCustomerNum'],
+        "total_coupon_num": coupon_data.get('totalCouponNum'),
         "catalog_groups": product_categories
     }
 
 # 解析优惠券简要信息
 async def parse_simple_coupon_details(session, coupon_data: dict) -> dict:
     return {
+        "coupon_id": coupon_data.get('couponId'),
         "coupon_name": coupon_data['couponName'],
         "brand_name": coupon_data['brandNames'],
         "brand_id": coupon_data['brandIds'],
         "min_order_amount": coupon_data['minOrderMoney'],
-        "coupon_amount": coupon_data['couponAmount']
+        "coupon_amount": coupon_data['couponAmount'],
+        "receive_customer_num": coupon_data['receiveCustomerNum'],
+        "total_coupon_num": coupon_data.get('totalCouponNum')
     }
 
 # 过滤和分类优惠券
