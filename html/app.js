@@ -7,7 +7,7 @@ class CouponApp {
     this.cats = [];
     this.total = 0;
     this.query = '';
-    this.sortKey = 'deal';
+    this.sortKey = 'recv'; // 默认按领取热度
     this.currentCat = null;
     this.catQuery = '';
     this.catSort = 'deal';
@@ -53,6 +53,22 @@ class CouponApp {
       return { name, list, count: list.length, best, totalRecv, minAfter };
     }).filter(c => c.count > 0);
     this.total = this.cats.reduce((s, c) => s + c.count, 0);
+    // Hero 统计胶囊
+    const hc = document.getElementById('heroCats'), hcp = document.getElementById('heroCoupons');
+    if (hc) hc.textContent = this.cats.length;
+    if (hcp) hcp.textContent = this.total;
+  }
+
+  // 分类内去重品牌全名（悬停 title 用）
+  brandList(c) {
+    return [...new Set(c.list.map(x => (x.brand_name || '').trim()).filter(Boolean))];
+  }
+
+  // 分类内去重品牌短名（取括号前），最多 3 个 + 等 N 家
+  brandPreview(c) {
+    const names = [...new Set(c.list.map(x => (x.brand_name || '').split('(')[0].trim()).filter(Boolean))];
+    const head = names.slice(0, 3).join(' · ');
+    return names.length > 3 ? `${head} 等 ${names.length} 家品牌` : `${head} ${names.length} 家品牌`;
   }
 
   catMatches(c) {
@@ -97,7 +113,6 @@ class CouponApp {
   }
 
   sortCats(a, b) {
-    if (this.sortKey === 'count') return b.count - a.count;
     if (this.sortKey === 'recv') return b.totalRecv - a.totalRecv;
     return (b.best.coupon_amount || 0) - (a.best.coupon_amount || 0);
   }
@@ -115,7 +130,7 @@ class CouponApp {
       const list = this.matchedCoupons();
 
       // 组内排序键
-      const byRecv = this.sortKey === 'recv' || this.sortKey === 'count';
+      const byRecv = this.sortKey === 'recv';
       const innerSort = byRecv
         ? (a, b) => (b.x.receive_customer_num || 0) - (a.x.receive_customer_num || 0)
         : (a, b) => (b.x.coupon_amount || 0) - (a.x.coupon_amount || 0);
@@ -159,7 +174,8 @@ class CouponApp {
             <span class="cat-name">${this.esc(c.name)}</span>
             <span class="cat-count">${c.count} 张</span>
           </div>
-          <div class="cat-deal-line">最高优惠<b>满${this.fmt(c.best.min_order_amount)}减${this.fmt(c.best.coupon_amount)}</b></div>
+          <div class="cat-brands" title="品牌：${this.esc(this.brandList(c).join('、'))}"><b>${this.esc(this.brandPreview(c))}</b></div>
+          <div class="cat-deal"><span class="lbl">最高优惠</span><b>满${this.fmt(c.best.min_order_amount)}减${this.fmt(c.best.coupon_amount)}</b></div>
         </button>`).join('');
       grid.querySelectorAll('.cat-card').forEach(el =>
         el.addEventListener('click', () => this.openCat(el.dataset.name)));
@@ -232,7 +248,6 @@ class CouponApp {
         || (c.coupon_name || '').toLowerCase().includes(q));
     }
     if (this.catSort === 'recv') list.sort((a, b) => b.receive_customer_num - a.receive_customer_num);
-    else if (this.catSort === 'count') list.sort((a, b) => b.receive_customer_num - a.receive_customer_num); // 券数量对单张券无意义，回退热度
     else list.sort((a, b) => b.coupon_amount - a.coupon_amount); // deal：优惠力度
 
     const body = document.getElementById('catModalBody');

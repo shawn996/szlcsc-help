@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>「最高优惠」样式对比 · E 极光玻璃</title>
+<style>
+:root{
+  --brand:#4F46E5; --brand-deep:#4338CA;
+  --ink:#0F172A; --mute:#64748B;
+  --canvas:#FFFFFF; --soft:#F6F7FB; --line:#E8EAF3;
+  --sh1:0 1px 3px rgba(23,23,60,.06); --sh2:0 12px 32px rgba(60,60,160,.14),0 2px 8px rgba(60,60,160,.06);
+  --grad:linear-gradient(92deg,#4F46E5 5%,#7C3AED 55%,#DB2777 100%);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+  background:var(--canvas);color:var(--ink);line-height:1.55;font-size:15px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1200px;margin:0 auto;padding:40px 24px 80px}
+h1{font-size:20px;font-weight:800;margin-bottom:6px}
+.tip{font-size:13px;color:var(--mute);margin-bottom:28px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px}
+.item{display:flex;flex-direction:column;gap:10px}
+/* 卡片 = E 主原型 */
+.cat-card{position:relative;background:#fff;border:1px solid var(--line);border-radius:16px;
+  padding:20px;min-height:132px;cursor:pointer;text-align:left;font:inherit;color:inherit;width:100%;
+  display:flex;flex-direction:column;gap:10px;box-shadow:var(--sh1);overflow:hidden;
+  transition:box-shadow .18s,transform .18s,border-color .18s}
+.cat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;
+  background:var(--grad);opacity:0;transition:opacity .18s}
+.cat-card:hover{box-shadow:var(--sh2);transform:translateY(-2px);border-color:#C9CDF7}
+.cat-card:hover::before{opacity:1}
+.cat-top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+.cat-name{font-weight:700;font-size:16px;line-height:1.35}
+.cat-count{flex:0 0 auto;font-size:11px;font-weight:600;color:var(--brand);
+  background:#EEF0FF;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.num{font-feature-settings:"tnum"}
+.gnum{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:800}
+/* ===== 变体 A：渐变胶囊 ===== */
+.deal-a{margin-top:auto;font-size:12.5px;color:var(--mute);display:flex;align-items:center;
+  justify-content:space-between;gap:8px}
+.deal-a .pill{background:var(--grad);color:#fff;padding:5px 13px;border-radius:999px;
+  font-size:13px;font-weight:700;font-feature-settings:"tnum";letter-spacing:-.01em;
+  box-shadow:0 3px 10px rgba(90,60,220,.25);white-space:nowrap}
+/* ===== 变体 B：大数字（减50 主视觉） ===== */
+.deal-b{margin-top:auto;display:flex;flex-direction:column;gap:2px}
+.deal-b .lbl{font-size:11.5px;color:var(--mute);letter-spacing:.04em}
+.deal-b .row{display:flex;align-items:baseline;gap:7px}
+.deal-b b{font-size:24px;font-weight:800;font-feature-settings:"tnum";letter-spacing:-.03em;line-height:1.1}
+.deal-b .cond{font-size:12px;color:var(--mute)}
+/* ===== 变体 C：票签（虚线券框） ===== */
+.deal-c{margin-top:auto;font-size:12.5px;color:var(--mute);display:flex;align-items:center;
+  justify-content:space-between;gap:8px}
+.deal-c .tag{border:1.5px dashed #A5B4FC;background:#F5F6FF;color:#4338CA;
+  padding:6px 13px;border-radius:9px;font-weight:700;font-size:13.5px;
+  font-feature-settings:"tnum";white-space:nowrap}
+/* ===== 变体 D：渐变字 + 渐变短线 ===== */
+.deal-d{margin-top:auto;font-size:12.5px;color:var(--mute);display:flex;align-items:baseline;
+  justify-content:space-between;gap:8px}
+.deal-d b{position:relative;font-size:18px;font-weight:800;font-feature-settings:"tnum";
+  letter-spacing:-.02em;padding-bottom:6px}
+.deal-d b::after{content:'';position:absolute;left:1px;right:1px;bottom:0;height:3px;
+  border-radius:2px;background:var(--grad)}
+/* 标注 */
+.badge{display:flex;align-items:baseline;gap:8px;padding:0 4px}
+.badge .k{flex:0 0 auto;font-size:12px;font-weight:800;color:#fff;background:var(--ink);
+  padding:3px 9px;border-radius:7px}
+.badge .t{font-size:12.5px;color:var(--mute)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>「最高优惠」样式对比</h1>
+  <p class="tip">同一张 E 风格分类卡，四种优惠值设计。悬停看效果，选一个回我（如「用 B」），我把主原型替换过去。</p>
+  <div class="grid">
+    <div class="item">
+      <button class="cat-card">
+        <div class="cat-top"><span class="cat-name">单片机(MCU/MPU/SOC)</span><span class="cat-count">4 张</span></div>
+        <div class="deal-a"><span>最高优惠</span><span class="pill num">满51减50</span></div>
+      </button>
+      <div class="badge"><span class="k">A 渐变胶囊</span><span class="t">满减值做成渐变底白字胶囊，和「领券」按钮同语言，电商感最强、最醒目</span></div>
+    </div>
+    <div class="item">
+      <button class="cat-card">
+        <div class="cat-top"><span class="cat-name">单片机(MCU/MPU/SOC)</span><span class="cat-count">4 张</span></div>
+        <div class="deal-b"><span class="lbl">最高优惠</span>
+          <div class="row"><b class="gnum num">减 50</b><span class="cond">满 51 可用</span></div></div>
+      </button>
+      <div class="badge"><span class="k">B 大数字</span><span class="t">「减 50」做主视觉大字，金额层级最清晰，一眼看到能省多少</span></div>
+    </div>
+    <div class="item">
+      <button class="cat-card">
+        <div class="cat-top"><span class="cat-name">单片机(MCU/MPU/SOC)</span><span class="cat-count">4 张</span></div>
+        <div class="deal-c"><span>最高优惠</span><span class="tag num">满51减50</span></div>
+      </button>
+      <div class="badge"><span class="k">C 票签</span><span class="t">虚线券框小票签，呼应「优惠券」主题，克制且有辨识度</span></div>
+    </div>
+    <div class="item">
+      <button class="cat-card">
+        <div class="cat-top"><span class="cat-name">单片机(MCU/MPU/SOC)</span><span class="cat-count">4 张</span></div>
+        <div class="deal-d"><span>最高优惠</span><b class="gnum num">满51减50</b></div>
+      </button>
+      <div class="badge"><span class="k">D 渐变字＋底线</span><span class="t">渐变文字加渐变短下划线，最轻量，适合喜欢素一点的卡片</span></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

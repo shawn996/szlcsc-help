@@ -59,12 +59,12 @@
           {
             "@type": "Question",
             "name": "怎么快速找到想要的券？",
-            "acceptedAnswer": { "@type": "Answer", "text": "顶部搜索框支持按分类名、品牌名或券名实时过滤（如搜\"电阻\"、\"MPS\"）；也可以用排序按最高优惠、券数量或领取热度浏览。点击分类卡片可查看该分类下的全部品牌券。" }
+            "acceptedAnswer": { "@type": "Answer", "text": "顶部搜索框支持按分类名、品牌名或券名实时过滤（如搜\"电阻\"、\"MPS\"）；也可以用排序按最高优惠或领取热度浏览。点击分类卡片可查看该分类下的全部品牌券。" }
           },
           {
             "@type": "Question",
             "name": "优惠券领取有什么限制？",
-            "acceptedAnswer": { "@type": "Answer", "text": "各品牌券数量有限、领完即止，同一张券每个账号通常限领一次；券的使用规则（适用商品、有效期、叠加限制）以立创商城官方页面展示为准，本站数据仅供参考。" }
+            "acceptedAnswer": { "@type": "Answer", "text": "各品牌券数量有限、领完即止，同一张券每个账号通常限领一次，优惠券一般为当月有效；券的使用规则（适用商品、有效期、叠加限制）以立创商城官方页面展示为准，本站数据仅供参考。" }
           }
         ]
       }
@@ -74,7 +74,8 @@
   <script src="app.js" defer></script>
 </head>
 <body>
-  <header class="head">
+  <div class="hero">
+    <span class="orb" aria-hidden="true"></span>
     <div class="head-row">
       <h1 class="brand">
         <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true">
@@ -83,10 +84,6 @@
         </svg>
         <span class="brand-name">立创商城<em>优惠券助手</em></span>
       </h1>
-      <div class="head-search">
-        <svg class="search-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
-        <input class="search-input" id="search" type="search" placeholder="搜分类、品牌或券名，如 电阻 / MPS / 满减" aria-label="搜索" autocomplete="off">
-      </div>
       <div class="head-actions">
         <button class="icon-btn" id="themeBtn" type="button" aria-label="切换深色模式">
           <svg class="ic-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M19.4 4.6l-1.8 1.8M6.4 17.6l-1.8 1.8"/></svg>
@@ -95,19 +92,28 @@
         <button class="ghost-btn" id="infoBtn" type="button">使用说明</button>
       </div>
     </div>
-  </header>
+    <div class="hero-inner">
+      <p class="hero-title">立创优惠券，一站领齐</p>
+      <p class="hero-sub">按分类浏览品牌券，搜索直达，点击即领</p>
+      <div class="hero-search">
+        <svg class="search-ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input class="search-input" id="search" type="search" placeholder="搜分类、品牌或券名，如 电阻 / MPS / 满减" aria-label="搜索" autocomplete="off">
+      </div>
+      <div class="hero-stats">
+        <span class="stat-chip"><b id="heroCats">—</b>个分类</span>
+        <span class="stat-chip"><b id="heroCoupons">—</b>张品牌券</span>
+        <span class="stat-chip">更新于 <b id="rtTop">—</b></span>
+      </div>
+    </div>
+  </div>
 
   <div class="subbar">
-    <div class="sub-left">
-      <div class="count" id="count">加载中…</div>
-      <span class="updated">更新于 <span id="rtTop">—</span></span>
-    </div>
+    <div class="count" id="count">加载中…</div>
     <label class="sort">
       <span>排序</span>
       <select id="sort" aria-label="排序方式">
+        <option value="recv" selected>领取热度</option>
         <option value="deal">最高优惠</option>
-        <option value="count">券数量</option>
-        <option value="recv">领取热度</option>
       </select>
     </label>
   </div>
@@ -146,11 +152,11 @@
         </details>
         <details>
           <summary>怎么快速找到想要的券？</summary>
-          <p>顶部搜索框支持按分类名、品牌名或券名实时过滤（如搜"电阻"、"MPS"）；也可以用排序按最高优惠、券数量或领取热度浏览。点击分类卡片可查看该分类下的全部品牌券。</p>
+          <p>顶部搜索框支持按分类名、品牌名或券名实时过滤（如搜"电阻"、"MPS"）；也可以用排序按最高优惠或领取热度浏览。点击分类卡片可查看该分类下的全部品牌券。</p>
         </details>
         <details>
           <summary>优惠券领取有什么限制？</summary>
-          <p>各品牌券数量有限、领完即止，同一张券每个账号通常限领一次；券的使用规则（适用商品、有效期、叠加限制）以立创商城官方页面展示为准，本站数据仅供参考。</p>
+          <p>各品牌券数量有限、领完即止，同一张券每个账号通常限领一次，优惠券一般为当月有效；券的使用规则（适用商品、有效期、叠加限制）以立创商城官方页面展示为准，本站数据仅供参考。</p>
         </details>
       </div>
       <p class="foot-repo">本站为开源项目，源码与改进讨论见 GitHub：<a href="https://github.com/shawn996/szlcsc-help" target="_blank" rel="noopener">github.com/shawn996/szlcsc-help</a>，欢迎提 Issue 或 PR。</p>

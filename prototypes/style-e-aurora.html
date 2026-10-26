@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>方案 E · 极光玻璃风 v2</title>
+<style>
+/* ===== 极光玻璃 v2：渐变 Hero + 玻璃徽章 + 渐变点缀 =====
+   内容结构保持原版：分类卡（名称+N张+最高优惠满X减Y）、
+   券条（品牌+券名+所属分类+满X减Y+已领x/x+领券） */
+:root{
+  --brand:#4F46E5; --brand-deep:#4338CA; --violet:#7C3AED; --pink:#DB2777;
+  --ink:#0F172A; --ink-2:#334155; --mute:#64748B;
+  --canvas:#FFFFFF; --soft:#F6F7FB; --line:#E8EAF3;
+  --sh1:0 1px 3px rgba(23,23,60,.06);
+  --sh2:0 12px 32px rgba(60,60,160,.14),0 2px 8px rgba(60,60,160,.06);
+  --grad:linear-gradient(92deg,#4F46E5 5%,#7C3AED 55%,#DB2777 100%);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:20px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+  background:var(--canvas);color:var(--ink);line-height:1.55;font-size:15px;-webkit-font-smoothing:antialiased}
+a{text-decoration:none;color:inherit}
+button{font-family:inherit}
+.num{font-feature-settings:"tnum";letter-spacing:-.02em}
+.gnum{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+/* ===== Hero：极光渐变 ===== */
+.hero{position:relative;overflow:hidden;color:#fff;
+  background:linear-gradient(118deg,#1E3A8A 0%,#3730A3 26%,#5B21B6 52%,#86198F 76%,#BE185D 100%)}
+.hero::before,.hero::after,.hero .orb{content:'';position:absolute;border-radius:50%;
+  filter:blur(80px);opacity:.55;pointer-events:none}
+.hero::before{width:460px;height:460px;background:#3B82F6;top:-180px;left:-100px}
+.hero::after{width:420px;height:420px;background:#EC4899;bottom:-220px;right:-80px}
+.hero .orb{width:300px;height:300px;background:#8B5CF6;top:10%;left:45%;opacity:.4}
+/* 顶部行：品牌 + 说明按钮 */
+.head-row{position:relative;z-index:2;max-width:1200px;margin:0 auto;display:flex;
+  align-items:center;gap:16px;padding:18px 24px 0}
+.brand{display:flex;align-items:center;gap:10px;flex:0 0 auto;font-weight:700;font-size:17px}
+.brand-mark{width:30px;height:30px;border-radius:9px;background:rgba(255,255,255,.16);
+  border:1px solid rgba(255,255,255,.32);backdrop-filter:blur(6px);
+  display:grid;place-items:center;font-weight:900;font-size:15px}
+.brand em{font-style:normal;font-weight:400;font-size:13px;opacity:.8}
+.head-actions{flex:0 0 auto;margin-left:auto}
+.ghost{height:36px;padding:0 16px;border-radius:999px;border:1px solid rgba(255,255,255,.42);
+  background:rgba(255,255,255,.12);backdrop-filter:blur(6px);color:#fff;font-size:14px;cursor:pointer;
+  transition:background .15s}
+.ghost:hover{background:rgba(255,255,255,.22)}
+/* 主视觉：徽章 + 大标题 + 搜索 + 玻璃统计 */
+.hero-inner{position:relative;z-index:2;max-width:1200px;margin:0 auto;padding:34px 24px 46px;
+  display:flex;flex-direction:column;align-items:center;text-align:center;gap:13px}
+.hero-inner h1{font-size:32px;font-weight:800;letter-spacing:-.01em;line-height:1.25;
+  text-shadow:0 2px 14px rgba(20,10,70,.3)}
+.hero-inner .sub{font-size:14px;opacity:.82;margin-top:-6px}
+.hero-search{width:min(560px,100%);position:relative;margin-top:4px}
+.hero-search .ic{position:absolute;left:17px;top:50%;transform:translateY(-50%);width:18px;height:18px;
+  fill:none;stroke:#8B8FA8;stroke-width:2}
+.search-input{width:100%;height:50px;padding:0 18px 0 46px;border:none;border-radius:999px;
+  background:#fff;color:var(--ink);font-size:15px;outline:none;
+  box-shadow:0 10px 30px rgba(15,10,60,.3),0 2px 6px rgba(15,10,60,.18)}
+.search-input::placeholder{color:#9AA1B4}
+.search-input:focus{box-shadow:0 10px 30px rgba(15,10,60,.3),0 0 0 3px rgba(255,255,255,.55)}
+.hero-stats{display:flex;gap:12px;margin-top:10px;flex-wrap:wrap;justify-content:center}
+.stat-chip{display:flex;align-items:baseline;gap:5px;padding:7px 16px;border-radius:12px;
+  background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.24);backdrop-filter:blur(6px);
+  font-size:12.5px;opacity:.95}
+.stat-chip b{font-size:16px;font-weight:800;font-feature-settings:"tnum"}
+/* ===== 工具条 ===== */
+.subbar{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;
+  gap:12px;padding:20px 24px 4px;flex-wrap:wrap}
+.count{font-size:13px;color:var(--mute)}
+.count b{color:var(--ink);font-weight:700;font-feature-settings:"tnum"}
+.sort{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--mute)}
+.sort select{height:34px;border:1px solid var(--line);border-radius:9px;background:#fff;
+  color:var(--ink);padding:0 10px;font-size:13px;outline:none;cursor:pointer}
+.sort select:focus{border-color:var(--brand)}
+/* ===== 分类卡网格（内容结构 = 原版） ===== */
+.grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));
+  gap:16px;padding:18px 24px 64px}
+@media(min-width:1240px){.grid{grid-template-columns:repeat(4,minmax(270px,1fr))}}
+@media(min-width:1540px){.grid{grid-template-columns:repeat(5,minmax(270px,1fr));max-width:1500px}}
+.cat-card{position:relative;background:#fff;border:1px solid var(--line);border-radius:16px;
+  padding:18px;min-height:132px;cursor:pointer;text-align:left;font:inherit;color:inherit;width:100%;
+  display:flex;flex-direction:column;gap:9px;box-shadow:var(--sh1);overflow:hidden;
+  transition:box-shadow .18s,transform .18s,border-color .18s}
+.cat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;
+  background:var(--grad);opacity:0;transition:opacity .18s}
+.cat-card:hover{box-shadow:var(--sh2);transform:translateY(-2px);border-color:#C9CDF7}
+.cat-card:hover::before{opacity:1}
+.cat-card:active{transform:translateY(0)}
+.cat-top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+.cat-name{font-weight:800;font-size:18px;line-height:1.35;display:-webkit-box;
+  -webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.cat-count{flex:0 0 auto;font-size:11px;font-weight:600;color:var(--brand);
+  background:#EEF0FF;padding:3px 9px;border-radius:999px;white-space:nowrap}
+/* 品牌预览：分类内去重品牌（短名），服务「买谁家的」决策 */
+.cat-brands{font-size:12px;color:var(--mute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cat-brands b{color:#334155;font-weight:600}
+/* 满减弱化为底部细线辅助信息 */
+.cat-deal{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:8px;
+  border-top:1px solid var(--line);padding-top:10px}
+.cat-deal .lbl{font-size:11.5px;color:var(--mute)}
+.cat-deal b{font-size:13px;font-weight:700;color:var(--brand-deep);font-feature-settings:"tnum"}
+/* ===== 弹窗 ===== */
+.modal{position:fixed;inset:0;z-index:100;display:none}
+.modal.open{display:block}
+.mask{position:absolute;inset:0;background:rgba(15,18,45,.5);backdrop-filter:blur(3px);animation:fade .2s}
+.panel{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:min(660px,calc(100vw - 28px));
+  max-height:86vh;background:#fff;border-radius:20px;box-shadow:var(--sh2);
+  display:flex;flex-direction:column;overflow:hidden;animation:pop .22s cubic-bezier(.2,.8,.3,1)}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pop{from{opacity:0;transform:translate(-50%,-48%) scale(.97)}to{opacity:1;transform:translate(-50%,-50%) scale(1)}}
+@media(max-width:560px){.panel{left:0;top:auto;bottom:0;transform:none;width:100%;border-radius:20px 20px 0 0}}
+.m-head{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;padding:20px 22px 12px}
+.m-head h2{font-size:19px;font-weight:800;letter-spacing:-.01em}
+.m-sub{font-size:12.5px;color:var(--mute)}
+.m-close{width:32px;height:32px;border-radius:999px;border:1px solid var(--line);background:#fff;
+  cursor:pointer;font-size:15px;color:var(--mute);transition:background .15s}
+.m-close:hover{background:var(--soft)}
+.m-tools{padding:0 22px 14px}
+.m-tools .search-wrap{position:relative}
+.m-tools .ic{position:absolute;left:13px;top:50%;transform:translateY(-50%);width:16px;height:16px;
+  fill:none;stroke:var(--mute);stroke-width:2}
+.m-tools .search-input{height:42px;border-radius:12px;box-shadow:none;border:1px solid var(--line);
+  padding:0 14px 0 36px;font-size:14px}
+.m-body{overflow-y:auto;padding:14px 18px 20px;display:flex;flex-direction:column;gap:10px;background:var(--soft)}
+/* ===== 券条：V2 强调条式（左缘渐变竖条 + 渐变满减字） ===== */
+.coupon{position:relative;display:flex;align-items:center;gap:14px;background:#fff;border:1px solid var(--line);
+  border-radius:14px;padding:13px 16px 13px 19px;overflow:hidden;
+  transition:box-shadow .15s,border-color .15s,transform .15s}
+.coupon::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--grad)}
+.coupon:hover{border-color:#B9BEF3;box-shadow:0 6px 20px rgba(80,70,200,.12);transform:translateY(-1px)}
+.coupon-main{flex:1 1 220px;min-width:0;display:flex;flex-direction:column;gap:2px}
+.coupon-brand{font-weight:700;font-size:14.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.coupon-name{font-size:12.5px;color:var(--mute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.coupon-mid{flex:1 1 0;min-width:0;font-size:12px;color:var(--mute);white-space:nowrap;
+  overflow:hidden;text-overflow:ellipsis}
+@media(max-width:640px){.coupon-mid{display:none}}
+.coupon-deal{flex:0 0 auto;display:flex;flex-direction:column;align-items:flex-end;gap:2px}
+.coupon-deal .m{font-size:15px;font-weight:800;font-feature-settings:"tnum";letter-spacing:-.02em}
+.coupon-deal .s{font-size:11px;color:var(--mute);font-feature-settings:"tnum"}
+.coupon-deal .s.low{color:#DC2626;font-weight:600}
+.cta{flex:0 0 auto;background:var(--grad);color:#fff;padding:9px 18px;border-radius:999px;
+  font-size:14px;font-weight:700;box-shadow:0 4px 14px rgba(90,60,220,.28);
+  transition:filter .15s,transform .1s}
+.cta:hover{filter:brightness(1.08)}
+.cta:active{transform:scale(.96)}
+.empty{grid-column:1/-1;text-align:center;color:var(--mute);padding:48px 0;font-size:14px}
+.empty .em{font-size:34px;margin-bottom:8px}
+/* ===== 页脚 ===== */
+.foot{border-top:1px solid var(--line);background:var(--soft);margin-top:8px}
+.foot-inner{max-width:1200px;margin:0 auto;padding:32px 24px 40px;font-size:13px;color:var(--mute);line-height:1.8}
+.foot-inner h2{font-size:16px;font-weight:700;color:var(--ink);margin-bottom:8px}
+.foot-repo{margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
+.foot-repo a{color:var(--brand);font-weight:600}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="hero">
+  <span class="orb"></span>
+  <div class="head-row">
+    <div class="brand"><span class="brand-mark">券</span>立创商城<em>优惠券助手</em></div>
+    <div class="head-actions"><button class="ghost" onclick="document.getElementById('guide').scrollIntoView({behavior:'smooth'})">使用说明</button></div>
+  </div>
+  <div class="hero-inner">
+    <h1>立创优惠券，一站领齐</h1>
+    <p class="sub">按分类浏览品牌券，搜索直达，点击即领</p>
+    <div class="hero-search">
+      <svg class="ic" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input class="search-input" id="search" type="search" placeholder="搜分类、品牌或券名，如 电阻 / MPS / 满减" autocomplete="off">
+    </div>
+    <div class="hero-stats">
+      <span class="stat-chip"><b id="catN">—</b>个分类</span>
+      <span class="stat-chip"><b id="cpnN">—</b>张品牌券</span>
+      <span class="stat-chip">更新于 <b class="num">2026-10-23 07:30</b></span>
+    </div>
+  </div>
+</div>
+<div class="subbar">
+  <span class="count" id="count">共 <b id="catN2">—</b> 个分类 · <b id="cpnN2">—</b> 张券</span>
+  <span class="sort">排序
+    <select id="sortKey"><option value="deal">最高优惠</option><option value="recv">领取热度</option></select>
+  </span>
+</div>
+<main class="grid" id="grid"></main>
+<div class="modal" id="modal">
+  <div class="mask" onclick="closeModal()"></div>
+  <div class="panel">
+    <div class="m-head"><div><h2 id="mTitle">分类</h2><span class="m-sub" id="mSub"></span></div>
+      <button class="m-close" onclick="closeModal()">✕</button></div>
+    <div class="m-tools">
+      <div class="search-wrap">
+        <svg class="ic" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input class="search-input" id="mSearch" type="search" placeholder="在本分类内搜品牌 / 券名" autocomplete="off">
+      </div>
+    </div>
+    <div class="m-body" id="mBody"></div>
+  </div>
+</div>
+<footer class="foot" id="guide">
+  <div class="foot-inner">
+    <h2>使用指南</h2>
+    <p>点击分类卡片查看该分类下全部品牌优惠券，点击券条跳转立创商城品牌页面领取。各品牌券数量有限、领完即止，使用规则以官方页面为准。</p>
+    <p class="foot-repo">开源项目：<a href="https://github.com/shawn996/szlcsc-help" target="_blank" rel="noopener">github.com/shawn996/szlcsc-help</a>，欢迎 Issue / PR。</p>
+  </div>
+</footer>
+<script>
+const DATA={
+'EEPROM':[{b:'HK(航顺)',n:'品牌满减券',m:51,a:50,r:3120,t:3500},{b:'Puya(普冉)',n:'品牌满减券',m:31,a:30,r:1204,t:2000}],
+'LCD驱动':[{b:'GT(格特)',n:'显示驱动满减券',m:21,a:20,r:890,t:1500},{b:'SITRONIX',n:'品牌满减券',m:16,a:15,r:430,t:800}],
+'NOR FLASH':[{b:'GD(兆易创新)',n:'存储满减券',m:51,a:50,r:2201,t:2500},{b:'XMC(武汉新芯)',n:'品牌满减券',m:21,a:20,r:512,t:900},{b:'DOBY(东芯)',n:'品牌满减券',m:16,a:15,r:96,t:600}],
+'单片机(MCU/MPU/SOC)':[{b:'ST(意法半导体)',n:'MCU满减券',m:51,a:50,r:5210,t:6000},{b:'GD(兆易创新)',n:'MCU品牌券',m:31,a:30,r:1890,t:3000},{b:'CH(南京沁恒)',n:'品牌满减券',m:21,a:20,r:920,t:1200},{b:'WCH(南京沁恒)',n:'USB MCU券',m:16,a:15,r:640,t:1000}],
+'开发板':[{b:'正点原子',n:'开发板满减券',m:101,a:100,r:780,t:1000},{b:'野火',n:'品牌满减券',m:51,a:50,r:410,t:800},{b:'ST(意法半导体)',n:'Nucleo券',m:51,a:50,r:330,t:500}],
+'电阻':[{b:'YAGEO(国巨)',n:'阻容满减券',m:16,a:15,r:4120,t:5000},{b:'UNI-ROHM',n:'品牌满减券',m:16,a:15,r:1620,t:3000},{b:'厚声',n:'品牌满减券',m:16,a:15,r:980,t:2000}],
+'电容':[{b:'Murata(村田)',n:'MLCC满减券',m:16,a:15,r:3890,t:5000},{b:'Samsung(三星电机)',n:'品牌满减券',m:16,a:15,r:1450,t:2500},{b:'艾华',n:'铝电解券',m:21,a:20,r:760,t:1500}],
+'连接器':[{b:'TE(泰科)',n:'连接器满减券',m:51,a:50,r:1120,t:2000},{b:'JST(日压)',n:'品牌满减券',m:21,a:20,r:520,t:1000},{b:'广宇',n:'品牌满减券',m:16,a:15,r:210,t:600}],
+'电源芯片':[{b:'MPS(芯源系统)',n:'电源满减券',m:51,a:50,r:2980,t:3500},{b:'TI(德州仪器)',n:'品牌满减券',m:51,a:50,r:2410,t:3000},{b:'SCT(矽力杰)',n:'DCDC券',m:31,a:30,r:830,t:1500}]};
+let cur=null,q='',sortKey='deal';
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmt=n=>Number.isInteger(+n)?+n:(+n).toFixed(1).replace(/\.0$/,'');
+function catDeal(l){return Math.max(...l.map(c=>c.a))}
+function catRecv(l){return l.reduce((s,c)=>s+c.r,0)}
+/* 品牌预览：分类内去重品牌短名（括号前），最多 3 个 + 等 N 家 */
+function brandPreview(list){
+  const names=[...new Set(list.map(c=>c.b))];
+  const head=names.map(n=>n.split('(')[0]).slice(0,3).join(' · ');
+  return names.length>3?`${head} 等 ${names.length} 家品牌`:`${head} ${names.length} 家品牌`;
+}
+/* 分类卡：K6 目录卡（分类名主角 + 品牌预览 + 底部细线小满减） */
+function renderGrid(){
+  const arr=Object.entries(DATA).map(([name,list])=>{const top=list.slice().sort((a,b)=>b.a-a.a)[0];return{name,list,d:top.a,m:top.m,v:catRecv(list)}});
+  arr.sort((a,b)=>sortKey==='recv'?b.v-a.v:b.d-a.d);
+  $('grid').innerHTML=arr.map(c=>`<button class="cat-card" onclick="openCat('${esc(c.name)}')">
+    <div class="cat-top"><span class="cat-name">${esc(c.name)}</span><span class="cat-count">${c.list.length} 张</span></div>
+    <div class="cat-brands" title="品牌：${esc([...new Set(c.list.map(x=>x.b))].join('、'))}"><b>${esc(brandPreview(c.list))}</b></div>
+    <div class="cat-deal"><span class="lbl">最高优惠</span><b class="num">满${fmt(c.m)}减${fmt(c.d)}</b></div></button>`).join('');
+  $('catN').textContent=arr.length;$('cpnN').textContent=arr.reduce((s,c)=>s+c.list.length,0);
+  $('catN2').textContent=arr.length;$('cpnN2').textContent=arr.reduce((s,c)=>s+c.list.length,0);
+}
+/* 券条：V2 强调条式（左缘渐变竖条，满减字渐变放大；内容结构与原版一致） */
+function couponRow(c,cats){
+  const left=c.t-c.r,low=left<=c.t*.2;
+  return `<a class="coupon" href="https://list.szlcsc.com/brand/832.html" target="_blank" rel="noopener">
+    <div class="coupon-main"><span class="coupon-brand">${esc(c.b)}</span><span class="coupon-name">${esc(c.n)}</span></div>
+    ${cats?`<span class="coupon-mid" title="所属分类：${esc(cats.join('、'))}">${esc(cats.length>3?cats.slice(0,3).join('、')+' 等'+cats.length+'个分类':cats.join('、'))}</span>`:''}
+    <div class="coupon-deal"><span class="m gnum">满${fmt(c.m)}减${fmt(c.a)}</span>
+      <span class="s${low?' low':''}" title="剩余 ${left} 张可领">已领 ${fmt(c.r)}/${fmt(c.t)}${low?` · 仅剩 ${fmt(left)}`:''}</span></div>
+    <span class="cta">领券</span></a>`;
+}
+function openCat(name){
+  cur=name;q='';$('mSearch').value='';
+  $('mTitle').textContent=name;$('mSub').textContent=DATA[name].length+' 张品牌券';
+  $('modal').classList.add('open');document.body.style.overflow='hidden';
+  const tools=document.querySelector('.m-tools');tools.style.display=DATA[name].length<8?'none':'';
+  renderCat();$('mSearch').focus();
+}
+function closeModal(){$('modal').classList.remove('open');document.body.style.overflow=''}
+function renderCat(){
+  let l=DATA[cur].slice();
+  if(q)l=l.filter(c=>c.b.toLowerCase().includes(q)||c.n.toLowerCase().includes(q));
+  l.sort((a,b)=>sortKey==='recv'?b.r-a.r:b.a-a.a);
+  $('mBody').innerHTML=l.length?l.map(c=>couponRow(c)).join(''):'<div class="empty">本分类内没有匹配的券</div>';
+}
+/* 搜索：跨分类去重合并 cats，命中搜索词的分类排最前（与原版一致） */
+$('search').addEventListener('input',e=>{
+  const v=e.target.value.trim().toLowerCase();
+  if(!v){renderGrid();return}
+  const seen=new Map();
+  for(const[cat,list]of Object.entries(DATA)){
+    const hit=cat.toLowerCase().includes(v);
+    for(const c of (hit?list:list.filter(c=>c.b.toLowerCase().includes(v)||c.n.toLowerCase().includes(v)))){
+      const k=c.b+c.n+c.m+c.a;
+      if(!seen.has(k))seen.set(k,{c,cats:[cat]});
+      else if(!seen.get(k).cats.includes(cat)){hit?seen.get(k).cats.unshift(cat):seen.get(k).cats.push(cat)}
+    }
+  }
+  const arr=[...seen.values()];
+  arr.sort((a,b)=>sortKey==='recv'?b.c.r-a.c.r:b.c.a-a.c.a);
+  $('grid').style.display='block';
+  $('count').innerHTML=`匹配 <b>${arr.length}</b> 张券`;
+  $('grid').innerHTML=arr.length?arr.map(it=>couponRow(it.c,it.cats)).join(''):'<div class="empty"><div class="em">🔍</div>没有匹配的优惠券，换个关键词试试</div>';
+});
+$('mSearch').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();renderCat()});
+$('sortKey').addEventListener('change',e=>{sortKey=e.target.value;renderGrid();if(cur)renderCat()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+renderGrid();
+</script>
+</body>
+</html>
