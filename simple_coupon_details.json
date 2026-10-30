@@ -6,267 +6,7 @@
     "brand_id": "26882",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 3764,
-    "total_coupon_num": 4000
-  },
-  "1181": {
-    "coupon_id": 45665,
-    "coupon_name": "15元雅晶鑫品牌指定类目商品券",
-    "brand_name": "YJX(雅晶鑫)",
-    "brand_id": "1181",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 1233,
-    "total_coupon_num": 4000
-  },
-  "12165": {
-    "coupon_id": 45667,
-    "coupon_name": "15元元迪品牌商品券",
-    "brand_name": "Yuandi(元迪)",
-    "brand_id": "12165",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 994,
-    "total_coupon_num": 4000
-  },
-  "12475": {
-    "coupon_id": 45669,
-    "coupon_name": "15元增益品牌商品券",
-    "brand_name": "ZE(增益)",
-    "brand_id": "12475",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 1470,
-    "total_coupon_num": 4000
-  },
-  "13493": {
-    "coupon_id": 45671,
-    "coupon_name": "15元正芯品牌商品券",
-    "brand_name": "Zhengxin(正芯)",
-    "brand_id": "13493",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 1426,
-    "total_coupon_num": 4000
-  },
-  "13447": {
-    "coupon_id": 45674,
-    "coupon_name": "15元康深品牌商品券",
-    "brand_name": "康深",
-    "brand_id": "13447",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 871,
-    "total_coupon_num": 4000
-  },
-  "15372": {
-    "coupon_id": 45675,
-    "coupon_name": "15元勤本品牌指定类目商品券",
-    "brand_name": "CHIN-BAN(勤本)",
-    "brand_id": "15372",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 856,
-    "total_coupon_num": 3000
-  },
-  "16599": {
-    "coupon_id": 45676,
-    "coupon_name": "15元线易品牌商品券",
-    "brand_name": "coileasy(线易)",
-    "brand_id": "16599",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 847,
-    "total_coupon_num": 4000
-  },
-  "27484": {
-    "coupon_id": 45677,
-    "coupon_name": "15元元精技术品牌商品券",
-    "brand_name": "CPT(元精技术)",
-    "brand_id": "27484",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 817,
-    "total_coupon_num": 4000
-  },
-  "15481": {
-    "coupon_id": 45678,
-    "coupon_name": "15元华龙品牌商品券",
-    "brand_name": "Dragonstate(华龙)",
-    "brand_id": "15481",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 959,
-    "total_coupon_num": 4000
-  },
-  "13455": {
-    "coupon_id": 45679,
-    "coupon_name": "15元恒连品牌商品券",
-    "brand_name": "EVERCOM(恒连)",
-    "brand_id": "13455",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 829,
-    "total_coupon_num": 4000
-  },
-  "16251": {
-    "coupon_id": 45680,
-    "coupon_name": "<品牌新人>15元毅芯达品牌商品券",
-    "brand_name": "Existar(毅芯达)",
-    "brand_id": "16251",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 552,
-    "total_coupon_num": 4000
-  },
-  "15272": {
-    "coupon_id": 45681,
-    "coupon_name": "15元福芯微品牌商品券",
-    "brand_name": "Forsinve(福芯微)",
-    "brand_id": "15272",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 828,
-    "total_coupon_num": 4000
-  },
-  "11866": {
-    "coupon_id": 45682,
-    "coupon_name": "15元汇智品牌商品券",
-    "brand_name": "GDHUIZHI(汇智)",
-    "brand_id": "11866",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 829,
-    "total_coupon_num": 4000
-  },
-  "12515": {
-    "coupon_id": 45684,
-    "coupon_name": "15元霍尔微电子品牌商品券",
-    "brand_name": "Hallwee(霍尔微电子)",
-    "brand_id": "12515",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 855,
-    "total_coupon_num": 4000
-  },
-  "12303": {
-    "coupon_id": 45685,
-    "coupon_name": "<品牌新人>15元浩都频率品牌商品券",
-    "brand_name": "HD(浩都频率)",
-    "brand_id": "12303",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 547,
-    "total_coupon_num": 4000
-  },
-  "11741": {
-    "coupon_id": 45686,
-    "coupon_name": "<品牌新人>15元智芯品牌商品券",
-    "brand_name": "Hichips(智芯)",
-    "brand_id": "11741",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 588,
-    "total_coupon_num": 4000
-  },
-  "11537": {
-    "coupon_id": 45687,
-    "coupon_name": "<品牌新人>15元赢海品牌商品券",
-    "brand_name": "INGHAi(赢海)",
-    "brand_id": "11537",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 552,
-    "total_coupon_num": 4000
-  },
-  "13495": {
-    "coupon_id": 45688,
-    "coupon_name": "15元伽盛品牌商品券",
-    "brand_name": "JARSON(伽盛)",
-    "brand_id": "13495",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 820,
-    "total_coupon_num": 4000
-  },
-  "11914": {
-    "coupon_id": 45690,
-    "coupon_name": "<品牌新人>15元科信品牌商品券",
-    "brand_name": "KEXIN(科信)",
-    "brand_id": "11914",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 560,
-    "total_coupon_num": 4000
-  },
-  "15257": {
-    "coupon_id": 45691,
-    "coupon_name": "<品牌新人>15元蓝晶品牌商品券",
-    "brand_name": "Lucki(蓝晶)",
-    "brand_id": "15257",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 490,
-    "total_coupon_num": 4000
-  },
-  "25382": {
-    "coupon_id": 45692,
-    "coupon_name": "15元中晶微品牌商品券",
-    "brand_name": "MDM(中晶微)",
-    "brand_id": "25382",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 833,
-    "total_coupon_num": 4000
-  },
-  "25186": {
-    "coupon_id": 45696,
-    "coupon_name": "15元高钺达品牌商品券",
-    "brand_name": "SHETIME(高钺达)",
-    "brand_id": "25186",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 880,
-    "total_coupon_num": 4000
-  },
-  "12685": {
-    "coupon_id": 45697,
-    "coupon_name": "15元索瑞达品牌商品券",
-    "brand_name": "SOREDE(索瑞达)",
-    "brand_id": "12685",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 959,
-    "total_coupon_num": 4000
-  },
-  "12586": {
-    "coupon_id": 45698,
-    "coupon_name": "15元斯瑞特品牌商品券",
-    "brand_name": "SRT(斯瑞特)",
-    "brand_id": "12586",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 811,
-    "total_coupon_num": 4000
-  },
-  "12028": {
-    "coupon_id": 45699,
-    "coupon_name": "<品牌新人>15元韩国星炆电子品牌商品券",
-    "brand_name": "SUNGMUN(韩国星炆电子)",
-    "brand_id": "12028",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 600,
-    "total_coupon_num": 4000
-  },
-  "11999": {
-    "coupon_id": 45700,
-    "coupon_name": "15元宇力半导体品牌商品券",
-    "brand_name": "UNI-SEMIC(宇力半导体)",
-    "brand_id": "11999",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 941,
+    "receive_customer_num": 3949,
     "total_coupon_num": 4000
   },
   "12356": {
@@ -276,7 +16,7 @@
     "brand_id": "12356",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1063,
+    "receive_customer_num": 1108,
     "total_coupon_num": 4000
   },
   "15593": {
@@ -286,7 +26,7 @@
     "brand_id": "15593",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1252,
+    "receive_customer_num": 1301,
     "total_coupon_num": 4000
   },
   "11876": {
@@ -296,7 +36,7 @@
     "brand_id": "11876",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 545,
+    "receive_customer_num": 575,
     "total_coupon_num": 1000
   },
   "27248": {
@@ -306,7 +46,7 @@
     "brand_id": "27248",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 872,
+    "receive_customer_num": 907,
     "total_coupon_num": 4000
   },
   "1207": {
@@ -316,7 +56,7 @@
     "brand_id": "1207",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 614,
+    "receive_customer_num": 643,
     "total_coupon_num": 4000
   },
   "11450": {
@@ -326,7 +66,7 @@
     "brand_id": "11450",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 149,
+    "receive_customer_num": 166,
     "total_coupon_num": 4000
   },
   "11947": {
@@ -336,7 +76,7 @@
     "brand_id": "11947",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 825,
+    "receive_customer_num": 850,
     "total_coupon_num": 4000
   },
   "15592": {
@@ -346,7 +86,7 @@
     "brand_id": "15592",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1143,
+    "receive_customer_num": 1181,
     "total_coupon_num": 4000
   },
   "13024": {
@@ -356,7 +96,7 @@
     "brand_id": "13024",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 577,
+    "receive_customer_num": 601,
     "total_coupon_num": 4000
   },
   "15302": {
@@ -366,7 +106,7 @@
     "brand_id": "15302",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 659,
+    "receive_customer_num": 680,
     "total_coupon_num": 4000
   },
   "164": {
@@ -376,7 +116,7 @@
     "brand_id": "164",
     "min_order_amount": 11.0,
     "coupon_amount": 10.0,
-    "receive_customer_num": 1743,
+    "receive_customer_num": 1806,
     "total_coupon_num": 4000
   },
   "16013": {
@@ -386,7 +126,7 @@
     "brand_id": "16013",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 762,
+    "receive_customer_num": 769,
     "total_coupon_num": 10000
   },
   "11630": {
@@ -396,7 +136,7 @@
     "brand_id": "11630",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1097,
+    "receive_customer_num": 1130,
     "total_coupon_num": 4000
   },
   "11440": {
@@ -406,7 +146,7 @@
     "brand_id": "11440",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1386,
+    "receive_customer_num": 1431,
     "total_coupon_num": 4000
   },
   "13025": {
@@ -416,7 +156,7 @@
     "brand_id": "13025",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 592,
+    "receive_customer_num": 613,
     "total_coupon_num": 4000
   },
   "12162": {
@@ -426,7 +166,7 @@
     "brand_id": "12162",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 839,
+    "receive_customer_num": 869,
     "total_coupon_num": 4000
   },
   "11739": {
@@ -436,17 +176,17 @@
     "brand_id": "11739",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 586,
+    "receive_customer_num": 607,
     "total_coupon_num": 4000
   },
   "11870": {
-    "coupon_id": 45740,
-    "coupon_name": "<品牌新人>15元锦凌品牌商品券",
+    "coupon_id": 46097,
+    "coupon_name": "15元锦凌品牌商品券",
     "brand_name": "JILN(锦凌)",
     "brand_id": "11870",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 576,
+    "receive_customer_num": 277,
     "total_coupon_num": 4000
   },
   "17333": {
@@ -456,7 +196,7 @@
     "brand_id": "17333",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 615,
+    "receive_customer_num": 636,
     "total_coupon_num": 4000
   },
   "12425": {
@@ -466,7 +206,7 @@
     "brand_id": "12425",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 826,
+    "receive_customer_num": 853,
     "total_coupon_num": 4000
   },
   "25253": {
@@ -476,7 +216,7 @@
     "brand_id": "25253",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 894,
+    "receive_customer_num": 920,
     "total_coupon_num": 4000
   },
   "13026": {
@@ -486,7 +226,7 @@
     "brand_id": "13026",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 615,
+    "receive_customer_num": 641,
     "total_coupon_num": 4000
   },
   "11933": {
@@ -496,17 +236,17 @@
     "brand_id": "11933",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 934,
+    "receive_customer_num": 969,
     "total_coupon_num": 4000
   },
   "13175": {
-    "coupon_id": 45747,
+    "coupon_id": 46096,
     "coupon_name": "15元深圳汉芯品牌商品券",
     "brand_name": "HGC(深圳汉芯)",
     "brand_id": "13175",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1186,
+    "receive_customer_num": 295,
     "total_coupon_num": 4000
   },
   "13155": {
@@ -516,7 +256,7 @@
     "brand_id": "13155",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 588,
+    "receive_customer_num": 606,
     "total_coupon_num": 4000
   },
   "12353": {
@@ -526,7 +266,7 @@
     "brand_id": "12353",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1132,
+    "receive_customer_num": 1167,
     "total_coupon_num": 4000
   },
   "12025": {
@@ -536,7 +276,7 @@
     "brand_id": "12025",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1313,
+    "receive_customer_num": 1357,
     "total_coupon_num": 4000
   },
   "12732": {
@@ -546,7 +286,7 @@
     "brand_id": "12732",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2129,
+    "receive_customer_num": 2188,
     "total_coupon_num": 4000
   },
   "27131": {
@@ -556,7 +296,7 @@
     "brand_id": "27131",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 931,
+    "receive_customer_num": 948,
     "total_coupon_num": 4000
   },
   "11883": {
@@ -566,7 +306,7 @@
     "brand_id": "11883",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 735,
+    "receive_customer_num": 753,
     "total_coupon_num": 4000
   },
   "12705": {
@@ -576,7 +316,7 @@
     "brand_id": "12705",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 633,
+    "receive_customer_num": 649,
     "total_coupon_num": 4000
   },
   "935": {
@@ -586,7 +326,7 @@
     "brand_id": "935",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1144,
+    "receive_customer_num": 1170,
     "total_coupon_num": 4000
   },
   "15465": {
@@ -596,7 +336,7 @@
     "brand_id": "15465",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 957,
+    "receive_customer_num": 976,
     "total_coupon_num": 4000
   },
   "13390": {
@@ -606,17 +346,17 @@
     "brand_id": "13390",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 912,
+    "receive_customer_num": 933,
     "total_coupon_num": 4000
   },
   "11425": {
-    "coupon_id": 45364,
-    "coupon_name": "<品牌新人>15元长江微电品牌商品券",
+    "coupon_id": 46000,
+    "coupon_name": "20元长江微电品牌商品券",
     "brand_name": "cjiang(长江微电)",
     "brand_id": "11425",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 623,
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0,
+    "receive_customer_num": 300,
     "total_coupon_num": 4000
   },
   "13046": {
@@ -626,7 +366,7 @@
     "brand_id": "13046",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1848,
+    "receive_customer_num": 1915,
     "total_coupon_num": 4000
   },
   "12450": {
@@ -636,7 +376,7 @@
     "brand_id": "12450",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 643,
+    "receive_customer_num": 655,
     "total_coupon_num": 1000
   },
   "857": {
@@ -646,7 +386,7 @@
     "brand_id": "857",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1356,
+    "receive_customer_num": 1382,
     "total_coupon_num": 4000
   },
   "11973": {
@@ -656,7 +396,7 @@
     "brand_id": "11973",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1240,
+    "receive_customer_num": 1273,
     "total_coupon_num": 4000
   },
   "16222": {
@@ -666,7 +406,7 @@
     "brand_id": "16222",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 908,
+    "receive_customer_num": 921,
     "total_coupon_num": 1000
   },
   "12612": {
@@ -676,7 +416,7 @@
     "brand_id": "12612",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1039,
+    "receive_customer_num": 1058,
     "total_coupon_num": 4000
   },
   "15535": {
@@ -686,7 +426,7 @@
     "brand_id": "15535",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1069,
+    "receive_customer_num": 1086,
     "total_coupon_num": 4000
   },
   "15786": {
@@ -696,7 +436,7 @@
     "brand_id": "15786",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1030,
+    "receive_customer_num": 1045,
     "total_coupon_num": 4000
   },
   "17375": {
@@ -706,7 +446,7 @@
     "brand_id": "17375",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 934,
+    "receive_customer_num": 950,
     "total_coupon_num": 4000
   },
   "13426": {
@@ -716,7 +456,7 @@
     "brand_id": "13426",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 475,
+    "receive_customer_num": 501,
     "total_coupon_num": 4000
   },
   "12404": {
@@ -726,7 +466,7 @@
     "brand_id": "12404",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 266,
+    "receive_customer_num": 285,
     "total_coupon_num": 1000
   },
   "12047": {
@@ -736,7 +476,7 @@
     "brand_id": "12047",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 730,
+    "receive_customer_num": 771,
     "total_coupon_num": 2000
   },
   "16226": {
@@ -746,7 +486,7 @@
     "brand_id": "16226",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 675,
+    "receive_customer_num": 705,
     "total_coupon_num": 4000
   },
   "15171": {
@@ -756,7 +496,7 @@
     "brand_id": "15171",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 487,
+    "receive_customer_num": 510,
     "total_coupon_num": 4000
   },
   "15941": {
@@ -766,7 +506,7 @@
     "brand_id": "15941",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 512,
+    "receive_customer_num": 548,
     "total_coupon_num": 1000
   },
   "14048": {
@@ -776,7 +516,7 @@
     "brand_id": "14048",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 529,
+    "receive_customer_num": 562,
     "total_coupon_num": 4000
   },
   "12731": {
@@ -786,7 +526,7 @@
     "brand_id": "12731",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 384,
+    "receive_customer_num": 416,
     "total_coupon_num": 4000
   },
   "13369": {
@@ -796,7 +536,7 @@
     "brand_id": "13369",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 361,
+    "receive_customer_num": 390,
     "total_coupon_num": 4000
   },
   "12164": {
@@ -806,7 +546,7 @@
     "brand_id": "12164",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 366,
+    "receive_customer_num": 402,
     "total_coupon_num": null
   },
   "27130": {
@@ -816,7 +556,7 @@
     "brand_id": "27130",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 280,
+    "receive_customer_num": 305,
     "total_coupon_num": null
   },
   "16923": {
@@ -826,7 +566,7 @@
     "brand_id": "16923",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 197,
+    "receive_customer_num": 217,
     "total_coupon_num": null
   },
   "27394": {
@@ -836,7 +576,7 @@
     "brand_id": "27394",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 198,
+    "receive_customer_num": 219,
     "total_coupon_num": 4000
   },
   "13452": {
@@ -846,7 +586,7 @@
     "brand_id": "13452",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 436,
+    "receive_customer_num": 470,
     "total_coupon_num": null
   },
   "11687": {
@@ -856,7 +596,7 @@
     "brand_id": "11687",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2320,
+    "receive_customer_num": 2358,
     "total_coupon_num": 4000
   },
   "12108": {
@@ -866,7 +606,7 @@
     "brand_id": "12108",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1084,
+    "receive_customer_num": 1100,
     "total_coupon_num": 4000
   },
   "11722": {
@@ -876,7 +616,7 @@
     "brand_id": "11722",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2186,
+    "receive_customer_num": 2226,
     "total_coupon_num": 4000
   },
   "287": {
@@ -886,7 +626,7 @@
     "brand_id": "287",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 676,
+    "receive_customer_num": 694,
     "total_coupon_num": 4000
   },
   "832": {
@@ -896,7 +636,7 @@
     "brand_id": "832",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 749,
+    "receive_customer_num": 756,
     "total_coupon_num": 4000
   },
   "16003": {
@@ -906,7 +646,7 @@
     "brand_id": "16003",
     "min_order_amount": 26.0,
     "coupon_amount": 25.0,
-    "receive_customer_num": 1089,
+    "receive_customer_num": 1094,
     "total_coupon_num": 4000
   },
   "11930": {
@@ -916,7 +656,7 @@
     "brand_id": "11930",
     "min_order_amount": 26.0,
     "coupon_amount": 25.0,
-    "receive_customer_num": 1166,
+    "receive_customer_num": 1180,
     "total_coupon_num": 4000
   },
   "11955": {
@@ -926,7 +666,7 @@
     "brand_id": "11955",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 3210,
+    "receive_customer_num": 3269,
     "total_coupon_num": 4000
   },
   "17513": {
@@ -936,7 +676,7 @@
     "brand_id": "17513",
     "min_order_amount": 26.0,
     "coupon_amount": 25.0,
-    "receive_customer_num": 1493,
+    "receive_customer_num": 1513,
     "total_coupon_num": 4000
   },
   "12460": {
@@ -946,7 +686,7 @@
     "brand_id": "12460",
     "min_order_amount": 26.0,
     "coupon_amount": 25.0,
-    "receive_customer_num": 600,
+    "receive_customer_num": 627,
     "total_coupon_num": 4000
   },
   "12021": {
@@ -956,7 +696,7 @@
     "brand_id": "12021",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1392,
+    "receive_customer_num": 1408,
     "total_coupon_num": 4000
   },
   "13306": {
@@ -966,7 +706,7 @@
     "brand_id": "13306",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1587,
+    "receive_customer_num": 1613,
     "total_coupon_num": 4000
   },
   "15453": {
@@ -976,7 +716,7 @@
     "brand_id": "15453",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1429,
+    "receive_customer_num": 1446,
     "total_coupon_num": 4000
   },
   "15376": {
@@ -986,7 +726,7 @@
     "brand_id": "15376",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1981,
+    "receive_customer_num": 2016,
     "total_coupon_num": 4000
   },
   "11898": {
@@ -996,7 +736,7 @@
     "brand_id": "11898",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1538,
+    "receive_customer_num": 1550,
     "total_coupon_num": 4000
   },
   "18554": {
@@ -1006,7 +746,7 @@
     "brand_id": "18554",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1260,
+    "receive_customer_num": 1270,
     "total_coupon_num": 4000
   },
   "16049": {
@@ -1016,7 +756,7 @@
     "brand_id": "16049",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 727,
+    "receive_customer_num": 735,
     "total_coupon_num": 4000
   },
   "419": {
@@ -1026,7 +766,7 @@
     "brand_id": "419",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1477,
+    "receive_customer_num": 1497,
     "total_coupon_num": 4000
   },
   "18673": {
@@ -1036,7 +776,7 @@
     "brand_id": "18673",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1310,
+    "receive_customer_num": 1319,
     "total_coupon_num": 4000
   },
   "365": {
@@ -1046,7 +786,7 @@
     "brand_id": "365",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 667,
+    "receive_customer_num": 675,
     "total_coupon_num": 1000
   },
   "12606": {
@@ -1056,7 +796,7 @@
     "brand_id": "12606",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1161,
+    "receive_customer_num": 1172,
     "total_coupon_num": 4000
   },
   "11956": {
@@ -1066,7 +806,7 @@
     "brand_id": "11956",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1216,
+    "receive_customer_num": 1228,
     "total_coupon_num": 4000
   },
   "26864": {
@@ -1076,7 +816,7 @@
     "brand_id": "26864",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1176,
+    "receive_customer_num": 1189,
     "total_coupon_num": 4000
   },
   "12362": {
@@ -1086,7 +826,7 @@
     "brand_id": "12362",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1168,
+    "receive_customer_num": 1180,
     "total_coupon_num": 2000
   },
   "24398": {
@@ -1096,7 +836,7 @@
     "brand_id": "24398",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1236,
+    "receive_customer_num": 1252,
     "total_coupon_num": 4000
   },
   "991": {
@@ -1106,7 +846,7 @@
     "brand_id": "991",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 873,
+    "receive_customer_num": 881,
     "total_coupon_num": 4000
   },
   "941": {
@@ -1116,7 +856,7 @@
     "brand_id": "941",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1368,
+    "receive_customer_num": 1379,
     "total_coupon_num": 4000
   },
   "16617": {
@@ -1126,7 +866,7 @@
     "brand_id": "16617",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1137,
+    "receive_customer_num": 1150,
     "total_coupon_num": 4000
   },
   "462": {
@@ -1136,7 +876,7 @@
     "brand_id": "462",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1309,
+    "receive_customer_num": 1314,
     "total_coupon_num": 4000
   },
   "17159": {
@@ -1146,7 +886,7 @@
     "brand_id": "17159",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 1214,
+    "receive_customer_num": 1223,
     "total_coupon_num": 4000
   },
   "15353": {
@@ -1156,7 +896,7 @@
     "brand_id": "15353",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 846,
+    "receive_customer_num": 854,
     "total_coupon_num": 4000
   },
   "16314": {
@@ -1166,7 +906,7 @@
     "brand_id": "16314",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 712,
+    "receive_customer_num": 732,
     "total_coupon_num": 4000
   },
   "15783": {
@@ -1176,7 +916,7 @@
     "brand_id": "15783",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1262,
+    "receive_customer_num": 1273,
     "total_coupon_num": 4000
   },
   "11954": {
@@ -1186,7 +926,7 @@
     "brand_id": "11954",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 730,
+    "receive_customer_num": 735,
     "total_coupon_num": 4000
   },
   "12313": {
@@ -1196,7 +936,7 @@
     "brand_id": "12313",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 3098,
+    "receive_customer_num": 3142,
     "total_coupon_num": 4000
   },
   "13374": {
@@ -1206,7 +946,7 @@
     "brand_id": "13374",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1275,
+    "receive_customer_num": 1289,
     "total_coupon_num": 4000
   },
   "15356": {
@@ -1216,7 +956,7 @@
     "brand_id": "15356",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1194,
+    "receive_customer_num": 1202,
     "total_coupon_num": 4000
   },
   "12580": {
@@ -1226,7 +966,7 @@
     "brand_id": "12580",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 892,
+    "receive_customer_num": 905,
     "total_coupon_num": 2000
   },
   "1138": {
@@ -1236,7 +976,7 @@
     "brand_id": "1138",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 577,
+    "receive_customer_num": 582,
     "total_coupon_num": 4000
   },
   "15945": {
@@ -1246,7 +986,7 @@
     "brand_id": "15945",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1584,
+    "receive_customer_num": 1598,
     "total_coupon_num": 4000
   },
   "1195": {
@@ -1256,7 +996,7 @@
     "brand_id": "1195",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 648,
+    "receive_customer_num": 655,
     "total_coupon_num": 4000
   },
   "13178": {
@@ -1266,7 +1006,7 @@
     "brand_id": "13178",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1363,
+    "receive_customer_num": 1375,
     "total_coupon_num": 4000
   },
   "11541": {
@@ -1276,7 +1016,7 @@
     "brand_id": "11541",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1161,
+    "receive_customer_num": 1174,
     "total_coupon_num": 4000
   },
   "12297": {
@@ -1286,7 +1026,7 @@
     "brand_id": "12297",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1426,
+    "receive_customer_num": 1439,
     "total_coupon_num": 4000
   },
   "12469": {
@@ -1296,7 +1036,7 @@
     "brand_id": "12469",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2082,
+    "receive_customer_num": 2113,
     "total_coupon_num": 4000
   },
   "12510": {
@@ -1306,7 +1046,7 @@
     "brand_id": "12510",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 651,
+    "receive_customer_num": 654,
     "total_coupon_num": 4000
   },
   "11837": {
@@ -1316,7 +1056,7 @@
     "brand_id": "11837",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 659,
+    "receive_customer_num": 662,
     "total_coupon_num": 4000
   },
   "11934": {
@@ -1326,7 +1066,7 @@
     "brand_id": "11934",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 709,
+    "receive_customer_num": 715,
     "total_coupon_num": 4000
   },
   "12133": {
@@ -1336,7 +1076,7 @@
     "brand_id": "12133",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1078,
+    "receive_customer_num": 1087,
     "total_coupon_num": 4000
   },
   "12547": {
@@ -1346,7 +1086,7 @@
     "brand_id": "12547",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 953,
+    "receive_customer_num": 957,
     "total_coupon_num": 4000
   },
   "11696": {
@@ -1356,7 +1096,7 @@
     "brand_id": "11696",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1110,
+    "receive_customer_num": 1114,
     "total_coupon_num": 4000
   },
   "11941": {
@@ -1366,7 +1106,7 @@
     "brand_id": "11941",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1026,
+    "receive_customer_num": 1032,
     "total_coupon_num": 4000
   },
   "16031": {
@@ -1376,7 +1116,7 @@
     "brand_id": "16031",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1087,
+    "receive_customer_num": 1097,
     "total_coupon_num": 4000
   },
   "12006": {
@@ -1386,7 +1126,7 @@
     "brand_id": "12006",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 949,
+    "receive_customer_num": 952,
     "total_coupon_num": 4000
   },
   "18256": {
@@ -1396,7 +1136,7 @@
     "brand_id": "18256",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1267,
+    "receive_customer_num": 1279,
     "total_coupon_num": 4000
   },
   "11681": {
@@ -1406,7 +1146,7 @@
     "brand_id": "11681",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 999,
+    "receive_customer_num": 1003,
     "total_coupon_num": 4000
   },
   "24911": {
@@ -1416,27 +1156,27 @@
     "brand_id": "24911",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1494,
+    "receive_customer_num": 1516,
     "total_coupon_num": 4000
   },
   "27312": {
-    "coupon_id": 45165,
-    "coupon_name": "15元和佳品牌商品券",
+    "coupon_id": 46081,
+    "coupon_name": "20元和佳品牌商品券",
     "brand_name": "HEGA(和佳)",
     "brand_id": "27312",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 922,
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0,
+    "receive_customer_num": 285,
     "total_coupon_num": 4000
   },
   "15464": {
-    "coupon_id": 45167,
-    "coupon_name": "15元陆特品牌商品券",
+    "coupon_id": 46082,
+    "coupon_name": "20元陆特品牌商品券",
     "brand_name": "LUTE(陆特)",
     "brand_id": "15464",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 1238,
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0,
+    "receive_customer_num": 296,
     "total_coupon_num": 4000
   },
   "11761": {
@@ -1446,7 +1186,7 @@
     "brand_id": "11761",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1189,
+    "receive_customer_num": 1198,
     "total_coupon_num": 4000
   },
   "15768": {
@@ -1456,7 +1196,7 @@
     "brand_id": "15768",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 925,
+    "receive_customer_num": 929,
     "total_coupon_num": 4000
   },
   "12113": {
@@ -1466,17 +1206,17 @@
     "brand_id": "12113",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1188,
+    "receive_customer_num": 1195,
     "total_coupon_num": 4000
   },
   "966": {
-    "coupon_id": 45175,
-    "coupon_name": "<品牌新人>15元国星光电品牌商品券",
+    "coupon_id": 46084,
+    "coupon_name": "<品牌新人>20元国星光电品牌商品券",
     "brand_name": "国星光电",
     "brand_id": "966",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 621,
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0,
+    "receive_customer_num": 145,
     "total_coupon_num": 4000
   },
   "24904": {
@@ -1486,17 +1226,17 @@
     "brand_id": "24904",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 909,
+    "receive_customer_num": 911,
     "total_coupon_num": 4000
   },
   "24412": {
-    "coupon_id": 45178,
-    "coupon_name": "15元晁禾品牌商品券",
+    "coupon_id": 46080,
+    "coupon_name": "20元晁禾品牌商品券",
     "brand_name": "CCX(晁禾)",
     "brand_id": "24412",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 949,
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0,
+    "receive_customer_num": 284,
     "total_coupon_num": 4000
   },
   "12099": {
@@ -1506,7 +1246,7 @@
     "brand_id": "12099",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 3464,
+    "receive_customer_num": 3608,
     "total_coupon_num": 4000
   },
   "11601": {
@@ -1516,7 +1256,7 @@
     "brand_id": "11601",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 968,
+    "receive_customer_num": 972,
     "total_coupon_num": 4000
   },
   "11694": {
@@ -1526,7 +1266,7 @@
     "brand_id": "11694",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1193,
+    "receive_customer_num": 1202,
     "total_coupon_num": 4000
   },
   "24427": {
@@ -1536,7 +1276,7 @@
     "brand_id": "24427",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 978,
+    "receive_customer_num": 984,
     "total_coupon_num": 4000
   },
   "15954": {
@@ -1546,7 +1286,7 @@
     "brand_id": "15954",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1196,
+    "receive_customer_num": 1203,
     "total_coupon_num": 4000
   },
   "12389": {
@@ -1556,7 +1296,7 @@
     "brand_id": "12389",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1601,
+    "receive_customer_num": 1627,
     "total_coupon_num": 4000
   },
   "11478": {
@@ -1566,7 +1306,7 @@
     "brand_id": "11478",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 649,
+    "receive_customer_num": 651,
     "total_coupon_num": 4000
   },
   "14041": {
@@ -1576,7 +1316,7 @@
     "brand_id": "14041",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1033,
+    "receive_customer_num": 1038,
     "total_coupon_num": 4000
   },
   "11743": {
@@ -1586,17 +1326,17 @@
     "brand_id": "11743",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1363,
+    "receive_customer_num": 1372,
     "total_coupon_num": 4000
   },
   "12131": {
-    "coupon_id": 45262,
-    "coupon_name": "<品牌新人>15元毫欧品牌商品券",
+    "coupon_id": 46039,
+    "coupon_name": "20元毫欧品牌商品券",
     "brand_name": "Milliohm(毫欧)",
     "brand_id": "12131",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 580,
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0,
+    "receive_customer_num": 300,
     "total_coupon_num": 4000
   },
   "1056": {
@@ -1606,7 +1346,7 @@
     "brand_id": "1056",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1052,
+    "receive_customer_num": 1061,
     "total_coupon_num": 4000
   },
   "11353": {
@@ -1616,7 +1356,7 @@
     "brand_id": "11353",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1363,
+    "receive_customer_num": 1375,
     "total_coupon_num": 4000
   },
   "18771": {
@@ -1626,7 +1366,7 @@
     "brand_id": "18771",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 674,
+    "receive_customer_num": 685,
     "total_coupon_num": 4000
   },
   "16268": {
@@ -1636,7 +1376,7 @@
     "brand_id": "16268",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 606,
+    "receive_customer_num": 609,
     "total_coupon_num": 4000
   },
   "16108": {
@@ -1646,7 +1386,7 @@
     "brand_id": "16108",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1246,
+    "receive_customer_num": 1263,
     "total_coupon_num": 4000
   },
   "11834": {
@@ -1656,7 +1396,7 @@
     "brand_id": "11834",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 940,
+    "receive_customer_num": 954,
     "total_coupon_num": 2000
   },
   "16607": {
@@ -1666,7 +1406,7 @@
     "brand_id": "16607",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1364,
+    "receive_customer_num": 1370,
     "total_coupon_num": 2000
   },
   "12245": {
@@ -1676,7 +1416,7 @@
     "brand_id": "12245",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2267,
+    "receive_customer_num": 2308,
     "total_coupon_num": 4000
   },
   "15277": {
@@ -1686,7 +1426,7 @@
     "brand_id": "15277",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2240,
+    "receive_customer_num": 2264,
     "total_coupon_num": 4000
   },
   "11647": {
@@ -1696,7 +1436,7 @@
     "brand_id": "11647",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1718,
+    "receive_customer_num": 1748,
     "total_coupon_num": 4000
   },
   "15548": {
@@ -1706,7 +1446,7 @@
     "brand_id": "15548",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1072,
+    "receive_customer_num": 1078,
     "total_coupon_num": 4000
   },
   "27277": {
@@ -1716,7 +1456,7 @@
     "brand_id": "27277",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 857,
+    "receive_customer_num": 862,
     "total_coupon_num": 4000
   },
   "15187": {
@@ -1726,7 +1466,7 @@
     "brand_id": "15187",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1182,
+    "receive_customer_num": 1194,
     "total_coupon_num": 4000
   },
   "15966": {
@@ -1736,7 +1476,7 @@
     "brand_id": "15966",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 874,
+    "receive_customer_num": 880,
     "total_coupon_num": 4000
   },
   "13181": {
@@ -1746,7 +1486,7 @@
     "brand_id": "13181",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 908,
+    "receive_customer_num": 915,
     "total_coupon_num": 4000
   },
   "15920": {
@@ -1756,7 +1496,7 @@
     "brand_id": "15920",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1280,
+    "receive_customer_num": 1291,
     "total_coupon_num": 4000
   },
   "12546": {
@@ -1766,7 +1506,7 @@
     "brand_id": "12546",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 958,
+    "receive_customer_num": 963,
     "total_coupon_num": 4000
   },
   "15863": {
@@ -1776,7 +1516,7 @@
     "brand_id": "15863",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 932,
+    "receive_customer_num": 937,
     "total_coupon_num": 4000
   },
   "11570": {
@@ -1786,7 +1526,7 @@
     "brand_id": "11570",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1234,
+    "receive_customer_num": 1250,
     "total_coupon_num": 4000
   },
   "12498": {
@@ -1796,7 +1536,7 @@
     "brand_id": "12498",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1148,
+    "receive_customer_num": 1153,
     "total_coupon_num": 4000
   },
   "12635": {
@@ -1806,7 +1546,7 @@
     "brand_id": "12635",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1175,
+    "receive_customer_num": 1187,
     "total_coupon_num": 4000
   },
   "13045": {
@@ -1816,7 +1556,7 @@
     "brand_id": "13045",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1372,
+    "receive_customer_num": 1405,
     "total_coupon_num": 4000
   },
   "14053": {
@@ -1826,7 +1566,7 @@
     "brand_id": "14053",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2277,
+    "receive_customer_num": 2301,
     "total_coupon_num": 4000
   },
   "12706": {
@@ -1836,7 +1576,7 @@
     "brand_id": "12706",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1315,
+    "receive_customer_num": 1324,
     "total_coupon_num": 4000
   },
   "15503": {
@@ -1846,7 +1586,7 @@
     "brand_id": "15503",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 553,
+    "receive_customer_num": 557,
     "total_coupon_num": 4000
   },
   "15462": {
@@ -1856,7 +1596,7 @@
     "brand_id": "15462",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 950,
+    "receive_customer_num": 954,
     "total_coupon_num": 4000
   },
   "12572": {
@@ -1866,7 +1606,7 @@
     "brand_id": "12572",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 924,
+    "receive_customer_num": 931,
     "total_coupon_num": 4000
   },
   "11597": {
@@ -1876,7 +1616,7 @@
     "brand_id": "11597",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1201,
+    "receive_customer_num": 1217,
     "total_coupon_num": 4000
   },
   "12761": {
@@ -1886,7 +1626,7 @@
     "brand_id": "12761",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 891,
+    "receive_customer_num": 894,
     "total_coupon_num": 4000
   },
   "11401": {
@@ -1896,17 +1636,17 @@
     "brand_id": "11401",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1241,
+    "receive_customer_num": 1259,
     "total_coupon_num": 3000
   },
   "11602": {
-    "coupon_id": 45400,
-    "coupon_name": "15元驰兴电感品牌商品券",
+    "coupon_id": 45984,
+    "coupon_name": "20元驰兴电感品牌商品券",
     "brand_name": "Coilank(驰兴电感)",
     "brand_id": "11602",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 1343,
+    "min_order_amount": 21.0,
+    "coupon_amount": 20.0,
+    "receive_customer_num": 300,
     "total_coupon_num": 4000
   },
   "12428": {
@@ -1916,7 +1656,7 @@
     "brand_id": "12428",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 950,
+    "receive_customer_num": 961,
     "total_coupon_num": 4000
   },
   "12139": {
@@ -1926,7 +1666,7 @@
     "brand_id": "12139",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 968,
+    "receive_customer_num": 975,
     "total_coupon_num": 4000
   },
   "12464": {
@@ -1936,7 +1676,7 @@
     "brand_id": "12464",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 880,
+    "receive_customer_num": 886,
     "total_coupon_num": 4000
   },
   "12241": {
@@ -1946,7 +1686,7 @@
     "brand_id": "12241",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2392,
+    "receive_customer_num": 2434,
     "total_coupon_num": 4000
   },
   "11939": {
@@ -1956,7 +1696,7 @@
     "brand_id": "11939",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 617,
+    "receive_customer_num": 623,
     "total_coupon_num": 4000
   },
   "12376": {
@@ -1966,7 +1706,7 @@
     "brand_id": "12376",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1369,
+    "receive_customer_num": 1386,
     "total_coupon_num": 4000
   },
   "947": {
@@ -1976,7 +1716,7 @@
     "brand_id": "947",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1497,
+    "receive_customer_num": 1519,
     "total_coupon_num": 4000
   },
   "12454": {
@@ -1986,7 +1726,7 @@
     "brand_id": "12454",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 874,
+    "receive_customer_num": 879,
     "total_coupon_num": 4000
   },
   "16239": {
@@ -1996,7 +1736,7 @@
     "brand_id": "16239",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1369,
+    "receive_customer_num": 1391,
     "total_coupon_num": 2000
   },
   "18591": {
@@ -2006,7 +1746,7 @@
     "brand_id": "18591",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 847,
+    "receive_customer_num": 851,
     "total_coupon_num": 4000
   },
   "25414": {
@@ -2016,7 +1756,7 @@
     "brand_id": "25414",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 974,
+    "receive_customer_num": 979,
     "total_coupon_num": 4000
   },
   "17201": {
@@ -2026,7 +1766,7 @@
     "brand_id": "17201",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 909,
+    "receive_customer_num": 918,
     "total_coupon_num": 4000
   },
   "18304": {
@@ -2036,7 +1776,7 @@
     "brand_id": "18304",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 602,
+    "receive_customer_num": 606,
     "total_coupon_num": 1000
   },
   "12351": {
@@ -2046,7 +1786,7 @@
     "brand_id": "12351",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 922,
+    "receive_customer_num": 926,
     "total_coupon_num": 4000
   },
   "11995": {
@@ -2056,7 +1796,7 @@
     "brand_id": "11995",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 988,
+    "receive_customer_num": 993,
     "total_coupon_num": 4000
   },
   "12574": {
@@ -2066,7 +1806,7 @@
     "brand_id": "12574",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 943,
+    "receive_customer_num": 946,
     "total_coupon_num": 4000
   },
   "13320": {
@@ -2076,7 +1816,7 @@
     "brand_id": "13320",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 936,
+    "receive_customer_num": 942,
     "total_coupon_num": 4000
   },
   "12507": {
@@ -2086,7 +1826,7 @@
     "brand_id": "12507",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 915,
+    "receive_customer_num": 924,
     "total_coupon_num": 4000
   },
   "16697": {
@@ -2096,7 +1836,7 @@
     "brand_id": "16697",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 651,
+    "receive_customer_num": 658,
     "total_coupon_num": 4000
   },
   "25059": {
@@ -2106,7 +1846,7 @@
     "brand_id": "25059",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 841,
+    "receive_customer_num": 846,
     "total_coupon_num": 4000
   },
   "12535": {
@@ -2116,7 +1856,7 @@
     "brand_id": "12535",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 597,
+    "receive_customer_num": 602,
     "total_coupon_num": 4000
   },
   "283": {
@@ -2126,7 +1866,7 @@
     "brand_id": "283",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 761,
+    "receive_customer_num": 768,
     "total_coupon_num": 1000
   },
   "12191": {
@@ -2136,7 +1876,7 @@
     "brand_id": "12191",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 551,
+    "receive_customer_num": 556,
     "total_coupon_num": 4000
   },
   "15742": {
@@ -2146,7 +1886,7 @@
     "brand_id": "15742",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 833,
+    "receive_customer_num": 837,
     "total_coupon_num": 4000
   },
   "27274": {
@@ -2156,7 +1896,7 @@
     "brand_id": "27274",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 866,
+    "receive_customer_num": 872,
     "total_coupon_num": 4000
   },
   "13047": {
@@ -2166,7 +1906,7 @@
     "brand_id": "13047",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1026,
+    "receive_customer_num": 1038,
     "total_coupon_num": 4000
   },
   "15271": {
@@ -2176,7 +1916,7 @@
     "brand_id": "15271",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1002,
+    "receive_customer_num": 1008,
     "total_coupon_num": 4000
   },
   "17129": {
@@ -2186,7 +1926,7 @@
     "brand_id": "17129",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 985,
+    "receive_customer_num": 997,
     "total_coupon_num": 4000
   },
   "13318": {
@@ -2196,7 +1936,7 @@
     "brand_id": "13318",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 623,
+    "receive_customer_num": 629,
     "total_coupon_num": 4000
   },
   "11948": {
@@ -2206,7 +1946,7 @@
     "brand_id": "11948",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 923,
+    "receive_customer_num": 935,
     "total_coupon_num": 4000
   },
   "12531": {
@@ -2216,7 +1956,7 @@
     "brand_id": "12531",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 901,
+    "receive_customer_num": 912,
     "total_coupon_num": 4000
   },
   "26727": {
@@ -2226,7 +1966,7 @@
     "brand_id": "26727",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 914,
+    "receive_customer_num": 922,
     "total_coupon_num": 4000
   },
   "12072": {
@@ -2236,7 +1976,7 @@
     "brand_id": "12072",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1272,
+    "receive_customer_num": 1289,
     "total_coupon_num": 4000
   },
   "1117": {
@@ -2246,7 +1986,7 @@
     "brand_id": "1117",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1232,
+    "receive_customer_num": 1244,
     "total_coupon_num": 4000
   },
   "16038": {
@@ -2256,7 +1996,7 @@
     "brand_id": "16038",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1032,
+    "receive_customer_num": 1041,
     "total_coupon_num": 4000
   },
   "15349": {
@@ -2266,7 +2006,7 @@
     "brand_id": "15349",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 948,
+    "receive_customer_num": 953,
     "total_coupon_num": 2000
   },
   "12581": {
@@ -2276,7 +2016,7 @@
     "brand_id": "12581",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 635,
+    "receive_customer_num": 639,
     "total_coupon_num": 4000
   },
   "11735": {
@@ -2286,7 +2026,7 @@
     "brand_id": "11735",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1030,
+    "receive_customer_num": 1049,
     "total_coupon_num": 4000
   },
   "15598": {
@@ -2296,7 +2036,7 @@
     "brand_id": "15598",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 824,
+    "receive_customer_num": 829,
     "total_coupon_num": 4000
   },
   "15732": {
@@ -2306,7 +2046,7 @@
     "brand_id": "15732",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 938,
+    "receive_customer_num": 943,
     "total_coupon_num": 4000
   },
   "18884": {
@@ -2316,7 +2056,7 @@
     "brand_id": "18884",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 828,
+    "receive_customer_num": 835,
     "total_coupon_num": 4000
   },
   "13168": {
@@ -2326,7 +2066,7 @@
     "brand_id": "13168",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1168,
+    "receive_customer_num": 1185,
     "total_coupon_num": 4000
   },
   "15617": {
@@ -2336,7 +2076,7 @@
     "brand_id": "15617",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 847,
+    "receive_customer_num": 856,
     "total_coupon_num": 4000
   },
   "23848": {
@@ -2346,7 +2086,7 @@
     "brand_id": "23848",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 930,
+    "receive_customer_num": 944,
     "total_coupon_num": 4000
   },
   "14032": {
@@ -2356,7 +2096,7 @@
     "brand_id": "14032",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 869,
+    "receive_customer_num": 878,
     "total_coupon_num": 4000
   },
   "18751": {
@@ -2366,7 +2106,7 @@
     "brand_id": "18751",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 864,
+    "receive_customer_num": 872,
     "total_coupon_num": 4000
   },
   "1250": {
@@ -2376,7 +2116,7 @@
     "brand_id": "1250",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1120,
+    "receive_customer_num": 1136,
     "total_coupon_num": 4000
   },
   "11549": {
@@ -2386,7 +2126,7 @@
     "brand_id": "11549",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 884,
+    "receive_customer_num": 890,
     "total_coupon_num": 3000
   },
   "15280": {
@@ -2396,7 +2136,7 @@
     "brand_id": "15280",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1515,
+    "receive_customer_num": 1535,
     "total_coupon_num": 4000
   },
   "11854": {
@@ -2406,7 +2146,7 @@
     "brand_id": "11854",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1018,
+    "receive_customer_num": 1027,
     "total_coupon_num": 4000
   },
   "12175": {
@@ -2416,7 +2156,7 @@
     "brand_id": "12175",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1272,
+    "receive_customer_num": 1281,
     "total_coupon_num": 4000
   },
   "12424": {
@@ -2426,7 +2166,7 @@
     "brand_id": "12424",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1070,
+    "receive_customer_num": 1081,
     "total_coupon_num": 4000
   },
   "11393": {
@@ -2436,7 +2176,7 @@
     "brand_id": "11393",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 583,
+    "receive_customer_num": 590,
     "total_coupon_num": 4000
   },
   "15538": {
@@ -2446,7 +2186,7 @@
     "brand_id": "15538",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1174,
+    "receive_customer_num": 1194,
     "total_coupon_num": 4000
   },
   "27055": {
@@ -2456,7 +2196,7 @@
     "brand_id": "27055",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 820,
+    "receive_customer_num": 825,
     "total_coupon_num": 4000
   },
   "1262": {
@@ -2466,7 +2206,7 @@
     "brand_id": "1262",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 572,
+    "receive_customer_num": 581,
     "total_coupon_num": 4000
   },
   "1186": {
@@ -2476,7 +2216,7 @@
     "brand_id": "1186",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 808,
+    "receive_customer_num": 814,
     "total_coupon_num": 4000
   },
   "11964": {
@@ -2486,7 +2226,7 @@
     "brand_id": "11964",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1420,
+    "receive_customer_num": 1442,
     "total_coupon_num": 4000
   },
   "14038": {
@@ -2496,7 +2236,7 @@
     "brand_id": "14038",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1456,
+    "receive_customer_num": 1472,
     "total_coupon_num": 4000
   },
   "12406": {
@@ -2506,7 +2246,7 @@
     "brand_id": "12406",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1616,
+    "receive_customer_num": 1632,
     "total_coupon_num": 4000
   },
   "18721": {
@@ -2516,7 +2256,7 @@
     "brand_id": "18721",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1221,
+    "receive_customer_num": 1234,
     "total_coupon_num": 4000
   },
   "15555": {
@@ -2526,7 +2266,7 @@
     "brand_id": "15555",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1032,
+    "receive_customer_num": 1040,
     "total_coupon_num": 4000
   },
   "18661": {
@@ -2536,7 +2276,7 @@
     "brand_id": "18661",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 886,
+    "receive_customer_num": 893,
     "total_coupon_num": 4000
   },
   "12343": {
@@ -2546,7 +2286,7 @@
     "brand_id": "12343",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 921,
+    "receive_customer_num": 922,
     "total_coupon_num": 4000
   },
   "11438": {
@@ -2556,7 +2296,7 @@
     "brand_id": "11438",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 671,
+    "receive_customer_num": 673,
     "total_coupon_num": 4000
   },
   "11439": {
@@ -2566,7 +2306,7 @@
     "brand_id": "11439",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1607,
+    "receive_customer_num": 1633,
     "total_coupon_num": 4000
   },
   "15355": {
@@ -2576,7 +2316,7 @@
     "brand_id": "15355",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 962,
+    "receive_customer_num": 968,
     "total_coupon_num": 4000
   },
   "11586": {
@@ -2586,7 +2326,7 @@
     "brand_id": "11586",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 877,
+    "receive_customer_num": 881,
     "total_coupon_num": 1000
   },
   "18565": {
@@ -2596,7 +2336,7 @@
     "brand_id": "18565",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 875,
+    "receive_customer_num": 881,
     "total_coupon_num": 4000
   },
   "15459": {
@@ -2606,7 +2346,7 @@
     "brand_id": "15459",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1011,
+    "receive_customer_num": 1018,
     "total_coupon_num": 4000
   },
   "349": {
@@ -2616,7 +2356,7 @@
     "brand_id": "349",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1329,
+    "receive_customer_num": 1349,
     "total_coupon_num": 4000
   },
   "16624": {
@@ -2626,7 +2366,7 @@
     "brand_id": "16624",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1257,
+    "receive_customer_num": 1270,
     "total_coupon_num": 4000
   },
   "18832": {
@@ -2636,7 +2376,7 @@
     "brand_id": "18832",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 945,
+    "receive_customer_num": 948,
     "total_coupon_num": 4000
   },
   "15466": {
@@ -2646,7 +2386,7 @@
     "brand_id": "15466",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 623,
+    "receive_customer_num": 628,
     "total_coupon_num": 2000
   },
   "25051": {
@@ -2656,7 +2396,7 @@
     "brand_id": "25051",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1079,
+    "receive_customer_num": 1097,
     "total_coupon_num": 4000
   },
   "15340": {
@@ -2666,7 +2406,7 @@
     "brand_id": "15340",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1695,
+    "receive_customer_num": 1722,
     "total_coupon_num": 4000
   },
   "11965": {
@@ -2676,7 +2416,7 @@
     "brand_id": "11965",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 991,
+    "receive_customer_num": 1001,
     "total_coupon_num": 4000
   },
   "13052": {
@@ -2686,7 +2426,7 @@
     "brand_id": "13052",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1199,
+    "receive_customer_num": 1211,
     "total_coupon_num": 4000
   },
   "11880": {
@@ -2696,7 +2436,7 @@
     "brand_id": "11880",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 971,
+    "receive_customer_num": 975,
     "total_coupon_num": 4000
   },
   "12667": {
@@ -2706,7 +2446,7 @@
     "brand_id": "12667",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2358,
+    "receive_customer_num": 2391,
     "total_coupon_num": 4000
   },
   "17208": {
@@ -2716,7 +2456,7 @@
     "brand_id": "17208",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1028,
+    "receive_customer_num": 1034,
     "total_coupon_num": 4000
   },
   "13712": {
@@ -2726,7 +2466,7 @@
     "brand_id": "13712",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 595,
+    "receive_customer_num": 597,
     "total_coupon_num": 4000
   },
   "17425": {
@@ -2736,7 +2476,7 @@
     "brand_id": "17425",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1113,
+    "receive_customer_num": 1119,
     "total_coupon_num": 4000
   },
   "1218": {
@@ -2746,7 +2486,7 @@
     "brand_id": "1218",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 985,
+    "receive_customer_num": 992,
     "total_coupon_num": 4000
   },
   "12518": {
@@ -2756,7 +2496,7 @@
     "brand_id": "12518",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 888,
+    "receive_customer_num": 890,
     "total_coupon_num": 4000
   },
   "12247": {
@@ -2766,17 +2506,17 @@
     "brand_id": "12247",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 952,
+    "receive_customer_num": 958,
     "total_coupon_num": 4000
   },
   "16094": {
-    "coupon_id": 45650,
-    "coupon_name": "<品牌新人>15元拓电半导体品牌商品券",
+    "coupon_id": 66269,
+    "coupon_name": "10元拓电半导体品牌商品券",
     "brand_name": "TDSEMIC(拓电半导体)",
     "brand_id": "16094",
-    "min_order_amount": 16.0,
-    "coupon_amount": 15.0,
-    "receive_customer_num": 592,
+    "min_order_amount": 11.0,
+    "coupon_amount": 10.0,
+    "receive_customer_num": 300,
     "total_coupon_num": 4000
   },
   "11853": {
@@ -2786,7 +2526,7 @@
     "brand_id": "11853",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2762,
+    "receive_customer_num": 2811,
     "total_coupon_num": 4000
   },
   "15584": {
@@ -2796,7 +2536,7 @@
     "brand_id": "15584",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1676,
+    "receive_customer_num": 1691,
     "total_coupon_num": 4000
   },
   "11758": {
@@ -2806,7 +2546,7 @@
     "brand_id": "11758",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1027,
+    "receive_customer_num": 1035,
     "total_coupon_num": 4000
   },
   "12130": {
@@ -2816,7 +2556,7 @@
     "brand_id": "12130",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 2109,
+    "receive_customer_num": 2152,
     "total_coupon_num": 4000
   },
   "17409": {
@@ -2826,7 +2566,277 @@
     "brand_id": "17409",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 1420,
+    "receive_customer_num": 1425,
+    "total_coupon_num": 4000
+  },
+  "1181": {
+    "coupon_id": 45665,
+    "coupon_name": "15元雅晶鑫品牌指定类目商品券",
+    "brand_name": "YJX(雅晶鑫)",
+    "brand_id": "1181",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 1310,
+    "total_coupon_num": 4000
+  },
+  "12165": {
+    "coupon_id": 45667,
+    "coupon_name": "15元元迪品牌商品券",
+    "brand_name": "Yuandi(元迪)",
+    "brand_id": "12165",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 1046,
+    "total_coupon_num": 4000
+  },
+  "12475": {
+    "coupon_id": 45669,
+    "coupon_name": "15元增益品牌商品券",
+    "brand_name": "ZE(增益)",
+    "brand_id": "12475",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 1529,
+    "total_coupon_num": 4000
+  },
+  "13493": {
+    "coupon_id": 45671,
+    "coupon_name": "15元正芯品牌商品券",
+    "brand_name": "Zhengxin(正芯)",
+    "brand_id": "13493",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 1481,
+    "total_coupon_num": 4000
+  },
+  "13447": {
+    "coupon_id": 45674,
+    "coupon_name": "15元康深品牌商品券",
+    "brand_name": "康深",
+    "brand_id": "13447",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 906,
+    "total_coupon_num": 4000
+  },
+  "15372": {
+    "coupon_id": 45675,
+    "coupon_name": "15元勤本品牌指定类目商品券",
+    "brand_name": "CHIN-BAN(勤本)",
+    "brand_id": "15372",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 894,
+    "total_coupon_num": 3000
+  },
+  "16599": {
+    "coupon_id": 45676,
+    "coupon_name": "15元线易品牌商品券",
+    "brand_name": "coileasy(线易)",
+    "brand_id": "16599",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 888,
+    "total_coupon_num": 4000
+  },
+  "27484": {
+    "coupon_id": 45677,
+    "coupon_name": "15元元精技术品牌商品券",
+    "brand_name": "CPT(元精技术)",
+    "brand_id": "27484",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 852,
+    "total_coupon_num": 4000
+  },
+  "15481": {
+    "coupon_id": 45678,
+    "coupon_name": "15元华龙品牌商品券",
+    "brand_name": "Dragonstate(华龙)",
+    "brand_id": "15481",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 997,
+    "total_coupon_num": 4000
+  },
+  "13455": {
+    "coupon_id": 45679,
+    "coupon_name": "15元恒连品牌商品券",
+    "brand_name": "EVERCOM(恒连)",
+    "brand_id": "13455",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 862,
+    "total_coupon_num": 4000
+  },
+  "16251": {
+    "coupon_id": 45680,
+    "coupon_name": "<品牌新人>15元毅芯达品牌商品券",
+    "brand_name": "Existar(毅芯达)",
+    "brand_id": "16251",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 586,
+    "total_coupon_num": 4000
+  },
+  "15272": {
+    "coupon_id": 45681,
+    "coupon_name": "15元福芯微品牌商品券",
+    "brand_name": "Forsinve(福芯微)",
+    "brand_id": "15272",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 861,
+    "total_coupon_num": 4000
+  },
+  "11866": {
+    "coupon_id": 45682,
+    "coupon_name": "15元汇智品牌商品券",
+    "brand_name": "GDHUIZHI(汇智)",
+    "brand_id": "11866",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 858,
+    "total_coupon_num": 4000
+  },
+  "12515": {
+    "coupon_id": 45684,
+    "coupon_name": "15元霍尔微电子品牌商品券",
+    "brand_name": "Hallwee(霍尔微电子)",
+    "brand_id": "12515",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 890,
+    "total_coupon_num": 4000
+  },
+  "12303": {
+    "coupon_id": 45685,
+    "coupon_name": "<品牌新人>15元浩都频率品牌商品券",
+    "brand_name": "HD(浩都频率)",
+    "brand_id": "12303",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 571,
+    "total_coupon_num": 4000
+  },
+  "11741": {
+    "coupon_id": 45686,
+    "coupon_name": "<品牌新人>15元智芯品牌商品券",
+    "brand_name": "Hichips(智芯)",
+    "brand_id": "11741",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 613,
+    "total_coupon_num": 4000
+  },
+  "11537": {
+    "coupon_id": 45687,
+    "coupon_name": "<品牌新人>15元赢海品牌商品券",
+    "brand_name": "INGHAi(赢海)",
+    "brand_id": "11537",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 581,
+    "total_coupon_num": 4000
+  },
+  "13495": {
+    "coupon_id": 45688,
+    "coupon_name": "15元伽盛品牌商品券",
+    "brand_name": "JARSON(伽盛)",
+    "brand_id": "13495",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 847,
+    "total_coupon_num": 4000
+  },
+  "11914": {
+    "coupon_id": 45690,
+    "coupon_name": "<品牌新人>15元科信品牌商品券",
+    "brand_name": "KEXIN(科信)",
+    "brand_id": "11914",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 586,
+    "total_coupon_num": 4000
+  },
+  "15257": {
+    "coupon_id": 45691,
+    "coupon_name": "<品牌新人>15元蓝晶品牌商品券",
+    "brand_name": "Lucki(蓝晶)",
+    "brand_id": "15257",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 513,
+    "total_coupon_num": 4000
+  },
+  "25382": {
+    "coupon_id": 45692,
+    "coupon_name": "15元中晶微品牌商品券",
+    "brand_name": "MDM(中晶微)",
+    "brand_id": "25382",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 865,
+    "total_coupon_num": 4000
+  },
+  "25186": {
+    "coupon_id": 45696,
+    "coupon_name": "15元高钺达品牌商品券",
+    "brand_name": "SHETIME(高钺达)",
+    "brand_id": "25186",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 913,
+    "total_coupon_num": 4000
+  },
+  "12685": {
+    "coupon_id": 45697,
+    "coupon_name": "15元索瑞达品牌商品券",
+    "brand_name": "SOREDE(索瑞达)",
+    "brand_id": "12685",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 986,
+    "total_coupon_num": 4000
+  },
+  "12586": {
+    "coupon_id": 45698,
+    "coupon_name": "15元斯瑞特品牌商品券",
+    "brand_name": "SRT(斯瑞特)",
+    "brand_id": "12586",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 842,
+    "total_coupon_num": 4000
+  },
+  "12028": {
+    "coupon_id": 45699,
+    "coupon_name": "<品牌新人>15元韩国星炆电子品牌商品券",
+    "brand_name": "SUNGMUN(韩国星炆电子)",
+    "brand_id": "12028",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 628,
+    "total_coupon_num": 4000
+  },
+  "11999": {
+    "coupon_id": 45700,
+    "coupon_name": "15元宇力半导体品牌商品券",
+    "brand_name": "UNI-SEMIC(宇力半导体)",
+    "brand_id": "11999",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 973,
+    "total_coupon_num": 4000
+  },
+  "851": {
+    "coupon_id": 45989,
+    "coupon_name": "15元容强品牌商品券",
+    "brand_name": "ROQANG(容强)",
+    "brand_id": "851",
+    "min_order_amount": 16.0,
+    "coupon_amount": 15.0,
+    "receive_customer_num": 276,
     "total_coupon_num": 4000
   },
   "17310": {
@@ -2836,7 +2846,7 @@
     "brand_id": "17310",
     "min_order_amount": 21.0,
     "coupon_amount": 20.0,
-    "receive_customer_num": 169,
+    "receive_customer_num": 197,
     "total_coupon_num": 1000
   },
   "12388": {
@@ -2846,7 +2856,7 @@
     "brand_id": "12388",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 706,
+    "receive_customer_num": 712,
     "total_coupon_num": 1000
   },
   "11962": {
@@ -2856,7 +2866,7 @@
     "brand_id": "11962",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 697,
+    "receive_customer_num": 705,
     "total_coupon_num": 1000
   },
   "15964": {
@@ -2866,7 +2876,7 @@
     "brand_id": "15964",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 882,
+    "receive_customer_num": 895,
     "total_coupon_num": 2000
   },
   "18649": {
@@ -2876,7 +2886,7 @@
     "brand_id": "18649",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 971,
+    "receive_customer_num": 986,
     "total_coupon_num": 2000
   },
   "18367": {
@@ -2886,7 +2896,7 @@
     "brand_id": "18367",
     "min_order_amount": 16.0,
     "coupon_amount": 15.0,
-    "receive_customer_num": 854,
+    "receive_customer_num": 865,
     "total_coupon_num": 2000
   },
   "15210": {
@@ -2896,7 +2906,7 @@
     "brand_id": "15210",
     "min_order_amount": 11.0,
     "coupon_amount": 10.0,
-    "receive_customer_num": 584,
+    "receive_customer_num": 591,
     "total_coupon_num": 1000
   },
   "12474": {
@@ -2906,7 +2916,7 @@
     "brand_id": "12474",
     "min_order_amount": 10.0,
     "coupon_amount": 9.0,
-    "receive_customer_num": 555,
+    "receive_customer_num": 560,
     "total_coupon_num": 1000
   },
   "11721": {
@@ -2916,7 +2926,7 @@
     "brand_id": "11721",
     "min_order_amount": 10.0,
     "coupon_amount": 9.0,
-    "receive_customer_num": 549,
+    "receive_customer_num": 557,
     "total_coupon_num": 1000
   },
   "18656": {
@@ -2926,7 +2936,7 @@
     "brand_id": "18656",
     "min_order_amount": 10.0,
     "coupon_amount": 9.0,
-    "receive_customer_num": 648,
+    "receive_customer_num": 656,
     "total_coupon_num": 2000
   }
 }
